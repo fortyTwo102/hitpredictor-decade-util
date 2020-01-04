@@ -1,0 +1,17 @@
+Fetching ['Rock Around The Clock', 'Bill Haley & His Comets', 'spotify:track:34AmZ4PMz9iNZVp9AMIGZj'] ....Fetched!
+['Rock Around The Clock', 'Bill Haley & His Comets', 'spotify:track:34AmZ4PMz9iNZVp9AMIGZj', 0.609, 0.526, 9, -13.106, 1, 0.43, 0.139, 0, 0.0946, 0.93, 173.179, 137000, 4, 27.72122, 8]
+161
+Fetching ['Across The Great Divide - Remastered 2000', 'The Band', 'spotify:track:35Myb6spNkKlRsZQcm95mP'] ....Fetched!
+['Across The Great Divide - Remastered 2000', 'The Band', 'spotify:track:35Myb6spNkKlRsZQcm95mP', 0.723, 0.486, 7, -10.101, 1, 0.0551, 0.331, 0.00326, 0.281, 0.716, 110.834, 173560, 4, 41.50879, 9]
+174
+Fetching ['Telstar', 'The Tornados', 'spotify:track:2rtaHm5SkgFzVa5Gr8oTW6'] ....Fetched!
+['Telstar', 'The Tornados', 'spotify:track:2rtaHm5SkgFzVa5Gr8oTW6', 0.196, 0.751, 9, -7.39, 1, 0.0405, 0.00252, 0.667, 0.378, 0.629, 145.719, 195093, 4, 22.97376, 9]
+142
+Fetching ['Killing Floor', 'Kaleidoscope', 'spotify:track:1hOPXfvRZS9AgBP03q4yGh'] ....Fetched!
+['Killing Floor', 'Kaleidoscope', 'spotify:track:1hOPXfvRZS9AgBP03q4yGh', 0.652, 0.869, 2, -7.209, 1, 0.0501, 0.00742, 0.131, 0.101, 0.83, 121.486, 164613, 4, 50.9541, 8]
+147
+Fetching ['We Love You - Single Version/Mono', 'The Rolling Stones', 'spotify:track:5dDPFVD26G55XYYaKIexRS'] ....Fetched!
+['We Love You - Single Version/Mono', 'The Rolling Stones', 'spotify:track:5dDPFVD26G55XYYaKIexRS', 0.265, 0.78, 4, -6.959, 1, 0.0392, 0.00254, 0.134, 0.319, 0.477, 112.482, 276960, 4, 45.04242, 11]
+175
+Fetching ['When Something Is Wrong with My Baby', 'Sam & Dave', 'spotify:track:056rtilqF4cqLOgDQGqYqv'] ....Fetched!
+['When Something Is Wrong with My Baby', 'Sam & Dave', 'spotify:track:056rtilqF4cqLOgDQGqYqv', 0.376, 0.477, 1, -5.661, 1, 0.0304, 0.148, 0.000425, 0.0384, 0.347, 138.923, 194107, 3, 47.25508, 9]

@@ -1,0 +1,9 @@
+167
+Fetching ['Hit And Run', 'The Bar-Kays', 'spotify:track:68oL33xGl9GsUhDSTCXCrD'] ....Fetched!
+['Hit And Run', 'The Bar-Kays', 'spotify:track:68oL33xGl9GsUhDSTCXCrD', 0.845, 0.44, 4, -10.219, 0, 0.0328, 0.31, 3.7e-06, 0.0431, 0.968, 112.43, 230667, 4, 47.45407, 12]
+147
+Fetching ['Piece Of My Heart', 'Janis Joplin', 'spotify:track:1eujVQsT9v7ZTtvAkTEdZr'] ....Fetched!
+['Piece Of My Heart', 'Janis Joplin', 'spotify:track:1eujVQsT9v7ZTtvAkTEdZr', 0.429, 0.665, 4, -9.681, 1, 0.14, 0.406, 0.00011, 0.409, 0.543, 160.499, 266240, 4, 34.43522, 8]
+151
+Fetching ["L'ÃÂÃÂÃÂÃÂ¢me des poÃÂÃÂÃÂÃÂ¨tes", 'Charles Trenet', 'spotify:track:67FiwcIh6TyjgA6Ji1LJf4'] ....Fetched!
+["L'ÃÂÃÂÃÂÃÂ¢me des poÃÂÃÂÃÂÃÂ¨tes", 'Charles Trenet', 'spotify:track:67FiwcIh6TyjgA6Ji1LJf4', 0.455, 0.155, 5, -15.213, 1, 0.0335, 0.983, 0.0235, 0.0952, 0.468, 98.891, 164400, 4, 83.54247, 6]

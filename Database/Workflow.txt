@@ -1,0 +1,13 @@
+1. Fetched the billboard songs decade wise
+2. Removed repeated tracks
+3. Fetched their details
+4. Made playlists for flop/failed songs
+5. Fetched them without repetition
+6. Made a counter script to keep track of Hit/Flop ratio
+7. Remove repetitions
+8. Remove accidental hit songs in failed ones
+8. Remove remastered ones 
+9. Fetch failed song details
+10. Fetch the unfound ones.
+11. Remove the unfound ones.
+10. Final decade dataset

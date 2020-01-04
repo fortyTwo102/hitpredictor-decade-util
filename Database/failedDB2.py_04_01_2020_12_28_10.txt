@@ -1,0 +1,48 @@
+Fetching ['Rock Around The Clock', 'Bill Haley & His Comets', 'spotify:track:34AmZ4PMz9iNZVp9AMIGZj'] ....Fetched!
+['Rock Around The Clock', 'Bill Haley & His Comets', 'spotify:track:34AmZ4PMz9iNZVp9AMIGZj', 0.609, 0.526, 9, -13.106, 1, 0.43, 0.139, 0, 0.0946, 0.93, 173.179, 137000, 4, 27.72122, 8]
+161
+Fetching ['Across The Great Divide - Remastered 2000', 'The Band', 'spotify:track:35Myb6spNkKlRsZQcm95mP'] ....Fetched!
+['Across The Great Divide - Remastered 2000', 'The Band', 'spotify:track:35Myb6spNkKlRsZQcm95mP', 0.723, 0.486, 7, -10.101, 1, 0.0551, 0.331, 0.00326, 0.281, 0.716, 110.834, 173560, 4, 41.50879, 9]
+174
+Fetching ['Telstar', 'The Tornados', 'spotify:track:2rtaHm5SkgFzVa5Gr8oTW6'] ....Fetched!
+['Telstar', 'The Tornados', 'spotify:track:2rtaHm5SkgFzVa5Gr8oTW6', 0.196, 0.751, 9, -7.39, 1, 0.0405, 0.00252, 0.667, 0.378, 0.629, 145.719, 195093, 4, 22.97376, 9]
+142
+Fetching ['Killing Floor', 'Kaleidoscope', 'spotify:track:1hOPXfvRZS9AgBP03q4yGh'] ....Fetched!
+['Killing Floor', 'Kaleidoscope', 'spotify:track:1hOPXfvRZS9AgBP03q4yGh', 0.652, 0.869, 2, -7.209, 1, 0.0501, 0.00742, 0.131, 0.101, 0.83, 121.486, 164613, 4, 50.9541, 8]
+147
+Fetching ['We Love You - Single Version/Mono', 'The Rolling Stones', 'spotify:track:5dDPFVD26G55XYYaKIexRS'] ....Fetched!
+['We Love You - Single Version/Mono', 'The Rolling Stones', 'spotify:track:5dDPFVD26G55XYYaKIexRS', 0.265, 0.78, 4, -6.959, 1, 0.0392, 0.00254, 0.134, 0.319, 0.477, 112.482, 276960, 4, 45.04242, 11]
+175
+Fetching ['When Something Is Wrong with My Baby', 'Sam & Dave', 'spotify:track:056rtilqF4cqLOgDQGqYqv'] ....Fetched!
+['When Something Is Wrong with My Baby', 'Sam & Dave', 'spotify:track:056rtilqF4cqLOgDQGqYqv', 0.376, 0.477, 1, -5.661, 1, 0.0304, 0.148, 0.000425, 0.0384, 0.347, 138.923, 194107, 3, 47.25508, 9]
+172
+Fetching ["You'll Come Back Again", 'The Easybeats', 'spotify:track:49UOIOzzfrGjgOXp2lhkYA'] ....Fetched!
+["You'll Come Back Again", 'The Easybeats', 'spotify:track:49UOIOzzfrGjgOXp2lhkYA', 0.685, 0.55, 4, -10.544, 1, 0.0318, 0.144, 0, 0.112, 0.884, 108.976, 114467, 4, 23.76486, 8]
+153
+Fetching ['A Summer Place', 'Andy Williams', 'spotify:track:71kwIDWJ0xClRjxvIey6D0'] ....Fetched!
+['A Summer Place', 'Andy Williams', 'spotify:track:71kwIDWJ0xClRjxvIey6D0', 0.39, 0.239, 7, -15.452, 0, 0.0274, 0.854, 1.27e-06, 0.0565, 0.472, 90.387, 154867, 3, 31.08456, 9]
+152
+Fetching ['Triad', 'The Byrds', 'spotify:track:7zoiA8mBoaiiYTkzUGtkIe'] ....Fetched!
+['Triad', 'The Byrds', 'spotify:track:7zoiA8mBoaiiYTkzUGtkIe', 0.55, 0.428, 2, -9.981, 1, 0.0271, 0.756, 3.62e-05, 0.127, 0.433, 94.181, 211933, 4, 30.36957, 14]
+138
+Fetching ['Kicks', 'Lou Reed', 'spotify:track:1oD6UVuuUJ6CSQhdjcHHED'] ....Fetched!
+['Kicks', 'Lou Reed', 'spotify:track:1oD6UVuuUJ6CSQhdjcHHED', 0.565, 0.718, 9, -8.91, 1, 0.0465, 0.18, 0, 0.358, 0.616, 107.388, 361720, 4, 52.17178, 16]
+130
+Fetching ['Do It Again', 'Terry Callier', 'spotify:track:1jyZAbljkwNi9VKqoFmI22'] ....Fetched!
+['Do It Again', 'Terry Callier', 'spotify:track:1jyZAbljkwNi9VKqoFmI22', 0.732, 0.645, 0, -10.429, 1, 0.0329, 0.136, 0.00359, 0.247, 0.977, 126.067, 293213, 4, 31.99761, 17]
+150
+Fetching ['Touch of Grey - 2013 Remaster', 'Grateful Dead', 'spotify:track:0mJQlCl9YgxW7kyeltNiVk'] ....Fetched!
+['Touch of Grey - 2013 Remaster', 'Grateful Dead', 'spotify:track:0mJQlCl9YgxW7kyeltNiVk', 0.612, 0.696, 11, -11.34, 1, 0.0353, 0.0785, 9.4e-06, 0.14, 0.849, 159.829, 350862, 4, 18.02389, 14]
+168
+Fetching ['Mexican Radio', 'Wall Of Voodoo', 'spotify:track:7dOZxMY4U4YZ3eFwOTABXK'] ....Fetched!
+['Mexican Radio', 'Wall Of Voodoo', 'spotify:track:7dOZxMY4U4YZ3eFwOTABXK', 0.497, 0.704, 0, -12.056, 1, 0.0346, 0.0133, 0.000394, 0.371, 0.582, 164.679, 251067, 4, 34.60599, 11]
+155
+Fetching ['Manic Monday - Extended Remix', 'The Bangles', 'spotify:track:3JWumPw9b9Y9H0F0ox8KXM'] ....Fetched!
+['Manic Monday - Extended Remix', 'The Bangles', 'spotify:track:3JWumPw9b9Y9H0F0ox8KXM', 0.658, 0.605, 2, -9.923, 1, 0.0312, 0.371, 1.17e-05, 0.365, 0.757, 122.029, 277920, 4, 117.38844, 9]
+166
+Fetching ['Yaya', 'Ron Rogers', 'spotify:track:276XCIujSoTRoYFPbHD7SR'] ....Fetched!
+['Yaya', 'Ron Rogers', 'spotify:track:276XCIujSoTRoYFPbHD7SR', 0.647, 0.691, 3, -7.518, 1, 0.0532, 0.346, 0.0032, 0.0601, 0.266, 100.095, 232004, 4, 21.05263, 11]
+139
+Fetching ['Coming to You Live', 'Charles Earland', 'spotify:track:0fe8ABoiVGgW0OUxzJWmNb'] ....Error in fetching spotify:track:0fe8ABoiVGgW0OUxzJWmNb
+Fetched!
+['Coming to You Live', 'Charles Earland', 'spotify:track:0fe8ABoiVGgW0OUxzJWmNb', 0.679, 0.841, 10, -8.455, 0, 0.0507, 0.102, 0.0246, 0.413, 0.96, 114.593, 375027, 4]

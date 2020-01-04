@@ -1,0 +1,1416 @@
+Fetching ['Cherchez Pas', 'Madleen Kane', 'spotify:track:6O4wR4y8yWu9acS5sJJcVN'] ....Fetched!
+['Cherchez Pas', 'Madleen Kane', 'spotify:track:6O4wR4y8yWu9acS5sJJcVN', 0.827, 0.874, 2, -9.053, 0, 0.0409, 0.32, 0.0666, 0.0643, 0.962, 121.129, 352400, 4, 42.71659, 14]
+148
+Fetching ['Come And Get These Memories - Single Version / Mono', 'Martha Reeves & The Vandellas', 'spotify:track:786o2JYufcSlMb6LnFYGJg'] ....Fetched!
+['Come And Get These Memories - Single Version / Mono', 'Martha Reeves & The Vandellas', 'spotify:track:786o2JYufcSlMb6LnFYGJg', 0.528, 0.774, 3, -3.785, 1, 0.0434, 0.386, 0, 0.332, 0.875, 126.948, 145800, 4, 33.51921, 7]
+198
+Fetching ['Send Me on My Way', 'Rusted Root', 'spotify:track:6hs3SDnbO3f6VQuPO4KBEb'] ....Fetched!
+['Send Me on My Way', 'Rusted Root', 'spotify:track:6hs3SDnbO3f6VQuPO4KBEb', 0.5, 0.681, 0, -9.556, 1, 0.0672, 0.114, 4.01e-05, 0.139, 0.745, 119.46, 263333, 4, 34.15944, 14]
+151
+Fetching ['Trouble In Paradise', 'Johnny Maestro', 'spotify:track:2i8XBhDLXf1MgmUPIPy9Dk'] ....Fetched!
+['Trouble In Paradise', 'Johnny Maestro', 'spotify:track:2i8XBhDLXf1MgmUPIPy9Dk', 0.399, 0.603, 10, -6.777, 1, 0.0474, 0.798, 0, 0.178, 0.888, 169.229, 146480, 4, 36.0706, 9]
+151
+Fetching ['3 Strange Days', 'School Of Fish', 'spotify:track:2Zd1hLu5AswuxE7xAYLvc9'] ....Fetched!
+['3 Strange Days', 'School Of Fish', 'spotify:track:2Zd1hLu5AswuxE7xAYLvc9', 0.518, 0.619, 3, -9.833, 1, 0.0294, 0.000484, 0.00141, 0.631, 0.46, 102.202, 312355, 4, 37.39908, 12]
+155
+Fetching ['Images', 'The Freeborne', 'spotify:track:5jWsTOFel1SeifrWFd5yLH'] ....Fetched!
+['Images', 'The Freeborne', 'spotify:track:5jWsTOFel1SeifrWFd5yLH', 0.336, 0.486, 0, -11.583, 1, 0.0279, 0.6, 0.646, 0.081, 0.748, 107.888, 217467, 4, 42.05475, 10]
+141
+Fetching ['Night Goat', 'Melvins', 'spotify:track:5JSk2ijn31XVo0x0wHyWTc'] ....Fetched!
+['Night Goat', 'Melvins', 'spotify:track:5JSk2ijn31XVo0x0wHyWTc', 0.462, 0.884, 10, -8.888, 1, 0.0364, 0.00327, 0.735, 0.125, 0.247, 141.197, 281067, 4, 80.17474, 13]
+143
+Fetching ['All Night Dancing', 'Lipps Inc.', 'spotify:track:7JoQNca1poCUQQAmuLSwO2'] ....Fetched!
+['All Night Dancing', 'Lipps Inc.', 'spotify:track:7JoQNca1poCUQQAmuLSwO2', 0.825, 0.477, 0, -14.106, 1, 0.0504, 0.000179, 0.0166, 0.313, 0.828, 124.339, 500133, 4, 47.54817, 16]
+155
+Fetching ['Here Comes The Sun - Extended Version', "Fat Larry's Band", 'spotify:track:4c8JZipTtVYMoAG35Unxs6'] ....Fetched!
+['Here Comes The Sun - Extended Version', "Fat Larry's Band", 'spotify:track:4c8JZipTtVYMoAG35Unxs6', 0.821, 0.545, 9, -12.531, 0, 0.104, 0.00303, 2.86e-05, 0.0722, 0.623, 123.28, 322840, 4, 30.02393, 13]
+181
+Fetching ['Such a Shame - Extended Mix', 'Talk Talk', 'spotify:track:638KU4ArLcLwIBgGb7MVIa'] ....Fetched!
+['Such a Shame - Extended Mix', 'Talk Talk', 'spotify:track:638KU4ArLcLwIBgGb7MVIa', 0.671, 0.933, 2, -4.39, 1, 0.0523, 0.038, 0.158, 0.478, 0.704, 115.245, 420000, 4, 31.53804, 15]
+158
+Fetching ['Too Bad', 'The Bad Roads', 'spotify:track:2D3EyUGYsdvV7mcREEc5J7'] ....Fetched!
+['Too Bad', 'The Bad Roads', 'spotify:track:2D3EyUGYsdvV7mcREEc5J7', 0.46, 0.528, 2, -7.1, 1, 0.042, 0.00831, 0, 0.0285, 0.552, 131.541, 144093, 4, 79.57151, 6]
+137
+Fetching ['No 1/2 Steppin', 'Shanice', 'spotify:track:2k9Zv2L4kq2yq0wT2Yxoy5'] ....Fetched!
+['No 1/2 Steppin', 'Shanice', 'spotify:track:2k9Zv2L4kq2yq0wT2Yxoy5', 0.79, 0.874, 1, -7.06, 1, 0.0935, 0.02, 0.000381, 0.0226, 0.682, 114.874, 296333, 4, 72.07546, 11]
+145
+Fetching ['Santeria', 'Sublime', 'spotify:track:6cJqlSO19vsfCsH1FeFI35'] ....Fetched!
+['Santeria', 'Sublime', 'spotify:track:6cJqlSO19vsfCsH1FeFI35', 0.673, 0.772, 1, -5.246, 0, 0.0427, 0.0223, 1.23e-06, 0.141, 0.585, 90.356, 183200, 4, 37.18841, 7]
+140
+Fetching ['Out of Hand - Extended Version', 'The Mighty Lemon Drops', 'spotify:track:4w05QDY5c3KnoFoiuUFhf3'] ....Fetched!
+['Out of Hand - Extended Version', 'The Mighty Lemon Drops', 'spotify:track:4w05QDY5c3KnoFoiuUFhf3', 0.596, 0.853, 9, -10.233, 1, 0.0297, 0.00163, 8.28e-05, 0.293, 0.739, 114.845, 327733, 4, 34.18132, 17]
+181
+Fetching ['Villains', 'The Verve Pipe', 'spotify:track:2DiRWzu2wnN8se8OvjjuXW'] ....Fetched!
+['Villains', 'The Verve Pipe', 'spotify:track:2DiRWzu2wnN8se8OvjjuXW', 0.503, 0.682, 9, -8.031, 1, 0.0381, 0.00111, 0.108, 0.118, 0.0989, 100.025, 282400, 4, 53.57555, 7]
+147
+Fetching ['Private Party', 'Wally Jump Jr.', 'spotify:track:6m6zoNl6oKtexdZIReqQGB'] ....Fetched!
+['Private Party', 'Wally Jump Jr.', 'spotify:track:6m6zoNl6oKtexdZIReqQGB', 0.712, 0.812, 4, -10.094, 0, 0.0443, 0.00102, 0.0028, 0.135, 0.571, 123.811, 455000, 4, 85.42471, 15]
+154
+Fetching ['Du hast', 'Rammstein', 'spotify:track:5r2BUVszy94ZNnE3SKkzBW'] ....Fetched!
+['Du hast', 'Rammstein', 'spotify:track:5r2BUVszy94ZNnE3SKkzBW', 0.656, 0.919, 9, -6.288, 0, 0.0465, 0.00522, 0.0956, 0.331, 0.738, 125.069, 234227, 4, 65.15828, 9]
+141
+Fetching ['One', 'U2', 'spotify:track:3PKtemUKxiDBvBo7tpQ8bG'] ....Fetched!
+['One', 'U2', 'spotify:track:3PKtemUKxiDBvBo7tpQ8bG', 0.511, 0.536, 0, -8.661, 1, 0.0302, 0.256, 0.00265, 0.122, 0.357, 90.358, 276187, 4, 30.42603, 9]
+128
+Fetching ['Sheela-Na-Gig', 'PJ Harvey', 'spotify:track:0wv6wbfxSwfAiH120nBI5u'] ....Fetched!
+['Sheela-Na-Gig', 'PJ Harvey', 'spotify:track:0wv6wbfxSwfAiH120nBI5u', 0.468, 0.562, 1, -15.875, 1, 0.044, 0.0101, 0.000313, 0.124, 0.395, 127.055, 190893, 4, 32.69035, 10]
+149
+Fetching ['Tattva', 'Kula Shaker', 'spotify:track:4i29BhzyX52me3XNatwkWe'] ....Fetched!
+['Tattva', 'Kula Shaker', 'spotify:track:4i29BhzyX52me3XNatwkWe', 0.341, 0.776, 5, -7.61, 0, 0.0318, 0.0534, 4.97e-06, 0.248, 0.342, 96.882, 224627, 4, 21.58783, 11]
+142
+Fetching ["I Don't Know Why I Love You", 'The House of Love', 'spotify:track:1jhLdcLxciVhLh4pQHPLa3'] ....Fetched!
+["I Don't Know Why I Love You", 'The House of Love', 'spotify:track:1jhLdcLxciVhLh4pQHPLa3', 0.508, 0.686, 11, -10.722, 1, 0.0295, 0.00507, 0.00232, 0.258, 0.762, 134.991, 209600, 4, 23.87589, 13]
+173
+Fetching ['Lazyitis - The One Armed Boxer Remix', 'Happy Mondays', 'spotify:track:5ncIsQRIHq4CGAClmRVVxG'] ....Fetched!
+['Lazyitis - The One Armed Boxer Remix', 'Happy Mondays', 'spotify:track:5ncIsQRIHq4CGAClmRVVxG', 0.533, 0.812, 2, -7.372, 1, 0.0314, 0.0265, 0.119, 0.0566, 0.828, 119.25, 168920, 4, 27.72248, 7]
+172
+Fetching ['Army of Me', 'BjÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â¶rk', 'spotify:track:3vEmpJQC2p8h0U3OiBufQm'] ....Fetched!
+['Army of Me', 'BjÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â¶rk', 'spotify:track:3vEmpJQC2p8h0U3OiBufQm', 0.462, 0.677, 6, -9.262, 1, 0.0327, 0.00786, 7.15e-05, 0.226, 0.468, 172.192, 234333, 4, 68.38437, 9]
+157
+Fetching ["I'm In The Mood For Love", 'Brenda Lee', 'spotify:track:6cUk6Kg4NxqYWeoOUxjFlm'] ....Fetched!
+["I'm In The Mood For Love", 'Brenda Lee', 'spotify:track:6cUk6Kg4NxqYWeoOUxjFlm', 0.404, 0.149, 7, -12.473, 1, 0.0306, 0.885, 2e-06, 0.128, 0.232, 108.243, 171027, 3, 36.84289, 8]
+157
+Fetching ['Hot Spot', 'Dazz Band', 'spotify:track:0Ae7Y2QxH1q3gJjKY2mZbJ'] ....Fetched!
+['Hot Spot', 'Dazz Band', 'spotify:track:0Ae7Y2QxH1q3gJjKY2mZbJ', 0.726, 0.668, 4, -11.51, 0, 0.0356, 0.0173, 0.00487, 0.0632, 0.831, 119.997, 312707, 4, 32.81905, 13]
+144
+Fetching ['Moody', 'ESG', 'spotify:track:5BeZELzAySW7mN4aHswS5I'] ....Fetched!
+['Moody', 'ESG', 'spotify:track:5BeZELzAySW7mN4aHswS5I', 0.827, 0.323, 6, -18.449, 0, 0.104, 4.73e-05, 0.564, 0.0748, 0.357, 122.813, 169645, 4, 53.06125, 6]
+134
+Fetching ['Parlour Games', 'Six Finger Satellite', 'spotify:track:3xiLKohaQK7avHD6f6zD4r'] ....Fetched!
+['Parlour Games', 'Six Finger Satellite', 'spotify:track:3xiLKohaQK7avHD6f6zD4r', 0.451, 0.841, 11, -8.51, 0, 0.0403, 2.59e-05, 0.362, 0.258, 0.822, 92.702, 185800, 4, 25.81832, 8]
+157
+Fetching ['The Kicker', 'Grant Green', 'spotify:track:13iVQrEf1JkZ6qzPS6egtW'] ....Fetched!
+['The Kicker', 'Grant Green', 'spotify:track:13iVQrEf1JkZ6qzPS6egtW', 0.512, 0.392, 10, -15.556, 0, 0.0381, 0.583, 1.73e-06, 0.185, 0.662, 112.681, 383400, 4, 38.17651, 17]
+149
+Fetching ['Fast As a Shark', 'Accept', 'spotify:track:79FdyI4F44GFPI6HGFfCfA'] ....Fetched!
+['Fast As a Shark', 'Accept', 'spotify:track:79FdyI4F44GFPI6HGFfCfA', 0.416, 0.938, 2, -14.079, 1, 0.083, 8.44e-05, 0.32, 0.339, 0.123, 140.089, 228667, 4, 21.47976, 11]
+146
+Fetching ['Guilty', 'Gravity Kills', 'spotify:track:4YhqUU66bIqBapat2XD1Cg'] ....Fetched!
+['Guilty', 'Gravity Kills', 'spotify:track:4YhqUU66bIqBapat2XD1Cg', 0.646, 0.905, 9, -9.456, 0, 0.0414, 5.12e-05, 0.856, 0.279, 0.579, 129.084, 242027, 4, 55.87041, 11]
+145
+Fetching ['Crazy Town', 'Velocity Girl', 'spotify:track:6x71Df5CInwdfVo4OBAnMG'] ....Fetched!
+['Crazy Town', 'Velocity Girl', 'spotify:track:6x71Df5CInwdfVo4OBAnMG', 0.297, 0.844, 4, -6.331, 1, 0.0459, 0.00321, 0.81, 0.085, 0.485, 127.828, 227667, 4, 54.83009, 6]
+146
+Fetching ['Ezz-Thetic', 'Grant Green', 'spotify:track:0vNy3xhKPSrErUh3eSCtBA'] ....Fetched!
+['Ezz-Thetic', 'Grant Green', 'spotify:track:0vNy3xhKPSrErUh3eSCtBA', 0.42, 0.478, 8, -15.938, 1, 0.0429, 0.554, 0, 0.147, 0.54, 139.006, 641267, 4, 22.93532, 27]
+139
+Fetching ['Play To Win - Bef Disco Mix 12" Extended Version', 'Heaven 17', 'spotify:track:2c1j6CEBnao9e4dhlYYXvR'] ....Fetched!
+['Play To Win - Bef Disco Mix 12" Extended Version', 'Heaven 17', 'spotify:track:2c1j6CEBnao9e4dhlYYXvR', 0.826, 0.458, 7, -13.176, 1, 0.142, 0.0117, 0.0139, 0.0468, 0.893, 128.075, 444307, 4, 32.02791, 16]
+186
+Fetching ['This Song Is Just for You', 'Birth Control', 'spotify:track:2bikcfxUVD2BtW69N1kjru'] ....Fetched!
+['This Song Is Just for You', 'Birth Control', 'spotify:track:2bikcfxUVD2BtW69N1kjru', 0.51, 0.593, 7, -6.944, 0, 0.0269, 0.143, 0.472, 0.328, 0.781, 130.349, 445333, 4, 27.4299, 18]
+159
+Fetching ['100%', 'Sonic Youth', 'spotify:track:5bNpYsNWgvF3kLC54vplp8'] ....Fetched!
+['100%', 'Sonic Youth', 'spotify:track:5bNpYsNWgvF3kLC54vplp8', 0.448, 0.88, 7, -9.894, 1, 0.0581, 0.00146, 0.005, 0.41, 0.404, 117.033, 149360, 4, 52.31355, 5]
+137
+Fetching ['Underground', 'Ben Folds Five', 'spotify:track:08nT8qF5kq55XBypRz8wzJ'] ....Fetched!
+['Underground', 'Ben Folds Five', 'spotify:track:08nT8qF5kq55XBypRz8wzJ', 0.568, 0.675, 4, -7.298, 1, 0.0394, 0.136, 1.11e-05, 0.145, 0.322, 103.984, 251293, 4, 36.39801, 9]
+150
+Fetching ['Get Enough', 'ivy', 'spotify:track:4n4ayAy6TjN3HAAM0Bg3fo'] ....Fetched!
+['Get Enough', 'ivy', 'spotify:track:4n4ayAy6TjN3HAAM0Bg3fo', 0.492, 0.718, 9, -8.717, 1, 0.0271, 0.0312, 0.121, 0.302, 0.819, 153.338, 161267, 4, 36.78295, 9]
+136
+Fetching ['Leader Of The Pack', 'The Shangri-Las', 'spotify:track:6wzLLGFlWQ5jqTL13MU069'] ....Fetched!
+['Leader Of The Pack', 'The Shangri-Las', 'spotify:track:6wzLLGFlWQ5jqTL13MU069', 0.417, 0.546, 0, -8.71, 1, 0.0858, 0.725, 0, 0.543, 0.31, 126.224, 173533, 4, 58.4244, 8]
+148
+Fetching ['Wargasm', 'L7', 'spotify:track:7b1snQi3wWfUPmRrPvK0ny'] ....Fetched!
+['Wargasm', 'L7', 'spotify:track:7b1snQi3wWfUPmRrPvK0ny', 0.366, 0.858, 7, -9.215, 1, 0.0413, 1.29e-06, 0.645, 0.0747, 0.816, 159.275, 162440, 4, 22.3811, 10]
+135
+Fetching ["Why Don't You Get a Job?", 'The Offspring', 'spotify:track:5JzF2iymNwCyFz9MTmojd0'] ....Fetched!
+["Why Don't You Get a Job?", 'The Offspring', 'spotify:track:5JzF2iymNwCyFz9MTmojd0', 0.772, 0.878, 5, -4.479, 1, 0.0806, 0.0707, 1.55e-06, 0.303, 0.535, 107.951, 171867, 4, 36.13654, 7]
+163
+Fetching ["Goin' Back", 'Dusty Springfield', 'spotify:track:0knHpoQ57W5gZhtOKnD6Tw'] ....Fetched!
+["Goin' Back", 'Dusty Springfield', 'spotify:track:0knHpoQ57W5gZhtOKnD6Tw', 0.37, 0.369, 2, -11.352, 1, 0.0284, 0.63, 1.49e-05, 0.0985, 0.162, 101.459, 209160, 4, 35.18148, 11]
+153
+Fetching ['Holland, 1945', 'Neutral Milk Hotel', 'spotify:track:4iwMhMvcTqukn1n3NVjb2N'] ....Fetched!
+['Holland, 1945', 'Neutral Milk Hotel', 'spotify:track:4iwMhMvcTqukn1n3NVjb2N', 0.0617, 0.887, 7, -4.305, 1, 0.0636, 0.0399, 0.000157, 0.619, 0.48, 198.592, 192533, 4, 26.6064, 10]
+159
+Fetching ['I Will Survive', 'Cake', 'spotify:track:4THrHKyBL0yaDDw9yg37Zk'] ....Fetched!
+['I Will Survive', 'Cake', 'spotify:track:4THrHKyBL0yaDDw9yg37Zk', 0.501, 0.689, 4, -7.952, 0, 0.0318, 0.306, 0.000169, 0.133, 0.873, 95.758, 310333, 4, 81.33108, 9]
+142
+Fetching ['Love Is The Answer', 'Utopia', 'spotify:track:3v1abU7pXIkCGfJTld7TVM'] ....Fetched!
+['Love Is The Answer', 'Utopia', 'spotify:track:3v1abU7pXIkCGfJTld7TVM', 0.403, 0.589, 9, -8.573, 0, 0.0274, 0.629, 0, 0.162, 0.434, 98.833, 258040, 4, 28.22176, 12]
+142
+Fetching ["It's Hard to Be an Egg", 'Eggs', 'spotify:track:2Q82LtKsyKBC9wE4PY4Qnq'] ....Fetched!
+["It's Hard to Be an Egg", 'Eggs', 'spotify:track:2Q82LtKsyKBC9wE4PY4Qnq', 0.364, 0.804, 1, -11.631, 1, 0.0467, 0.0462, 0.00262, 0.129, 0.216, 123.831, 176293, 4, 23.89839, 10]
+153
+Fetching ['American Jesus', 'Bad Religion', 'spotify:track:5TZn3LQSWwVPnBlPgFKb54'] ....Fetched!
+['American Jesus', 'Bad Religion', 'spotify:track:5TZn3LQSWwVPnBlPgFKb54', 0.392, 0.948, 9, -9.927, 0, 0.0382, 0.00685, 0, 0.327, 0.628, 181.712, 197533, 4, 43.92211, 11]
+147
+Fetching ['Butterfly', 'Crazy Town', 'spotify:track:4BggEwLhGfrbrl7JBhC8EC'] ....Fetched!
+['Butterfly', 'Crazy Town', 'spotify:track:4BggEwLhGfrbrl7JBhC8EC', 0.736, 0.811, 9, -4.17, 0, 0.081, 0.00132, 0.000142, 0.107, 0.609, 103.502, 216733, 4, 19.84339, 10]
+145
+Fetching ['Shout, Pts. 1 & 2', 'The Isley Brothers', 'spotify:track:5TUa3AsgSh3kJIuXn42wig'] ....Fetched!
+['Shout, Pts. 1 & 2', 'The Isley Brothers', 'spotify:track:5TUa3AsgSh3kJIuXn42wig', 0.467, 0.831, 10, -7.661, 1, 0.0683, 0.549, 0, 0.95, 0.547, 137.355, 267333, 4, 22.08032, 15]
+156
+Fetching ['Kiss Them For Me', 'Siouxsie and the Banshees', 'spotify:track:2Z6UtnyJWtMUTJhO8wU72W'] ....Fetched!
+['Kiss Them For Me', 'Siouxsie and the Banshees', 'spotify:track:2Z6UtnyJWtMUTJhO8wU72W', 0.608, 0.841, 7, -11.364, 0, 0.0452, 0.271, 0.00929, 0.107, 0.699, 99.399, 277386, 4, 29.94426, 12]
+166
+Fetching ['Oh, What A Night', 'The Dells', 'spotify:track:2ht21Rlf8L6cPLBkYmhpcs'] ....Fetched!
+['Oh, What A Night', 'The Dells', 'spotify:track:2ht21Rlf8L6cPLBkYmhpcs', 0.5, 0.543, 8, -7.354, 1, 0.0341, 0.103, 0, 0.0748, 0.597, 106.291, 247267, 3, 39.56241, 10]
+145
+Fetching ['Take My Heart (You Can Have It If You Want It)', 'Kool & The Gang', 'spotify:track:1nN5s8PycvK4zCfj87e62Y'] ....Fetched!
+['Take My Heart (You Can Have It If You Want It)', 'Kool & The Gang', 'spotify:track:1nN5s8PycvK4zCfj87e62Y', 0.913, 0.596, 11, -8.733, 1, 0.0487, 0.187, 0.00048, 0.0405, 0.961, 111.624, 343960, 4, 25.6812, 14]
+187
+Fetching ['Mr. Blue', 'The Fleetwoods', 'spotify:track:6bnFjTW3EnMG4BwreDnSHK'] ....Fetched!
+['Mr. Blue', 'The Fleetwoods', 'spotify:track:6bnFjTW3EnMG4BwreDnSHK', 0.374, 0.0889, 4, -17.475, 1, 0.0356, 0.931, 6.88e-06, 0.111, 0.211, 96.677, 145133, 4, 38.42432, 8]
+148
+Fetching ['I\'m Not Gonna Let You - "12" Extended Version"', 'Colonel Abrams', 'spotify:track:51uTbPmQnApLyfnfn0bpC7'] ....Fetched!
+['I\'m Not Gonna Let You - "12" Extended Version"', 'Colonel Abrams', 'spotify:track:51uTbPmQnApLyfnfn0bpC7', 0.798, 0.799, 4, -9.98, 0, 0.0505, 0.0428, 0.161, 0.0612, 0.852, 116.937, 412600, 4, 76.85807, 12]
+189
+Fetching ['Season of the Witch', 'Vanilla Fudge', 'spotify:track:0VJXE7w1oCeBqkxaYm1gdO'] ....Fetched!
+['Season of the Witch', 'Vanilla Fudge', 'spotify:track:0VJXE7w1oCeBqkxaYm1gdO', 0.329, 0.167, 5, -15.973, 1, 0.0436, 0.623, 0.0114, 0.146, 0.143, 122.998, 467333, 3, 114.05445, 17]
+158
+Fetching ['Bad to Me', 'Billy J. Kramer', 'spotify:track:6N4l8kzKkG6BunFlg28EFX'] ....Fetched!
+['Bad to Me', 'Billy J. Kramer', 'spotify:track:6N4l8kzKkG6BunFlg28EFX', 0.644, 0.58, 2, -7.744, 1, 0.0515, 0.673, 0, 0.0975, 0.788, 127.2, 141173, 4, 49.43867, 7]
+140
+Fetching ['Fuel', 'Metallica', 'spotify:track:0NdidkH0EQwG7mx6F6SDkI'] ....Fetched!
+['Fuel', 'Metallica', 'spotify:track:0NdidkH0EQwG7mx6F6SDkI', 0.491, 0.951, 1, -3.775, 1, 0.0465, 2.3e-05, 0.00354, 0.0424, 0.555, 106.948, 269733, 4, 37.3758, 14]
+140
+Fetching ['Doowutchyalike', 'Digital Underground', 'spotify:track:6DxYLuDG7QvbsqSK8DG9UI'] ....Fetched!
+['Doowutchyalike', 'Digital Underground', 'spotify:track:6DxYLuDG7QvbsqSK8DG9UI', 0.6, 0.731, 9, -8.533, 1, 0.498, 0.0312, 9.22e-05, 0.117, 0.791, 217.591, 533306, 4, 81.18417, 25]
+157
+Fetching ['Crocodile Rock', 'Elton John', 'spotify:track:7z85Sqa3JrNebHK8sDtcRG'] ....Fetched!
+['Crocodile Rock', 'Elton John', 'spotify:track:7z85Sqa3JrNebHK8sDtcRG', 0.625, 0.665, 4, -11.681, 0, 0.0375, 0.0786, 1.37e-05, 0.047, 0.97, 150.275, 235067, 4, 41.05901, 11]
+151
+Fetching ["After The Lovin'", 'Engelbert Humperdinck', 'spotify:track:5JoH1PWKf13uHdEH8EJDAb'] ....Fetched!
+["After The Lovin'", 'Engelbert Humperdinck', 'spotify:track:5JoH1PWKf13uHdEH8EJDAb', 0.589, 0.437, 0, -12.595, 1, 0.0281, 0.572, 0.000356, 0.103, 0.408, 113.996, 235333, 3, 48.67167, 12]
+164
+Fetching ['Peggy Sue - Single Version', 'Buddy Holly', 'spotify:track:3iJWxZYv5FNcfGcOdgbq2P'] ....Fetched!
+['Peggy Sue - Single Version', 'Buddy Holly', 'spotify:track:3iJWxZYv5FNcfGcOdgbq2P', 0.659, 0.515, 9, -7.912, 1, 0.0296, 0.818, 0, 0.179, 0.602, 149.126, 150067, 4, 44.71571, 6]
+155
+Fetching ['All of Me', 'Billie Holiday', 'spotify:track:79fXdfpOPGaXO1gfdq2onl'] ....Fetched!
+['All of Me', 'Billie Holiday', 'spotify:track:79fXdfpOPGaXO1gfdq2onl', 0.507, 0.0677, 2, -13.766, 0, 0.0406, 0.978, 2.74e-05, 0.132, 0.355, 105.393, 181827, 5, 57.54467, 8]
+150
+Fetching ['Go Go Gorilla', 'The Surfin Gorillas', 'spotify:track:3xzt8nVnKYyiiyDGfUusY2'] ....Fetched!
+['Go Go Gorilla', 'The Surfin Gorillas', 'spotify:track:3xzt8nVnKYyiiyDGfUusY2', 0.532, 0.929, 2, -7.594, 1, 0.0352, 0.000497, 0.0224, 0.028, 0.968, 169.77, 185000, 4, 56.66935, 7]
+157
+Fetching ["Don't Sleep In the Subway", 'Petula Clark', 'spotify:track:5TUFEcY4OELag7g2TkLyU9'] ....Fetched!
+["Don't Sleep In the Subway", 'Petula Clark', 'spotify:track:5TUFEcY4OELag7g2TkLyU9', 0.418, 0.539, 10, -7.327, 1, 0.036, 0.756, 0, 0.56, 0.507, 133.626, 175707, 4, 36.59036, 8]
+154
+Fetching ['Insane in the Brain', 'Cypress Hill', 'spotify:track:1oTHteQbmJw15rPxPVXUTv'] ....Fetched!
+['Insane in the Brain', 'Cypress Hill', 'spotify:track:1oTHteQbmJw15rPxPVXUTv', 0.897, 0.612, 11, -10.489, 1, 0.211, 0.0297, 0.186, 0.0894, 0.767, 102.305, 208267, 4, 28.4418, 9]
+155
+Fetching ['Freak On a Leash', 'Korn', 'spotify:track:6W21LNLz9Sw7sUSNWMSHRu'] ....Fetched!
+['Freak On a Leash', 'Korn', 'spotify:track:6W21LNLz9Sw7sUSNWMSHRu', 0.353, 0.898, 2, -5.877, 1, 0.052, 2.23e-05, 0.105, 0.39, 0.525, 103.293, 255733, 4, 27.82082, 12]
+144
+Fetching ['Cold', 'At The Gates', 'spotify:track:3JRmeCjOaBqRCvzwCx9MNh'] ....Fetched!
+['Cold', 'At The Gates', 'spotify:track:3JRmeCjOaBqRCvzwCx9MNh', 0.245, 0.983, 7, -7.314, 1, 0.124, 2.28e-06, 0.811, 0.658, 0.276, 129.996, 207773, 3, 100.9366, 8]
+140
+Fetching ['I Want to Be Happy', 'Helen Shapiro', 'spotify:track:4OD6QhSh77C91qx3A6KKZE'] ....Fetched!
+['I Want to Be Happy', 'Helen Shapiro', 'spotify:track:4OD6QhSh77C91qx3A6KKZE', 0.546, 0.541, 7, -11.998, 1, 0.181, 0.582, 0, 0.13, 0.635, 140.609, 140293, 4, 31.38395, 8]
+148
+Fetching ['Three Days', "Jane's Addiction", 'spotify:track:13EpmgPUF4KL4TlXOGqUPD'] ....Fetched!
+['Three Days', "Jane's Addiction", 'spotify:track:13EpmgPUF4KL4TlXOGqUPD', 0.284, 0.833, 6, -8.699, 0, 0.082, 0.00469, 0.0695, 0.138, 0.317, 106.648, 646640, 4, 30.48786, 20]
+151
+Fetching ['Por Que Sera', 'Rudy La Scala', 'spotify:track:2zFhOgUTFiAupp71sFKm77'] ....Fetched!
+['Por Que Sera', 'Rudy La Scala', 'spotify:track:2zFhOgUTFiAupp71sFKm77', 0.641, 0.385, 0, -13.514, 0, 0.0291, 0.253, 1.92e-06, 0.12, 0.193, 80.009, 280133, 4, 41.87687, 10]
+150
+Fetching ['Late At Night', 'Buffalo Tom', 'spotify:track:277JGlZm8LMtOn8rCLQ1ho'] ....Fetched!
+['Late At Night', 'Buffalo Tom', 'spotify:track:277JGlZm8LMtOn8rCLQ1ho', 0.424, 0.739, 7, -9.28, 1, 0.0401, 0.0114, 0, 0.219, 0.233, 132.632, 237373, 4, 37.80183, 7]
+142
+Fetching ['Moving On', 'INOJ', 'spotify:track:2F9u1CbaVtnnFxXQE57Gii'] ....Fetched!
+['Moving On', 'INOJ', 'spotify:track:2F9u1CbaVtnnFxXQE57Gii', 0.805, 0.818, 10, -7.462, 0, 0.0636, 0.0501, 0.242, 0.0833, 0.927, 128.837, 254772, 4, 22.79624, 12]
+139
+Fetching ['Resurrection', 'Moist', 'spotify:track:6wYhV6cdyyEGjDbOEp7KNY'] ....Fetched!
+['Resurrection', 'Moist', 'spotify:track:6wYhV6cdyyEGjDbOEp7KNY', 0.601, 0.838, 0, -5.652, 1, 0.0378, 0.00406, 1.67e-05, 0.194, 0.494, 110.254, 239133, 4, 42.24767, 10]
+145
+Fetching ['Oh No Not My Baby', 'Manfred Mann', 'spotify:track:3MrvN0HgTZ6ArkfaXCHpRB'] ....Fetched!
+['Oh No Not My Baby', 'Manfred Mann', 'spotify:track:3MrvN0HgTZ6ArkfaXCHpRB', 0.387, 0.468, 0, -8.903, 1, 0.0316, 0.574, 0, 0.159, 0.665, 125.608, 141693, 4, 36.94713, 8]
+147
+Fetching ['Funky Bebop', 'Vin Zee', 'spotify:track:7jx7KqHWdLpTobe2mUlwAH'] ....Fetched!
+['Funky Bebop', 'Vin Zee', 'spotify:track:7jx7KqHWdLpTobe2mUlwAH', 0.906, 0.363, 11, -17.012, 1, 0.218, 0.00183, 0.0248, 0.184, 0.797, 119.249, 485373, 4, 33.55869, 20]
+145
+Fetching ['Chunky', 'Ronnie Foster', 'spotify:track:0W9dYpl9QDv16vZFf6Eq1F'] ....Fetched!
+['Chunky', 'Ronnie Foster', 'spotify:track:0W9dYpl9QDv16vZFf6Eq1F', 0.392, 0.82, 1, -8.949, 0, 0.0338, 0.417, 0.907, 0.199, 0.864, 132.405, 293200, 4, 52.60563, 12]
+141
+Fetching ['Working In The Coal Mine', 'DEVO', 'spotify:track:6G8VOvU4pQcqOsvDQxZH2Z'] ....Fetched!
+['Working In The Coal Mine', 'DEVO', 'spotify:track:6G8VOvU4pQcqOsvDQxZH2Z', 0.881, 0.889, 0, -8.39, 1, 0.317, 0.734, 8.68e-06, 0.07, 0.969, 160.001, 196133, 4, 48.22905, 13]
+151
+Fetching ['La Quiero a Morir', 'Gian Franco Pagliaro', 'spotify:track:7ilChmRAVMWZ48Lb0fghIb'] ....Fetched!
+['La Quiero a Morir', 'Gian Franco Pagliaro', 'spotify:track:7ilChmRAVMWZ48Lb0fghIb', 0.476, 0.452, 2, -10.636, 1, 0.047, 0.756, 0, 0.119, 0.497, 75.987, 168200, 4, 42.8356, 9]
+153
+Fetching ['Por Muchas Razones Te Quiero', 'Palito Ortega', 'spotify:track:7uSEht8p9wuXz7sQfUBU47'] ....Fetched!
+['Por Muchas Razones Te Quiero', 'Palito Ortega', 'spotify:track:7uSEht8p9wuXz7sQfUBU47', 0.577, 0.492, 10, -9.342, 1, 0.0569, 0.749, 1.75e-06, 0.0913, 0.889, 82.091, 200712, 4, 19.24709, 14]
+168
+Fetching ['Avalancha', 'Heroes Del Silencio', 'spotify:track:2QWiLP3WiFMtmJ08nUTWUC'] ....Fetched!
+['Avalancha', 'Heroes Del Silencio', 'spotify:track:2QWiLP3WiFMtmJ08nUTWUC', 0.423, 0.836, 9, -4.754, 1, 0.0501, 0.00498, 0, 0.246, 0.446, 149.456, 358133, 4, 58.26014, 14]
+149
+Fetching ['Amie', 'Pure Prairie League', 'spotify:track:1mqydO6xMtyTPa8yo1SdVr'] ....Fetched!
+['Amie', 'Pure Prairie League', 'spotify:track:1mqydO6xMtyTPa8yo1SdVr', 0.553, 0.449, 9, -11.722, 1, 0.0292, 0.567, 0, 0.0892, 0.423, 88.788, 260933, 4, 23.56336, 13]
+143
+Fetching ['The 19th Most Powerful Woman In Rock', 'Supersuckers', 'spotify:track:2mqb6nTl5avMukZ6C5PWdS'] ....Fetched!
+['The 19th Most Powerful Woman In Rock', 'Supersuckers', 'spotify:track:2mqb6nTl5avMukZ6C5PWdS', 0.357, 0.996, 5, -3.362, 1, 0.123, 0.00278, 2.37e-05, 0.386, 0.125, 109.505, 172800, 4, 25.25538, 7]
+174
+Fetching ['One Headlight', 'The Wallflowers', 'spotify:track:0z1b34WikhOH9ZxU8QDWcv'] ....Fetched!
+['One Headlight', 'The Wallflowers', 'spotify:track:0z1b34WikhOH9ZxU8QDWcv', 0.701, 0.539, 2, -8.968, 1, 0.0277, 0.000655, 0.005, 0.0589, 0.752, 107.531, 312627, 4, 18.96543, 12]
+155
+Fetching ['Papa Loves Mambo', 'Perry Como', 'spotify:track:5A4gzphhD7SyZZhQeda8Vv'] ....Fetched!
+['Papa Loves Mambo', 'Perry Como', 'spotify:track:5A4gzphhD7SyZZhQeda8Vv', 0.648, 0.528, 0, -9.965, 1, 0.0623, 0.727, 1.51e-05, 0.127, 0.903, 82.097, 161640, 4, 34.75012, 7]
+150
+Fetching ['Song 2', 'Blur', 'spotify:track:4F64QXRV1EGHSm5jIeMmcQ'] ....Fetched!
+['Song 2', 'Blur', 'spotify:track:4F64QXRV1EGHSm5jIeMmcQ', 0.658, 0.726, 8, -7.51, 1, 0.0856, 0.00211, 0.00229, 0.0922, 0.874, 129.715, 121307, 4, 30.78696, 8]
+136
+Fetching ['Nothing To Be Done', 'The Pastels', 'spotify:track:4vReegUzNPc2t06jJKgieU'] ....Fetched!
+['Nothing To Be Done', 'The Pastels', 'spotify:track:4vReegUzNPc2t06jJKgieU', 0.349, 0.896, 9, -10.59, 1, 0.106, 0.00144, 0.73, 0.287, 0.481, 141.72, 232133, 4, 38.93618, 9]
+150
+Fetching ['Superman', 'Goldfinger', 'spotify:track:4X3qGigyU6ARi3HP4lWD95'] ....Fetched!
+['Superman', 'Goldfinger', 'spotify:track:4X3qGigyU6ARi3HP4lWD95', 0.429, 0.937, 2, -3.986, 1, 0.0573, 0.000131, 0.0002, 0.0807, 0.894, 194.838, 185027, 4, 48.37271, 8]
+145
+Fetching ['I Want It All', "Eve's Plum", 'spotify:track:3ZFYthWKkyrkdD5iCT0fT6'] ....Fetched!
+['I Want It All', "Eve's Plum", 'spotify:track:3ZFYthWKkyrkdD5iCT0fT6', 0.597, 0.678, 0, -9.491, 1, 0.0291, 0.000103, 0.673, 0.456, 0.774, 124.031, 255507, 4, 31.77766, 15]
+149
+Fetching ['Wildflowers', 'Tom Petty', 'spotify:track:2Pr1nZpt8A8WP7QYpyq6L3'] ....Fetched!
+['Wildflowers', 'Tom Petty', 'spotify:track:2Pr1nZpt8A8WP7QYpyq6L3', 0.537, 0.315, 5, -13.79, 1, 0.0271, 0.588, 2.29e-05, 0.206, 0.575, 86.813, 190320, 4, 31.37415, 8]
+144
+Fetching ['Ex-Cowboy', 'Mogwai', 'spotify:track:3S8oIwd7JLsVwAQAtFZh2c'] ....Fetched!
+['Ex-Cowboy', 'Mogwai', 'spotify:track:3S8oIwd7JLsVwAQAtFZh2c', 0.24, 0.284, 0, -11.792, 1, 0.0304, 0.00131, 0.917, 0.11, 0.0378, 100.371, 549400, 4, 197.52585, 13]
+141
+Fetching ['Halo', 'Deep Blue Something', 'spotify:track:7HqKaTgHVUrjHfdgtWxG3Q'] ....Fetched!
+['Halo', 'Deep Blue Something', 'spotify:track:7HqKaTgHVUrjHfdgtWxG3Q', 0.604, 0.924, 7, -5.083, 1, 0.0454, 0.00528, 0.00325, 0.0988, 0.497, 125.001, 164760, 4, 46.82499, 8]
+150
+Fetching ['This Is Mine - Filmix', 'Heaven 17', 'spotify:track:14agDsG2hUQJB36M6itI7H'] ....Fetched!
+['This Is Mine - Filmix', 'Heaven 17', 'spotify:track:14agDsG2hUQJB36M6itI7H', 0.762, 0.599, 11, -14.584, 1, 0.0518, 0.0255, 0.0267, 0.352, 0.348, 123.352, 439000, 4, 60.97348, 12]
+157
+Fetching ['Accident Prone', 'Jawbreaker', 'spotify:track:2Dqgj2nE6RwZKocWsWqXcG'] ....Fetched!
+['Accident Prone', 'Jawbreaker', 'spotify:track:2Dqgj2nE6RwZKocWsWqXcG', 0.259, 0.92, 1, -6.615, 0, 0.0751, 0.000855, 0.635, 0.0787, 0.177, 142.2, 373920, 4, 45.88824, 13]
+148
+Fetching ["White Lines (Don't Don't Do It) - Long Version", 'Grandmaster Flash', 'spotify:track:1iGhTGfEEvd22m9OFpeuON'] ....Fetched!
+["White Lines (Don't Don't Do It) - Long Version", 'Grandmaster Flash', 'spotify:track:1iGhTGfEEvd22m9OFpeuON', 0.864, 0.705, 0, -8.874, 1, 0.057, 0.0137, 0.00263, 0.187, 0.878, 115.169, 458600, 4, 39.33814, 17]
+188
+Fetching ['Weird-Out', 'Dandelion', 'spotify:track:7uINX1W3aEJprEDilIOaFb'] ....Fetched!
+['Weird-Out', 'Dandelion', 'spotify:track:7uINX1W3aEJprEDilIOaFb', 0.417, 0.889, 2, -9.531, 1, 0.0406, 1.42e-05, 0.011, 0.225, 0.85, 136.144, 221147, 4, 23.68811, 11]
+143
+Fetching ['Willy the Wandering Gypsy and Me', 'Billy Joe Shaver', 'spotify:track:3VpO5EiRR22vBKJwTHIBMp'] ....Fetched!
+['Willy the Wandering Gypsy and Me', 'Billy Joe Shaver', 'spotify:track:3VpO5EiRR22vBKJwTHIBMp', 0.585, 0.106, 11, -21.089, 1, 0.0366, 0.911, 0.000418, 0.155, 0.585, 146.981, 149733, 3, 28.96533, 10]
+176
+Fetching ['My Dreaming Hill', 'Flying Saucer Attack', 'spotify:track:4xVb769QQHzWlGR9L9Flbl'] ....Fetched!
+['My Dreaming Hill', 'Flying Saucer Attack', 'spotify:track:4xVb769QQHzWlGR9L9Flbl', 0.28, 0.696, 8, -8.492, 1, 0.0409, 0.233, 0.94, 0.0748, 0.197, 128.09, 372400, 4, 39.20654, 18]
+157
+Fetching ['Daddy', 'Della Reese', 'spotify:track:6DGRjGybKegmf2wjpDqK63'] ....Fetched!
+['Daddy', 'Della Reese', 'spotify:track:6DGRjGybKegmf2wjpDqK63', 0.928, 0.452, 10, -11.513, 1, 0.0434, 0.371, 6.99e-06, 0.0715, 0.973, 117.329, 161573, 4, 49.10767, 8]
+144
+Fetching ['Temple of Love - Extended Version 1983', 'Sisters of Mercy', 'spotify:track:0cddvowG9DCT9VeZxRlPJm'] ....Fetched!
+['Temple of Love - Extended Version 1983', 'Sisters of Mercy', 'spotify:track:0cddvowG9DCT9VeZxRlPJm', 0.451, 0.931, 9, -7.442, 1, 0.0413, 0.0776, 0.208, 0.164, 0.652, 166.301, 488012, 4, 69.71628, 16]
+178
+Fetching ['Try Me', 'James Brown', 'spotify:track:31usEzDUXeGWAheRaCeEaD'] ....Fetched!
+['Try Me', 'James Brown', 'spotify:track:31usEzDUXeGWAheRaCeEaD', 0.683, 0.265, 0, -12.735, 1, 0.0293, 0.933, 0, 0.71, 0.647, 102.08, 149560, 3, 36.41965, 7]
+134
+Fetching ['Cavern', 'Liquid Liquid', 'spotify:track:37wuwV4Y7v2e3kLyvt2fAI'] ....Fetched!
+['Cavern', 'Liquid Liquid', 'spotify:track:37wuwV4Y7v2e3kLyvt2fAI', 0.685, 0.774, 7, -10.15, 1, 0.0541, 0.015, 0.776, 0.0864, 0.282, 115.37, 319667, 4, 67.05077, 13]
+142
+Fetching ['Full Circle', 'Collective Soul', 'spotify:track:0MUIYwMzUzEGchfIfsriJK'] ....Fetched!
+['Full Circle', 'Collective Soul', 'spotify:track:0MUIYwMzUzEGchfIfsriJK', 0.463, 0.682, 3, -7.269, 1, 0.0308, 0.00381, 0.0128, 0.238, 0.647, 191.19, 248907, 4, 37.88477, 12]
+151
+Fetching ['Tidal Wave', 'The Apples In Stereo', 'spotify:track:0VJJBQ9WDz4BP2HzIlYy3J'] ....Fetched!
+['Tidal Wave', 'The Apples In Stereo', 'spotify:track:0VJJBQ9WDz4BP2HzIlYy3J', 0.369, 0.593, 7, -13.683, 1, 0.0404, 0.00168, 0.508, 0.0977, 0.713, 132.124, 206160, 4, 18.98447, 13]
+157
+Fetching ['Supernatural', 'Splender', 'spotify:track:1QrEOjnNfb5Bbfk6gpNjiX'] ....Fetched!
+['Supernatural', 'Splender', 'spotify:track:1QrEOjnNfb5Bbfk6gpNjiX', 0.536, 0.933, 11, -4.666, 0, 0.0385, 0.000452, 3.42e-05, 0.13, 0.658, 119.685, 246040, 3, 55.39361, 8]
+148
+Fetching ['If We Wait', 'Guided By Voices', 'spotify:track:449Pp8DLxByKQdgVrI4XHU'] ....Fetched!
+['If We Wait', 'Guided By Voices', 'spotify:track:449Pp8DLxByKQdgVrI4XHU', 0.44, 0.655, 8, -5.662, 1, 0.0336, 0.224, 0.0782, 0.179, 0.0959, 101.082, 173027, 3, 32.52736, 8]
+149
+Fetching ['Body Music', 'The Strikers', 'spotify:track:4NICmpWRO0traWh8pemNsR'] ....Fetched!
+['Body Music', 'The Strikers', 'spotify:track:4NICmpWRO0traWh8pemNsR', 0.789, 0.635, 6, -13.83, 1, 0.0529, 0.00504, 0.00754, 0.096, 0.901, 123.402, 671973, 4, 41.34256, 21]
+149
+Fetching ['Blue (Da Ba Dee)', 'Eiffel 65', 'spotify:track:5FgtdSf7I5lClThz2ptWvl'] ....Fetched!
+['Blue (Da Ba Dee)', 'Eiffel 65', 'spotify:track:5FgtdSf7I5lClThz2ptWvl', 0.822, 0.969, 7, -11.471, 0, 0.0582, 0.259, 0.000162, 0.39, 0.765, 128.007, 283748, 4, 49.01165, 14]
+151
+Fetching ['Petrol', 'Ash', 'spotify:track:1ghYcDSNQofy8I5IjX0Eq4'] ....Fetched!
+['Petrol', 'Ash', 'spotify:track:1ghYcDSNQofy8I5IjX0Eq4', 0.457, 0.942, 4, -6.007, 1, 0.0744, 0.0451, 0.771, 0.351, 0.705, 151.424, 250800, 4, 29.43049, 13]
+133
+Fetching ['Stuck On You', 'Failure', 'spotify:track:2OIVVL8IZsyUufcaCxdh4g'] ....Fetched!
+['Stuck On You', 'Failure', 'spotify:track:2OIVVL8IZsyUufcaCxdh4g', 0.481, 0.618, 8, -6.711, 1, 0.0271, 0.000358, 0.00199, 0.279, 0.279, 142.076, 268933, 4, 41.10287, 10]
+147
+Fetching ['Ambitionz Az A Ridah', '2Pac', 'spotify:track:3ssX20QT5c3nA9wk78V1LQ'] ....Fetched!
+['Ambitionz Az A Ridah', '2Pac', 'spotify:track:3ssX20QT5c3nA9wk78V1LQ', 0.801, 0.908, 2, -6.554, 1, 0.221, 0.00253, 0.000655, 0.0698, 0.805, 87.279, 278387, 4, 47.12332, 14]
+151
+Fetching ["Greased Lightnin' - From Ã\x83Â\x83Ã\x82Â¢Ã\x83Â\x82Ã\x82Â\x80Ã\x83Â\x82Ã\x82Â\x9cGreaseÃ\x83Â\x83Ã\x82Â¢Ã\x83Â\x82Ã\x82Â\x80Ã\x83Â\x82Ã\x82Â\x9d Soundtrack", 'John Travolta', 'spotify:track:0t7WhYsl5seMz896jS113q'] ....Fetched!
+["Greased Lightnin' - From Ã\x83Â\x83Ã\x82Â¢Ã\x83Â\x82Ã\x82Â\x80Ã\x83Â\x82Ã\x82Â\x9cGreaseÃ\x83Â\x83Ã\x82Â¢Ã\x83Â\x82Ã\x82Â\x80Ã\x83Â\x82Ã\x82Â\x9d Soundtrack", 'John Travolta', 'spotify:track:0t7WhYsl5seMz896jS113q', 0.581, 0.86, 8, -10.651, 1, 0.0976, 0.133, 0.0336, 0.0694, 0.938, 159.941, 194467, 4, 32.2395, 9]
+226
+Fetching ['Airhead - Francois Kevorkian Mix', 'Thomas Dolby', 'spotify:track:1soohgnngndP1T1nM4onLO'] ....Fetched!
+['Airhead - Francois Kevorkian Mix', 'Thomas Dolby', 'spotify:track:1soohgnngndP1T1nM4onLO', 0.813, 0.647, 0, -10.864, 1, 0.0463, 0.0189, 0.22, 0.362, 0.616, 118.845, 425733, 4, 76.1026, 19]
+167
+Fetching ['Encore - Single Version', 'Cheryl Lynn', 'spotify:track:4oh5A2wuS4HUChnBxEeRzS'] ....Fetched!
+['Encore - Single Version', 'Cheryl Lynn', 'spotify:track:4oh5A2wuS4HUChnBxEeRzS', 0.698, 0.813, 1, -11.358, 1, 0.0429, 0.0375, 2.3e-05, 0.99, 0.859, 108.753, 273200, 4, 16.36532, 11]
+160
+Fetching ['(Love Is Like A) Heat Wave - Single Version', 'Martha Reeves & The Vandellas', 'spotify:track:3EyLSmOtkehB1cnZ57CAwf'] ....Fetched!
+['(Love Is Like A) Heat Wave - Single Version', 'Martha Reeves & The Vandellas', 'spotify:track:3EyLSmOtkehB1cnZ57CAwf', 0.513, 0.847, 5, -2.922, 0, 0.0535, 0.478, 0.0272, 0.343, 0.817, 82.967, 165667, 4, 43.61603, 8]
+194
+Fetching ['Stop', 'The Eric Burdon Band', 'spotify:track:5nQKAOaa0W8Sd8rYLeZ7U7'] ....Fetched!
+['Stop', 'The Eric Burdon Band', 'spotify:track:5nQKAOaa0W8Sd8rYLeZ7U7', 0.589, 0.85, 7, -8.688, 1, 0.155, 0.263, 0.00362, 0.0871, 0.822, 175.969, 346267, 4, 20.26645, 17]
+148
+Fetching ['Happiness Is Just Around the Bend', 'Cuba Gooding', 'spotify:track:1gsMEIDEcx1FlbcaTvKMnT'] ....Fetched!
+['Happiness Is Just Around the Bend', 'Cuba Gooding', 'spotify:track:1gsMEIDEcx1FlbcaTvKMnT', 0.872, 0.662, 7, -13.516, 0, 0.0385, 0.0976, 0.0475, 0.0546, 0.968, 119.656, 421267, 4, 54.88888, 16]
+172
+Fetching ['Detroit', 'Rancid', 'spotify:track:06yrcI03mmIh5bNtGMn2k5'] ....Fetched!
+['Detroit', 'Rancid', 'spotify:track:06yrcI03mmIh5bNtGMn2k5', 0.318, 0.932, 9, -7.003, 1, 0.0611, 0.00139, 1.13e-06, 0.0754, 0.667, 133.198, 144400, 4, 33.54382, 7]
+141
+Fetching ['Hush', 'Kula Shaker', 'spotify:track:4041m5Nr5GuEaqDSq9wjXa'] ....Fetched!
+['Hush', 'Kula Shaker', 'spotify:track:4041m5Nr5GuEaqDSq9wjXa', 0.484, 0.852, 8, -6.83, 1, 0.0451, 0.000251, 1.05e-06, 0.0761, 0.806, 117.792, 174787, 4, 24.46894, 8]
+143
+Fetching ['Rhine & Courtesan', 'Rachel Grimes', 'spotify:track:5SCxuR2smiL27d7onaqJ0t'] ....Fetched!
+['Rhine & Courtesan', 'Rachel Grimes', 'spotify:track:5SCxuR2smiL27d7onaqJ0t', 0.275, 0.514, 4, -17.614, 1, 0.0805, 0.9, 0.934, 0.218, 0.33, 140.979, 401160, 3, 103.21099, 9]
+151
+Fetching ["That's Where I Went Wrong", 'The Poppy Family', 'spotify:track:3P6JWWqtWFKPB8Gr47TI3C'] ....Fetched!
+["That's Where I Went Wrong", 'The Poppy Family', 'spotify:track:3P6JWWqtWFKPB8Gr47TI3C', 0.581, 0.83, 0, -7.966, 1, 0.0547, 0.0224, 0.00312, 0.217, 0.783, 102.965, 152933, 4, 38.2907, 8]
+164
+Fetching ['Peppermint Twist', 'Joey Dee', 'spotify:track:3qaxvM6GoaZEiOySyYV4e2'] ....Fetched!
+['Peppermint Twist', 'Joey Dee', 'spotify:track:3qaxvM6GoaZEiOySyYV4e2', 0.416, 0.707, 0, -11.573, 1, 0.144, 0.347, 0, 0.708, 0.691, 198.612, 119160, 4, 43.55202, 7]
+142
+Fetching ['Wasted Time', 'Coffin Break', 'spotify:track:2VDAx9p6ZAugiMmDdsLjJH'] ....Fetched!
+['Wasted Time', 'Coffin Break', 'spotify:track:2VDAx9p6ZAugiMmDdsLjJH', 0.312, 0.948, 4, -6.981, 0, 0.0536, 0.000659, 0, 0.413, 0.456, 95.996, 149640, 4, 47.71518, 7]
+143
+Fetching ['Airegin', 'Grant Green', 'spotify:track:3ccPNJ50ja94sxlEJGAU9k'] ....Fetched!
+['Airegin', 'Grant Green', 'spotify:track:3ccPNJ50ja94sxlEJGAU9k', 0.536, 0.387, 5, -14.337, 0, 0.0434, 0.907, 0.168, 0.154, 0.576, 117.413, 452027, 4, 55.2741, 15]
+141
+Fetching ['Secret Agent Man', 'Johnny Rivers', 'spotify:track:2BlaUfBTbWG50DoZHBD1uV'] ....Fetched!
+['Secret Agent Man', 'Johnny Rivers', 'spotify:track:2BlaUfBTbWG50DoZHBD1uV', 0.539, 0.452, 4, -16.838, 0, 0.0461, 0.0238, 0.0197, 0.944, 0.928, 163.101, 185493, 4, 26.86035, 10]
+155
+Fetching ['I Need You', '3T', 'spotify:track:23QoOLhWKM7AdVgEWLGkKl'] ....Fetched!
+['I Need You', '3T', 'spotify:track:23QoOLhWKM7AdVgEWLGkKl', 0.582, 0.276, 5, -11.57, 1, 0.0286, 0.898, 1.23e-05, 0.0916, 0.198, 126.003, 234667, 4, 31.19268, 10]
+139
+Fetching ['Holier Than Thou', 'Metallica', 'spotify:track:1yOvj5DRzCxeQCts03MVTw'] ....Fetched!
+['Holier Than Thou', 'Metallica', 'spotify:track:1yOvj5DRzCxeQCts03MVTw', 0.48, 0.959, 5, -6.227, 1, 0.0376, 0.000288, 0.674, 0.0507, 0.348, 172.186, 227733, 4, 48.15199, 13]
+151
+Fetching ['French Kiss - The Original Underground Mix', "Lil' Louis", 'spotify:track:7hnqJYCKZFW7vMoykaraZG'] ....Fetched!
+['French Kiss - The Original Underground Mix', "Lil' Louis", 'spotify:track:7hnqJYCKZFW7vMoykaraZG', 0.689, 0.505, 6, -13.846, 1, 0.0867, 0.0133, 0.818, 0.345, 0.564, 123.948, 591733, 4, 58.71939, 17]
+177
+Fetching ['Linoleum', 'NOFX', 'spotify:track:4uB28m7RAflobYpnLMb6A2'] ....Fetched!
+['Linoleum', 'NOFX', 'spotify:track:4uB28m7RAflobYpnLMb6A2', 0.18, 0.934, 4, -8.699, 1, 0.115, 3.32e-05, 0.000551, 0.0702, 0.433, 197.043, 130267, 4, 29.5052, 8]
+138
+Fetching ['Fight the Youth', 'Fishbone', 'spotify:track:4gcKigEV6Ruix4ryUbzcpR'] ....Fetched!
+['Fight the Youth', 'Fishbone', 'spotify:track:4gcKigEV6Ruix4ryUbzcpR', 0.57, 0.964, 0, -7.062, 1, 0.088, 0.00529, 0.000173, 0.0656, 0.437, 107.782, 299667, 4, 31.03828, 15]
+150
+Fetching ["I Don't Know", 'Duke Pearson', 'spotify:track:5vQwcQLmxBg4kjY246sS4J'] ....Fetched!
+["I Don't Know", 'Duke Pearson', 'spotify:track:5vQwcQLmxBg4kjY246sS4J', 0.313, 0.537, 9, -17.712, 1, 0.0383, 0.795, 0.609, 0.194, 0.761, 67.732, 418760, 4, 38.37545, 16]
+147
+Fetching ['Shimmer - Single Version', 'Fuel', 'spotify:track:74KI6d8jEM2zwOAo3luayU'] ....Fetched!
+['Shimmer - Single Version', 'Fuel', 'spotify:track:74KI6d8jEM2zwOAo3luayU', 0.479, 0.795, 4, -6.408, 0, 0.0421, 0.00236, 0, 0.19, 0.432, 114.675, 214107, 4, 32.76098, 8]
+147
+Fetching ["It's Only A Paper Moon", 'Nat King Cole', 'spotify:track:7pVEMg7yPouZrE6h6iZAgy'] ....Fetched!
+["It's Only A Paper Moon", 'Nat King Cole', 'spotify:track:7pVEMg7yPouZrE6h6iZAgy', 0.713, 0.168, 8, -15.195, 1, 0.047, 0.971, 3.94e-05, 0.117, 0.609, 141.902, 177733, 4, 37.6791, 9]
+159
+Fetching ['What I Got', 'Sublime', 'spotify:track:3B4q6KbHbGV51HO3GznBFF'] ....Fetched!
+['What I Got', 'Sublime', 'spotify:track:3B4q6KbHbGV51HO3GznBFF', 0.804, 0.696, 7, -7.47, 1, 0.0899, 0.00877, 0.000985, 0.314, 0.657, 95.721, 170907, 4, 108.73644, 5]
+143
+Fetching ["High Flyin' Bird", 'Plague', 'spotify:track:6dE0Tlnvbbv2HKCdJsTdNx'] ....Fetched!
+["High Flyin' Bird", 'Plague', 'spotify:track:6dE0Tlnvbbv2HKCdJsTdNx', 0.494, 0.762, 4, -9.303, 0, 0.0322, 0.000131, 0.00574, 0.116, 0.96, 138.434, 131267, 4, 52.22865, 7]
+148
+Fetching ['New Attitude - Remix', 'Patti LaBelle', 'spotify:track:4Wf4p9mSn8furYGuAUSbun'] ....Fetched!
+['New Attitude - Remix', 'Patti LaBelle', 'spotify:track:4Wf4p9mSn8furYGuAUSbun', 0.896, 0.622, 9, -11.019, 1, 0.0629, 0.0688, 0.00132, 0.112, 0.978, 137.23, 279973, 4, 19.3248, 12]
+158
+Fetching ["Hurtin' Kind of Woman", 'The Freeborne', 'spotify:track:4wKIfxjfHN5OEZdSu6CmcM'] ....Fetched!
+["Hurtin' Kind of Woman", 'The Freeborne', 'spotify:track:4wKIfxjfHN5OEZdSu6CmcM', 0.258, 0.337, 2, -15.442, 0, 0.0422, 0.312, 5.45e-05, 0.101, 0.214, 185.112, 257173, 3, 45.11056, 9]
+160
+Fetching ['The Freshmen', 'The Verve Pipe', 'spotify:track:3rfDfPjgHDQ1BUaSHr9xoI'] ....Fetched!
+['The Freshmen', 'The Verve Pipe', 'spotify:track:3rfDfPjgHDQ1BUaSHr9xoI', 0.577, 0.497, 1, -9.371, 0, 0.0235, 0.0619, 1.07e-05, 0.11, 0.279, 99.662, 269467, 4, 60.55702, 11]
+151
+Fetching ['Stretchin\' Out - Special 12" Mix', 'Gayle Adams', 'spotify:track:1pH508sFa8CrL2KK3lLjq8'] ....Fetched!
+['Stretchin\' Out - Special 12" Mix', 'Gayle Adams', 'spotify:track:1pH508sFa8CrL2KK3lLjq8', 0.81, 0.512, 3, -12.12, 0, 0.0692, 0.03, 0.000282, 0.0406, 0.922, 113.182, 486707, 4, 87.97392, 16]
+171
+Fetching ['Blue Moon Rising', 'Gomez', 'spotify:track:1eN9PyijULNGfgNeyE4kvb'] ....Fetched!
+['Blue Moon Rising', 'Gomez', 'spotify:track:1eN9PyijULNGfgNeyE4kvb', 0.356, 0.561, 4, -12.178, 1, 0.0419, 0.369, 0.0666, 0.135, 0.53, 146.444, 288040, 4, 46.67987, 11]
+145
+Fetching ['Never Gonna Let Him Know', 'Debbie Taylor', 'spotify:track:4JeMhwaWomX8RcOwLxTgWi'] ....Fetched!
+['Never Gonna Let Him Know', 'Debbie Taylor', 'spotify:track:4JeMhwaWomX8RcOwLxTgWi', 0.501, 0.693, 0, -5.835, 1, 0.038, 0.661, 0, 0.257, 0.844, 87.261, 176933, 4, 69.04858, 8]
+153
+Fetching ['Vous qui passez sans me voir', 'Charles Trenet', 'spotify:track:1pRi0SyYVKWFPTN6mLSAjE'] ....Fetched!
+['Vous qui passez sans me voir', 'Charles Trenet', 'spotify:track:1pRi0SyYVKWFPTN6mLSAjE', 0.257, 0.164, 4, -16.749, 1, 0.0356, 0.976, 0.0751, 0.359, 0.247, 70.829, 198360, 3, 35.84373, 10]
+166
+Fetching ['Save Yourself', 'Stabbing Westward', 'spotify:track:561spezvXFVnAOYoSv4Bxy'] ....Fetched!
+['Save Yourself', 'Stabbing Westward', 'spotify:track:561spezvXFVnAOYoSv4Bxy', 0.569, 0.858, 1, -6.768, 1, 0.034, 3.11e-05, 0.197, 0.272, 0.0869, 110.003, 253573, 4, 25.88743, 13]
+156
+Fetching ['Tiene Espinas El Rosal', 'Grupo CaÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â±averal De Humberto PabÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â³n', 'spotify:track:1PZ3QsCFec05Ls3PwOqKXZ'] ....Fetched!
+['Tiene Espinas El Rosal', 'Grupo CaÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â±averal De Humberto PabÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â³n', 'spotify:track:1PZ3QsCFec05Ls3PwOqKXZ', 0.68, 0.423, 11, -11.112, 0, 0.136, 0.0343, 0, 0.0925, 0.822, 169.184, 237960, 4, 30.53947, 11]
+206
+Fetching ['Ready Teddy', 'Little Richard', 'spotify:track:5yJOiThnWVufuoTJuuYCoo'] ....Fetched!
+['Ready Teddy', 'Little Richard', 'spotify:track:5yJOiThnWVufuoTJuuYCoo', 0.479, 0.589, 5, -10.499, 1, 0.107, 0.699, 0, 0.109, 0.969, 205.283, 127667, 4, 38.16279, 8]
+143
+Fetching ['The Nitty Gritty', 'Gladys Knight & The Pips', 'spotify:track:7z7XwXQcIcSd5KRVbwmxTc'] ....Fetched!
+['The Nitty Gritty', 'Gladys Knight & The Pips', 'spotify:track:7z7XwXQcIcSd5KRVbwmxTc', 0.696, 0.707, 1, -10.78, 1, 0.05, 0.456, 0, 0.206, 0.967, 108.759, 180627, 4, 28.56456, 7]
+156
+Fetching ['The Second Waltz, Op. 99a', 'AndrÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â© Rieu', 'spotify:track:1OHIVq8ACuay1OKvp6lAQR'] ....Fetched!
+['The Second Waltz, Op. 99a', 'AndrÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â© Rieu', 'spotify:track:1OHIVq8ACuay1OKvp6lAQR', 0.239, 0.222, 0, -14.558, 0, 0.0329, 0.922, 0.888, 0.102, 0.48, 187.214, 220867, 3, 23.40043, 10]
+175
+Fetching ['Mogwai Fear Satan', 'Mogwai', 'spotify:track:1Ipg5JcUbE2gnLzmkxcDJ9'] ....Fetched!
+['Mogwai Fear Satan', 'Mogwai', 'spotify:track:1Ipg5JcUbE2gnLzmkxcDJ9', 0.241, 0.577, 1, -9.439, 0, 0.0429, 0.0105, 0.821, 0.144, 0.124, 106.582, 979560, 4, 41.19217, 45]
+147
+Fetching ['Between the Lines', 'Bullet Lavolta', 'spotify:track:0qKYLUl3uOHEHXbmxtooXS'] ....Fetched!
+['Between the Lines', 'Bullet Lavolta', 'spotify:track:0qKYLUl3uOHEHXbmxtooXS', 0.503, 0.983, 0, -6.967, 1, 0.0848, 0.0162, 0.0458, 0.0959, 0.238, 123.472, 264707, 4, 32.06809, 15]
+157
+Fetching ['Jimmy Mack', 'Martha Reeves & The Vandellas', 'spotify:track:7fZ1qZ81Ir9vngO848SN3I'] ....Fetched!
+['Jimmy Mack', 'Martha Reeves & The Vandellas', 'spotify:track:7fZ1qZ81Ir9vngO848SN3I', 0.71, 0.511, 2, -7.107, 1, 0.0356, 0.76, 0, 0.44, 0.663, 127.312, 163507, 4, 40.10438, 9]
+154
+Fetching ["The Bird's The Word", 'The Rivingtons', 'spotify:track:4niy5jbEb70771kN6GitE6'] ....Fetched!
+["The Bird's The Word", 'The Rivingtons', 'spotify:track:4niy5jbEb70771kN6GitE6', 0.607, 0.61, 8, -14.915, 1, 0.057, 0.047, 0.00041, 0.0949, 0.947, 159.778, 132293, 4, 82.93071, 5]
+157
+Fetching ['Twilight - Instrumental', 'Maze', 'spotify:track:1iNvN5QnUV9B9t48rKxopr'] ....Fetched!
+['Twilight - Instrumental', 'Maze', 'spotify:track:1iNvN5QnUV9B9t48rKxopr', 0.761, 0.89, 11, -11.827, 0, 0.0511, 0.0717, 0.79, 0.0858, 0.965, 104.019, 447027, 4, 34.34384, 14]
+152
+Fetching ['Cold Winter Sun Symphony In D Major', 'Faine Jade', 'spotify:track:5ckKxhNHzk91wiNbs9HPmY'] ....Fetched!
+['Cold Winter Sun Symphony In D Major', 'Faine Jade', 'spotify:track:5ckKxhNHzk91wiNbs9HPmY', 0.402, 0.386, 7, -16.516, 1, 0.0574, 0.335, 0, 0.563, 0.338, 92.818, 194600, 4, 44.08522, 7]
+163
+Fetching ['One Out Of Four', 'Seaweed', 'spotify:track:05jASuZRTyNnjjugE4PatS'] ....Fetched!
+['One Out Of Four', 'Seaweed', 'spotify:track:05jASuZRTyNnjjugE4PatS', 0.455, 0.905, 9, -10.694, 1, 0.0403, 0.0374, 2.13e-05, 0.1, 0.541, 134.426, 162427, 4, 70.85456, 5]
+147
+Fetching ['If I Never Knew You', 'Jon Secada', 'spotify:track:5cFqppEEaSW7zHnX3qk2ku'] ....Fetched!
+['If I Never Knew You', 'Jon Secada', 'spotify:track:5cFqppEEaSW7zHnX3qk2ku', 0.547, 0.271, 0, -14.811, 1, 0.0268, 0.624, 5.49e-05, 0.164, 0.184, 108.138, 251373, 4, 34.53225, 12]
+156
+Fetching ['A Walk', 'Bad Religion', 'spotify:track:5hSqYDZhfykxlSb6jBEA4A'] ....Fetched!
+['A Walk', 'Bad Religion', 'spotify:track:5hSqYDZhfykxlSb6jBEA4A', 0.341, 0.945, 0, -5.264, 1, 0.0913, 5.3e-05, 0.00308, 0.133, 0.629, 170.326, 134133, 4, 23.38585, 5]
+144
+Fetching ['Orgasm Addict', 'Buzzcocks', 'spotify:track:2f9j7k2Rm3dGvdU3bhjpHV'] ....Fetched!
+['Orgasm Addict', 'Buzzcocks', 'spotify:track:2f9j7k2Rm3dGvdU3bhjpHV', 0.295, 0.889, 4, -7.619, 1, 0.158, 0.00134, 0, 0.292, 0.615, 92.383, 122667, 4, 31.38009, 5]
+140
+Fetching ["It's Cold Outside", 'The Choir', 'spotify:track:5ScW4qn0ZjVktOLxOT3MM8'] ....Fetched!
+["It's Cold Outside", 'The Choir', 'spotify:track:5ScW4qn0ZjVktOLxOT3MM8', 0.347, 0.794, 9, -8.052, 1, 0.0424, 0.000814, 0.000174, 0.0969, 0.794, 79.045, 169200, 4, 70.9338, 6]
+153
+Fetching ['Promises, Promises', 'Naked Eyes', 'spotify:track:0SjL1Dzmi09shiQ7RAFz4X'] ....Fetched!
+['Promises, Promises', 'Naked Eyes', 'spotify:track:0SjL1Dzmi09shiQ7RAFz4X', 0.805, 0.478, 9, -13.359, 0, 0.0608, 0.0895, 0.00588, 0.208, 0.9, 112.616, 268267, 4, 20.7076, 14]
+154
+Fetching ['Obscurity Knocks', 'Trashcan Sinatras', 'spotify:track:6Pbbz7hVhl3F8abGVDt06H'] ....Fetched!
+['Obscurity Knocks', 'Trashcan Sinatras', 'spotify:track:6Pbbz7hVhl3F8abGVDt06H', 0.51, 0.872, 9, -8.201, 1, 0.03, 0.0989, 0, 0.0601, 0.818, 112.179, 253293, 4, 35.19552, 11]
+151
+Fetching ['All The Small Things', 'blink-182', 'spotify:track:2m1hi0nfMR9vdGC8UcrnwU'] ....Fetched!
+['All The Small Things', 'blink-182', 'spotify:track:2m1hi0nfMR9vdGC8UcrnwU', 0.434, 0.897, 0, -4.918, 1, 0.0488, 0.0103, 0, 0.612, 0.684, 148.726, 167067, 4, 46.14371, 8]
+148
+Fetching ['(Baby Tell Me) Can You Dance', 'Shanice', 'spotify:track:0wLLY7tGYpv5hNDBlGzF1B'] ....Fetched!
+['(Baby Tell Me) Can You Dance', 'Shanice', 'spotify:track:0wLLY7tGYpv5hNDBlGzF1B', 0.765, 0.896, 7, -7.895, 1, 0.112, 0.103, 0.000256, 0.362, 0.594, 111.191, 289373, 4, 21.89432, 15]
+160
+Fetching ['Native Love (Step By Step) - Remix', 'Divine', 'spotify:track:6aZIT1I0wyheyoE0c1cRmB'] ....Fetched!
+['Native Love (Step By Step) - Remix', 'Divine', 'spotify:track:6aZIT1I0wyheyoE0c1cRmB', 0.709, 0.898, 6, -12.103, 0, 0.0491, 1.18e-05, 0.946, 0.488, 0.686, 125.974, 505507, 4, 50.99345, 23]
+167
+Fetching ['Gotta Serve Somebody', "Booker T. & the M.G.'s", 'spotify:track:08i2zspoPPRK26pXoFkamD'] ....Fetched!
+['Gotta Serve Somebody', "Booker T. & the M.G.'s", 'spotify:track:08i2zspoPPRK26pXoFkamD', 0.732, 0.611, 9, -8.546, 1, 0.0323, 0.187, 0.888, 0.0684, 0.82, 95.66, 264000, 4, 29.43854, 12]
+163
+Fetching ['Good Morning Britain', 'Aztec Camera', 'spotify:track:0IVMSJTtLbhJEjnOVlbOYD'] ....Fetched!
+['Good Morning Britain', 'Aztec Camera', 'spotify:track:0IVMSJTtLbhJEjnOVlbOYD', 0.574, 0.874, 11, -10.403, 1, 0.0357, 0.00252, 3.04e-05, 0.055, 0.563, 120.089, 242533, 4, 28.76909, 10]
+162
+Fetching ['Laid', 'James', 'spotify:track:2CdS3DRqWR5LAhy4hM5X9W'] ....Fetched!
+['Laid', 'James', 'spotify:track:2CdS3DRqWR5LAhy4hM5X9W', 0.457, 0.909, 0, -9.451, 1, 0.0317, 0.0016, 0.000276, 0.135, 0.755, 115.998, 156667, 4, 52.97166, 8]
+135
+Fetching ['Sucked Out', 'Superdrag', 'spotify:track:4YN94yxYWFfhk9YbmOIqR4'] ....Fetched!
+['Sucked Out', 'Superdrag', 'spotify:track:4YN94yxYWFfhk9YbmOIqR4', 0.403, 0.767, 4, -6.743, 1, 0.0431, 0.0366, 0, 0.318, 0.743, 125.469, 166800, 4, 26.19348, 8]
+138
+Fetching ['American Grotto', 'The Wake', 'spotify:track:505m5TUBYZrKc2gXH2xITE'] ....Fetched!
+['American Grotto', 'The Wake', 'spotify:track:505m5TUBYZrKc2gXH2xITE', 0.581, 0.651, 4, -12.025, 1, 0.0314, 0.00836, 7.07e-05, 0.0458, 0.788, 134.965, 253533, 4, 27.70947, 17]
+153
+Fetching ["Don't Ask My Neighbors", 'The Emotions', 'spotify:track:4CEZZT4CwJMJiImFpJYIEF'] ....Fetched!
+["Don't Ask My Neighbors", 'The Emotions', 'spotify:track:4CEZZT4CwJMJiImFpJYIEF', 0.564, 0.354, 8, -15.456, 1, 0.0366, 0.742, 0.00177, 0.0887, 0.668, 140.492, 265867, 4, 49.38576, 12]
+161
+Fetching ['Where Do You Go', 'No Mercy', 'spotify:track:1i7Gv6yN5aCyygveod0QDH'] ....Fetched!
+['Where Do You Go', 'No Mercy', 'spotify:track:1i7Gv6yN5aCyygveod0QDH', 0.729, 0.816, 10, -11.018, 0, 0.032, 0.0354, 0.0947, 0.0866, 0.962, 127.053, 272200, 4, 19.04878, 11]
+150
+Fetching ['Nature Boy', 'Monica Zetterlund', 'spotify:track:0k3bx2UtmdlQFsPrnEHPAa'] ....Fetched!
+['Nature Boy', 'Monica Zetterlund', 'spotify:track:0k3bx2UtmdlQFsPrnEHPAa', 0.504, 0.119, 8, -17.866, 1, 0.0389, 0.916, 0.00874, 0.108, 0.326, 78.093, 178907, 4, 25.69336, 10]
+152
+Fetching ['Trapped - 12" Regisford Vocal Mix', 'Colonel Abrams', 'spotify:track:3OAicffPYplAylDTMmQc9L'] ....Fetched!
+['Trapped - 12" Regisford Vocal Mix', 'Colonel Abrams', 'spotify:track:3OAicffPYplAylDTMmQc9L', 0.792, 0.73, 9, -11.131, 1, 0.0431, 0.0484, 0.000677, 0.125, 0.885, 115.293, 392827, 4, 35.10761, 17]
+177
+Fetching ['Wonderwall', 'Oasis', 'spotify:track:79RUMZfMNMpqZnswovvTqv'] ....Fetched!
+['Wonderwall', 'Oasis', 'spotify:track:79RUMZfMNMpqZnswovvTqv', 0.412, 0.844, 2, -5.613, 1, 0.037, 0.00214, 0, 0.134, 0.459, 174.452, 258907, 4, 44.98985, 14]
+135
+Fetching ['Please Mr. Sun', 'Tommy Edwards', 'spotify:track:5FtczIMM0wilBq6sNjGgdW'] ....Fetched!
+['Please Mr. Sun', 'Tommy Edwards', 'spotify:track:5FtczIMM0wilBq6sNjGgdW', 0.472, 0.4, 0, -10.145, 0, 0.0388, 0.698, 0, 0.344, 0.425, 115.822, 142680, 4, 29.07269, 7]
+144
+Fetching ['Harness Your Hopes - (B-side)', 'Pavement', 'spotify:track:4tggZyGJMNJMooWuRbvN5q'] ....Fetched!
+['Harness Your Hopes - (B-side)', 'Pavement', 'spotify:track:4tggZyGJMNJMooWuRbvN5q', 0.605, 0.573, 2, -7.804, 1, 0.037, 0.289, 0.0406, 0.133, 0.581, 107.882, 206947, 4, 34.87487, 8]
+159
+Fetching ['Because the Night - MTV Unplugged Version', '10,000 Maniacs', 'spotify:track:5VzvK7YiwWbRePA2JOzhYq'] ....Fetched!
+['Because the Night - MTV Unplugged Version', '10,000 Maniacs', 'spotify:track:5VzvK7YiwWbRePA2JOzhYq', 0.408, 0.79, 11, -8.138, 0, 0.103, 0.26, 0.00027, 0.765, 0.347, 122.624, 223373, 4, 25.14097, 8]
+179
+Fetching ['Flagpole Sitta', 'Harvey Danger', 'spotify:track:7cz70nyRXlCJOE85whEkgU'] ....Fetched!
+['Flagpole Sitta', 'Harvey Danger', 'spotify:track:7cz70nyRXlCJOE85whEkgU', 0.361, 0.901, 4, -4.133, 0, 0.0443, 0.00152, 0.000263, 0.286, 0.482, 144.97, 217267, 4, 40.34777, 10]
+154
+Fetching ['Jerry Was A Race Car Driver', 'Primus', 'spotify:track:19C0LKY3DCcQtuviPJNy5d'] ....Fetched!
+['Jerry Was A Race Car Driver', 'Primus', 'spotify:track:19C0LKY3DCcQtuviPJNy5d', 0.508, 0.887, 1, -12.377, 0, 0.0661, 0.0099, 0.392, 0.345, 0.724, 122.655, 190840, 4, 30.63422, 10]
+158
+Fetching ['Motorcycle Drive By', 'Third Eye Blind', 'spotify:track:47wtXjG0Sk6DI6cjkRBcEg'] ....Fetched!
+['Motorcycle Drive By', 'Third Eye Blind', 'spotify:track:47wtXjG0Sk6DI6cjkRBcEg', 0.422, 0.577, 0, -9.292, 1, 0.0263, 0.0127, 0.000861, 0.0848, 0.615, 122.506, 262627, 4, 68.55009, 10]
+162
+Fetching ["It's All In The Game", 'Tommy Edwards', 'spotify:track:01OFUZ8btJxFI6n5igQUqx'] ....Fetched!
+["It's All In The Game", 'Tommy Edwards', 'spotify:track:01OFUZ8btJxFI6n5igQUqx', 0.332, 0.148, 3, -17.523, 1, 0.032, 0.864, 0.0609, 0.206, 0.613, 70.881, 156440, 4, 99.79165, 6]
+155
+Fetching ["Walkin' Back to Happiness", 'Helen Shapiro', 'spotify:track:3mNfU0psAm7h3s6Dn6i7SD'] ....Fetched!
+["Walkin' Back to Happiness", 'Helen Shapiro', 'spotify:track:3mNfU0psAm7h3s6Dn6i7SD', 0.663, 0.542, 8, -8.842, 1, 0.0825, 0.775, 0, 0.222, 0.799, 97.581, 151293, 4, 37.45653, 5]
+155
+Fetching ['Siren', 'Old Time Relijun', 'spotify:track:2rElL2fLoAjKORz2taZRU0'] ....Fetched!
+['Siren', 'Old Time Relijun', 'spotify:track:2rElL2fLoAjKORz2taZRU0', 0.691, 0.639, 2, -7.214, 1, 0.0557, 0.0123, 0.00103, 0.269, 0.119, 112.633, 233840, 4, 30.31495, 5]
+146
+Fetching ['Writing to Reach You', 'Travis', 'spotify:track:2sEVSoY0BEBdzS3DY1opmV'] ....Fetched!
+['Writing to Reach You', 'Travis', 'spotify:track:2sEVSoY0BEBdzS3DY1opmV', 0.222, 0.652, 9, -8.385, 1, 0.0311, 0.0457, 0.00191, 0.164, 0.513, 163.817, 221760, 4, 28.75936, 11]
+152
+Fetching ['Song Against Sex', 'Neutral Milk Hotel', 'spotify:track:7ssaUVHbfPV4XX7k8idurx'] ....Fetched!
+['Song Against Sex', 'Neutral Milk Hotel', 'spotify:track:7ssaUVHbfPV4XX7k8idurx', 0.253, 0.706, 10, -9.613, 1, 0.0627, 2.34e-05, 0.564, 0.126, 0.694, 172.413, 220893, 4, 107.41704, 6]
+161
+Fetching ['Still Got the Magic (Sweet Delight)', 'Michael Wycoff', 'spotify:track:5cCvQZqm1gePbs3S44lfWN'] ....Fetched!
+['Still Got the Magic (Sweet Delight)', 'Michael Wycoff', 'spotify:track:5cCvQZqm1gePbs3S44lfWN', 0.744, 0.819, 7, -6.005, 1, 0.072, 0.035, 3.97e-05, 0.159, 0.764, 107.334, 349800, 4, 40.01893, 15]
+174
+Fetching ['Say It', 'Voices of Theory', 'spotify:track:5919i3Sp9U2IE5m7hhlgSw'] ....Fetched!
+['Say It', 'Voices of Theory', 'spotify:track:5919i3Sp9U2IE5m7hhlgSw', 0.381, 0.415, 0, -10.298, 1, 0.0691, 0.675, 0, 0.0795, 0.257, 61.908, 269467, 3, 26.47203, 9]
+141
+Fetching ['Talking With Myself', 'Electribe 101', 'spotify:track:2OKwqQZe84gj37VMYRUD7E'] ....Fetched!
+['Talking With Myself', 'Electribe 101', 'spotify:track:2OKwqQZe84gj37VMYRUD7E', 0.735, 0.561, 7, -16.512, 1, 0.0454, 0.216, 0.15, 0.104, 0.851, 113.587, 382973, 4, 24.48376, 20]
+155
+Fetching ['Mars', 'Television', 'spotify:track:4aD0RFy4Y6i8eToTXdizZZ'] ....Fetched!
+['Mars', 'Television', 'spotify:track:4aD0RFy4Y6i8eToTXdizZZ', 0.643, 0.5, 0, -11.954, 1, 0.0503, 0.263, 3.51e-05, 0.272, 0.352, 61.038, 296373, 4, 80.53493, 11]
+138
+Fetching ['Faster Horses (The Cowboy And The Poet) - Single Version', 'Tom T. Hall', 'spotify:track:42F490gsMX47Jp8lSRzlw0'] ....Fetched!
+['Faster Horses (The Cowboy And The Poet) - Single Version', 'Tom T. Hall', 'spotify:track:42F490gsMX47Jp8lSRzlw0', 0.665, 0.506, 7, -13.045, 1, 0.0483, 0.676, 1.06e-06, 0.359, 0.843, 114.947, 172627, 4, 48.6626, 8]
+192
+Fetching ["Rockin' Robin-Bobby Day", 'Various Artists', 'spotify:track:1uhRE4sY2O3QO8OV8DM1vj'] ....Fetched!
+["Rockin' Robin-Bobby Day", 'Various Artists', 'spotify:track:1uhRE4sY2O3QO8OV8DM1vj', 0.538, 0.697, 7, -10.027, 1, 0.13, 0.327, 0, 0.214, 0.936, 171.853, 157173, 4, 26.2213, 9]
+154
+Fetching ['American Life', 'Primus', 'spotify:track:09WwqFDqX2zv8rlvf4xYAk'] ....Fetched!
+['American Life', 'Primus', 'spotify:track:09WwqFDqX2zv8rlvf4xYAk', 0.577, 0.642, 7, -12.851, 0, 0.0274, 0.0754, 0.572, 0.0551, 0.83, 90.514, 270107, 4, 28.80343, 12]
+143
+Fetching ['Make Her Mine', 'Hipster Image', 'spotify:track:2K930UOWKFc82yigXbJ70s'] ....Fetched!
+['Make Her Mine', 'Hipster Image', 'spotify:track:2K930UOWKFc82yigXbJ70s', 0.7, 0.681, 0, -10.419, 1, 0.0319, 0.207, 0, 0.0665, 0.928, 97.362, 138827, 4, 51.14178, 7]
+143
+Fetching ["Sweet Nothin's - Single Version", 'Brenda Lee', 'spotify:track:4vsXBH9u5EH3lRycXHOcII'] ....Fetched!
+["Sweet Nothin's - Single Version", 'Brenda Lee', 'spotify:track:4vsXBH9u5EH3lRycXHOcII', 0.805, 0.363, 5, -13.409, 1, 0.0578, 0.752, 0.000371, 0.109, 0.963, 126.382, 142933, 4, 69.33719, 5]
+167
+Fetching ["I Ain't No Nice Guy", 'MotÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â¶rhead', 'spotify:track:4cmC2SW1RVZusILirCrsCs'] ....Fetched!
+["I Ain't No Nice Guy", 'MotÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â¶rhead', 'spotify:track:4cmC2SW1RVZusILirCrsCs', 0.438, 0.381, 1, -10.849, 1, 0.0312, 0.459, 0.00154, 0.0963, 0.25, 73.683, 255800, 4, 45.20743, 9]
+167
+Fetching ['I Saw Her Again - Single Version / Stereo', 'The Mamas & The Papas', 'spotify:track:5uUXQMWsROZEf0HGNY8AbM'] ....Fetched!
+['I Saw Her Again - Single Version / Stereo', 'The Mamas & The Papas', 'spotify:track:5uUXQMWsROZEf0HGNY8AbM', 0.478, 0.75, 1, -9.158, 0, 0.0327, 0.125, 0.0331, 0.206, 0.888, 121.691, 195507, 4, 24.9257, 10]
+184
+Fetching ['No Voice In The Sky', 'MotÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â¶rhead', 'spotify:track:5BXqxkJcbpbDCrnfW9DB2N'] ....Fetched!
+['No Voice In The Sky', 'MotÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â¶rhead', 'spotify:track:5BXqxkJcbpbDCrnfW9DB2N', 0.312, 0.96, 8, -6.257, 1, 0.0527, 0.184, 0.15, 0.209, 0.381, 108.249, 252029, 4, 43.37546, 10]
+164
+Fetching ['Not a Lot to Save', 'Gruntruck', 'spotify:track:7sBSZWvxM82roWPHflEHoQ'] ....Fetched!
+['Not a Lot to Save', 'Gruntruck', 'spotify:track:7sBSZWvxM82roWPHflEHoQ', 0.325, 0.652, 11, -11.803, 0, 0.0317, 0.00988, 0.0752, 0.119, 0.566, 130.564, 230560, 4, 44.83337, 13]
+154
+Fetching ['The Earth, the Sun, the Rain', 'Color Me Badd', 'spotify:track:20lzW8sXHa20GVDyIwJihy'] ....Fetched!
+['The Earth, the Sun, the Rain', 'Color Me Badd', 'spotify:track:20lzW8sXHa20GVDyIwJihy', 0.29, 0.515, 9, -9.42, 1, 0.0865, 0.63, 0, 0.084, 0.28, 77.213, 256933, 4, 17.58795, 13]
+157
+Fetching ["I'm No Angel", 'Madleen Kane', 'spotify:track:2sS5NLZReTwtxJf52kGmBQ'] ....Fetched!
+["I'm No Angel", 'Madleen Kane', 'spotify:track:2sS5NLZReTwtxJf52kGmBQ', 0.831, 0.574, 5, -8.206, 1, 0.0428, 0.183, 0.142, 0.754, 0.511, 126.87, 401573, 4, 16.93324, 16]
+146
+Fetching ['Free Advice', 'The Great Society', 'spotify:track:1vbQbG8hEsVBJngEdMWmrw'] ....Fetched!
+['Free Advice', 'The Great Society', 'spotify:track:1vbQbG8hEsVBJngEdMWmrw', 0.496, 0.627, 9, -9.739, 1, 0.0324, 0.257, 0.00107, 0.163, 0.841, 106.601, 152400, 4, 19.62191, 7]
+152
+Fetching ["It Ain't Necessarily So", 'Grant Green', 'spotify:track:59cZoQolK49mpslwfhkN7f'] ....Fetched!
+["It Ain't Necessarily So", 'Grant Green', 'spotify:track:59cZoQolK49mpslwfhkN7f', 0.555, 0.466, 3, -12.229, 0, 0.038, 0.899, 0.0245, 0.0618, 0.438, 117.592, 622907, 4, 76.38664, 24]
+159
+Fetching ['Aida', 'RenÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â© McLean', 'spotify:track:0pyXzvEDwuYB6WV9eXnuKE'] ....Fetched!
+['Aida', 'RenÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â© McLean', 'spotify:track:0pyXzvEDwuYB6WV9eXnuKE', 0.286, 0.278, 9, -16.93, 0, 0.042, 0.941, 0.785, 0.106, 0.0896, 77.546, 330400, 3, 36.06783, 14]
+152
+Fetching ['Everlong', 'Foo Fighters', 'spotify:track:53Hic0gf2TABaSEXXhSgij'] ....Fetched!
+['Everlong', 'Foo Fighters', 'spotify:track:53Hic0gf2TABaSEXXhSgij', 0.419, 0.87, 11, -5.528, 0, 0.0377, 6.34e-05, 0.000135, 0.0825, 0.356, 157.93, 250160, 4, 85.63448, 8]
+148
+Fetching ['Shitlist', 'L7', 'spotify:track:7fxpqs4G8vj3rFYbJnsG7w'] ....Fetched!
+['Shitlist', 'L7', 'spotify:track:7fxpqs4G8vj3rFYbJnsG7w', 0.419, 0.916, 1, -8.373, 1, 0.0604, 9.2e-06, 0.194, 0.0751, 0.496, 128.98, 175293, 4, 23.72776, 6]
+134
+Fetching ['Under Pressure', 'Queen', 'spotify:track:3fFqJS7TleIhHfzuix8zY1'] ....Fetched!
+['Under Pressure', 'Queen', 'spotify:track:3fFqJS7TleIhHfzuix8zY1', 0.671, 0.533, 2, -12.708, 1, 0.0523, 0.392, 0, 0.0833, 0.405, 113.473, 237160, 4, 54.45513, 10]
+140
+Fetching ['Full of Fire', 'Shalamar', 'spotify:track:5R5PNhELQRDNSlRWElQvkH'] ....Fetched!
+['Full of Fire', 'Shalamar', 'spotify:track:5R5PNhELQRDNSlRWElQvkH', 0.775, 0.826, 5, -5.209, 0, 0.0738, 0.218, 1.54e-06, 0.277, 0.886, 118.774, 377613, 4, 34.55626, 17]
+146
+Fetching ['The Truth Is Not Real', 'Sagittarius', 'spotify:track:1pZEVDshc90JvKi2M84SJs'] ....Fetched!
+['The Truth Is Not Real', 'Sagittarius', 'spotify:track:1pZEVDshc90JvKi2M84SJs', 0.235, 0.474, 5, -16.604, 1, 0.0442, 0.012, 6.98e-06, 0.195, 0.132, 160.423, 166023, 4, 58.79454, 8]
+158
+Fetching ['Lightning Crashes', 'Live', 'spotify:track:48iWbsOaBUAGzMdoSmqyg1'] ....Fetched!
+['Lightning Crashes', 'Live', 'spotify:track:48iWbsOaBUAGzMdoSmqyg1', 0.385, 0.433, 11, -9.256, 1, 0.0435, 0.241, 7.07e-06, 0.11, 0.427, 89.974, 325600, 4, 72.60311, 12]
+146
+Fetching ['Crazy over You', '112', 'spotify:track:1ccgfX1rFVEzJqdA54jUyY'] ....Fetched!
+['Crazy over You', '112', 'spotify:track:1ccgfX1rFVEzJqdA54jUyY', 0.603, 0.64, 3, -6.477, 0, 0.0384, 0.0626, 0, 0.15, 0.211, 113.749, 320960, 4, 34.63958, 15]
+135
+Fetching ['See You Later, Alligator', 'Bill Haley & His Comets', 'spotify:track:1s4hyUFWmLWiAamsclb4xA'] ....Fetched!
+['See You Later, Alligator', 'Bill Haley & His Comets', 'spotify:track:1s4hyUFWmLWiAamsclb4xA', 0.664, 0.702, 10, -11.841, 0, 0.0671, 0.313, 2.06e-06, 0.369, 0.737, 156.987, 165360, 4, 20.62688, 11]
+177
+Fetching ['One Look - One Look Was Enough', 'Paul Parker', 'spotify:track:62IK3XfFmPTHj5B6qxEFNX'] ....Fetched!
+['One Look - One Look Was Enough', 'Paul Parker', 'spotify:track:62IK3XfFmPTHj5B6qxEFNX', 0.718, 0.882, 8, -7.76, 0, 0.0531, 0.0664, 0.361, 0.263, 0.964, 117.52, 367960, 4, 70.0865, 12]
+162
+Fetching ['Secret Agent Man', 'Johnny Rivers', 'spotify:track:6DosMsjJw8ue2JNh45VJBx'] ....Fetched!
+['Secret Agent Man', 'Johnny Rivers', 'spotify:track:6DosMsjJw8ue2JNh45VJBx', 0.543, 0.445, 4, -16.834, 0, 0.0466, 0.0293, 0.00894, 0.964, 0.926, 163.126, 185507, 4, 28.48687, 12]
+156
+Fetching ['Canned Heat', 'Jamiroquai', 'spotify:track:2u5woInaGB7YASEd1CwGBJ'] ....Fetched!
+['Canned Heat', 'Jamiroquai', 'spotify:track:2u5woInaGB7YASEd1CwGBJ', 0.701, 0.861, 5, -5.821, 1, 0.118, 0.0131, 0.000209, 0.0751, 0.778, 128.033, 331733, 4, 30.31583, 11]
+148
+Fetching ['Hey Jealousy', 'Gin Blossoms', 'spotify:track:1ZoHRnS5U4m7V5pgvFiK1N'] ....Fetched!
+['Hey Jealousy', 'Gin Blossoms', 'spotify:track:1ZoHRnS5U4m7V5pgvFiK1N', 0.462, 0.801, 9, -7.405, 1, 0.0418, 0.000639, 1.51e-06, 0.34, 0.442, 153.01, 236067, 4, 38.77553, 11]
+151
+Fetching ['On & On', 'Erykah Badu', 'spotify:track:5dd8tOJwLqEvasVqvvrJzV'] ....Fetched!
+['On & On', 'Erykah Badu', 'spotify:track:5dd8tOJwLqEvasVqvvrJzV', 0.766, 0.397, 11, -10.414, 0, 0.154, 0.0473, 0.00765, 0.261, 0.344, 80.421, 225973, 4, 47.86081, 10]
+144
+Fetching ['Magic Carpet Ride', 'Steppenwolf', 'spotify:track:5HRL78OfxCYsDQtRYsBF4T'] ....Fetched!
+['Magic Carpet Ride', 'Steppenwolf', 'spotify:track:5HRL78OfxCYsDQtRYsBF4T', 0.611, 0.814, 4, -10.446, 0, 0.0552, 0.157, 0.00846, 0.0648, 0.743, 111.221, 267800, 4, 28.48238, 9]
+154
+Fetching ['Harlem River Drive', 'Bobbi Humphrey', 'spotify:track:6SzCJmFD2OspicHVEQVEw2'] ....Fetched!
+['Harlem River Drive', 'Bobbi Humphrey', 'spotify:track:6SzCJmFD2OspicHVEQVEw2', 0.447, 0.649, 5, -12.283, 0, 0.0338, 0.211, 0.00332, 0.114, 0.863, 99.935, 473293, 4, 79.14455, 18]
+157
+Fetching ['Closing Time', 'Semisonic', 'spotify:track:087OBLtoeS3Q6j0k6tMNAI'] ....Fetched!
+['Closing Time', 'Semisonic', 'spotify:track:087OBLtoeS3Q6j0k6tMNAI', 0.486, 0.867, 7, -5.483, 1, 0.0295, 0.0237, 1.66e-06, 0.155, 0.281, 92.757, 273533, 4, 16.63745, 12]
+147
+Fetching ['Watch The Girl Destroy Me', 'Possum Dixon', 'spotify:track:0ZWz15wMj52QxaKE4UjPWo'] ....Fetched!
+['Watch The Girl Destroy Me', 'Possum Dixon', 'spotify:track:0ZWz15wMj52QxaKE4UjPWo', 0.285, 0.82, 0, -6.229, 1, 0.0434, 0.00407, 0, 0.0511, 0.344, 144.525, 223867, 4, 39.30557, 10]
+158
+Fetching ["Bye bye my cowboy - Pettibone's House Mix", 'Mitsou', 'spotify:track:3JoQEWXey2AEkZ1J1lqbP7'] ....Fetched!
+["Bye bye my cowboy - Pettibone's House Mix", 'Mitsou', 'spotify:track:3JoQEWXey2AEkZ1J1lqbP7', 0.652, 0.767, 9, -11.464, 0, 0.034, 0.000145, 0.66, 0.0773, 0.557, 131.692, 417813, 4, 26.45972, 16]
+173
+Fetching ['Fading Away', 'The Church', 'spotify:track:7gBzFUWmFDffjLNbgTpgGD'] ....Fetched!
+['Fading Away', 'The Church', 'spotify:track:7gBzFUWmFDffjLNbgTpgGD', 0.657, 0.529, 11, -12.759, 0, 0.0266, 0.00593, 0.00359, 0.0585, 0.58, 111.598, 219160, 4, 61.66312, 8]
+149
+Fetching ['How Can I Ease the Pain - Slow Jams Version', 'Lisa Fischer', 'spotify:track:5D7iIgJ9LidmMINnkZd5yJ'] ....Fetched!
+['How Can I Ease the Pain - Slow Jams Version', 'Lisa Fischer', 'spotify:track:5D7iIgJ9LidmMINnkZd5yJ', 0.657, 0.463, 4, -10.121, 0, 0.0326, 0.307, 0, 0.133, 0.436, 116.233, 325240, 4, 26.10878, 8]
+174
+Fetching ['Black No. 1 (Little Miss Scare -All)', 'Type O Negative', 'spotify:track:710B9xFjNOisQtKtppZE9p'] ....Fetched!
+['Black No. 1 (Little Miss Scare -All)', 'Type O Negative', 'spotify:track:710B9xFjNOisQtKtppZE9p', 0.348, 0.7, 4, -8.885, 1, 0.0611, 0.0397, 0.00228, 0.106, 0.416, 93.614, 675653, 4, 72.60215, 25]
+174
+Fetching ['Turn It On', 'The Flaming Lips', 'spotify:track:7EDSrqFVA9WFTN4gYdt7l4'] ....Fetched!
+['Turn It On', 'The Flaming Lips', 'spotify:track:7EDSrqFVA9WFTN4gYdt7l4', 0.404, 0.953, 2, -4.739, 1, 0.103, 0.00604, 5.24e-05, 0.391, 0.545, 86.176, 281853, 4, 39.83225, 8]
+151
+Fetching ['Tomcat Prowl', 'Doug and the Slugs', 'spotify:track:4kHlgTkjC4TMO45yxGe7ba'] ....Fetched!
+['Tomcat Prowl', 'Doug and the Slugs', 'spotify:track:4kHlgTkjC4TMO45yxGe7ba', 0.554, 0.911, 5, -8.583, 0, 0.0731, 0.0464, 0.000168, 0.0599, 0.485, 123.615, 231427, 4, 39.44371, 11]
+158
+Fetching ['I Stay Away', 'Alice In Chains', 'spotify:track:4vsGPsXtpcDNM4oPjzEXlq'] ....Fetched!
+['I Stay Away', 'Alice In Chains', 'spotify:track:4vsGPsXtpcDNM4oPjzEXlq', 0.224, 0.782, 6, -7.065, 1, 0.04, 0.0446, 0.00355, 0.0822, 0.267, 81.794, 254400, 4, 49.77927, 10]
+150
+Fetching ["Jumpin', Jumpin'", "Destiny's Child", 'spotify:track:4pmc2AxSEq6g7hPVlJCPyP'] ....Fetched!
+["Jumpin', Jumpin'", "Destiny's Child", 'spotify:track:4pmc2AxSEq6g7hPVlJCPyP', 0.771, 0.685, 1, -4.639, 1, 0.0567, 0.00543, 0.00157, 0.0537, 0.683, 88.997, 230200, 4, 46.03402, 10]
+160
+Fetching ['Too Bad', 'The Bad Roads', 'spotify:track:1ozum26YpXWDtzL5rt4GZg'] ....Fetched!
+['Too Bad', 'The Bad Roads', 'spotify:track:1ozum26YpXWDtzL5rt4GZg', 0.46, 0.528, 2, -7.1, 1, 0.042, 0.00831, 0, 0.0285, 0.552, 131.541, 144093, 4, 79.57151, 6]
+137
+Fetching ["She's a Lover", 'The Pretty Things', 'spotify:track:6rUBccLmsYGK4qe0s6s0Ea'] ....Fetched!
+["She's a Lover", 'The Pretty Things', 'spotify:track:6rUBccLmsYGK4qe0s6s0Ea', 0.439, 0.795, 2, -9.424, 1, 0.0314, 0.00407, 0.00114, 0.296, 0.789, 84.846, 212067, 4, 33.68077, 9]
+155
+Fetching ['If You Hurt Me', 'Small Factory', 'spotify:track:6eapyRHeDfeyRwZis2MMeI'] ....Fetched!
+['If You Hurt Me', 'Small Factory', 'spotify:track:6eapyRHeDfeyRwZis2MMeI', 0.363, 0.589, 2, -9.353, 1, 0.0373, 0.295, 0.00596, 0.211, 0.861, 92.065, 278440, 4, 33.38176, 13]
+151
+Fetching ["That's When the Tears Start - Single Version", 'The Blossoms', 'spotify:track:0RmWSYMgquPpIMgYnwx2c0'] ....Fetched!
+["That's When the Tears Start - Single Version", 'The Blossoms', 'spotify:track:0RmWSYMgquPpIMgYnwx2c0', 0.513, 0.659, 10, -5.661, 0, 0.0336, 0.687, 0, 0.0891, 0.816, 156.805, 145427, 4, 40.61407, 9]
+176
+Fetching ['I Heard It Through The Grapevine - Single Version (Mono)', 'Marvin Gaye', 'spotify:track:4tMxTsEPybFSX1dq7BOC4K'] ....Fetched!
+['I Heard It Through The Grapevine - Single Version (Mono)', 'Marvin Gaye', 'spotify:track:4tMxTsEPybFSX1dq7BOC4K', 0.735, 0.52, 11, -6.18, 1, 0.0371, 0.255, 0, 0.106, 0.688, 118.441, 193493, 4, 39.3626, 10]
+184
+Fetching ['Dancing on the Fire', 'INDIA', 'spotify:track:7DMC8jE0nEVQXtDlVrI57I'] ....Fetched!
+['Dancing on the Fire', 'INDIA', 'spotify:track:7DMC8jE0nEVQXtDlVrI57I', 0.733, 0.872, 7, -9.544, 1, 0.0681, 0.123, 0.256, 0.322, 0.806, 115.801, 293267, 4, 55.76978, 11]
+147
+Fetching ['Shadowboxer', 'Fiona Apple', 'spotify:track:0XMzFZgFvEqH2nEa3iwNUD'] ....Fetched!
+['Shadowboxer', 'Fiona Apple', 'spotify:track:0XMzFZgFvEqH2nEa3iwNUD', 0.298, 0.52, 2, -7.297, 0, 0.0303, 0.265, 0, 0.165, 0.223, 74.131, 324267, 4, 65.0576, 15]
+138
+Fetching ['My Heart Is a Flower', 'King Missile', 'spotify:track:214Xxg0jUhvG0DoAGTjWas'] ....Fetched!
+['My Heart Is a Flower', 'King Missile', 'spotify:track:214Xxg0jUhvG0DoAGTjWas', 0.485, 0.871, 2, -8.975, 1, 0.0604, 0.000179, 0.00562, 0.395, 0.417, 120.409, 157733, 4, 41.08998, 6]
+159
+Fetching ["Start Choppin'", 'Dinosaur Jr.', 'spotify:track:7yThIhNzpgDBIGoL2y1y6u'] ....Fetched!
+["Start Choppin'", 'Dinosaur Jr.', 'spotify:track:7yThIhNzpgDBIGoL2y1y6u', 0.373, 0.755, 2, -7.574, 1, 0.103, 0.00411, 0.000799, 0.0635, 0.57, 111.813, 340187, 4, 40.89469, 13]
+153
+Fetching ['Speak Low', 'Grant Green', 'spotify:track:4jxfZWelS1CJf6tNADO4xa'] ....Fetched!
+['Speak Low', 'Grant Green', 'spotify:track:4jxfZWelS1CJf6tNADO4xa', 0.501, 0.644, 7, -11.119, 0, 0.0543, 0.793, 0.0329, 0.2, 0.688, 128.912, 433907, 4, 21.43697, 20]
+143
+Fetching ['Stay - Acoustic', 'Lisa Loeb', 'spotify:track:4HLM6DcjYkNercQ8FIgfQd'] ....Fetched!
+['Stay - Acoustic', 'Lisa Loeb', 'spotify:track:4HLM6DcjYkNercQ8FIgfQd', 0.467, 0.52, 1, -6.227, 1, 0.0956, 0.617, 0, 0.108, 0.486, 165.851, 178280, 4, 32.88123, 7]
+141
+Fetching ['1000 Julys - 2008 Version', 'Third Eye Blind', 'spotify:track:4lOTExIbwaF57eYVmNpYr3'] ....Fetched!
+['1000 Julys - 2008 Version', 'Third Eye Blind', 'spotify:track:4lOTExIbwaF57eYVmNpYr3', 0.377, 0.912, 7, -3.53, 1, 0.0575, 0.000268, 2.68e-05, 0.151, 0.522, 187.922, 233800, 4, 41.71212, 8]
+167
+Fetching ['Big Time Sensuality', 'BjÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â¶rk', 'spotify:track:0X0LTI0MQG9S3FLSUvjrj5'] ....Fetched!
+['Big Time Sensuality', 'BjÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â¶rk', 'spotify:track:0X0LTI0MQG9S3FLSUvjrj5', 0.723, 0.732, 1, -12.251, 0, 0.0963, 7.67e-05, 0.0135, 0.18, 0.516, 118.582, 236640, 4, 28.61913, 14]
+166
+Fetching ["It's A Miracle / Miss Me Blind", 'Culture Club', 'spotify:track:2vexD4fGrQ2VI6mqogjjnD'] ....Fetched!
+["It's A Miracle / Miss Me Blind", 'Culture Club', 'spotify:track:2vexD4fGrQ2VI6mqogjjnD', 0.84, 0.513, 10, -13.264, 0, 0.0612, 0.0344, 0.00549, 0.0588, 0.673, 121.873, 550933, 4, 24.41223, 26]
+170
+Fetching ["Don't Cry (Original)", "Guns N' Roses", 'spotify:track:0ZEhlT9v8CdOKu55zhYGv9'] ....Fetched!
+["Don't Cry (Original)", "Guns N' Roses", 'spotify:track:0ZEhlT9v8CdOKu55zhYGv9', 0.437, 0.572, 8, -8.648, 0, 0.0339, 0.00191, 0.00243, 0.116, 0.239, 124.172, 284800, 4, 76.64658, 10]
+160
+Fetching ['Shame', 'Evelyn "Champagne" King', 'spotify:track:6KlnQC66NiJTdO88aL62SF'] ....Fetched!
+['Shame', 'Evelyn "Champagne" King', 'spotify:track:6KlnQC66NiJTdO88aL62SF', 0.714, 0.665, 11, -10.948, 0, 0.0381, 0.00588, 0.131, 0.0655, 0.805, 133.805, 392800, 4, 40.84892, 16]
+160
+Fetching ['Daughter', 'Pearl Jam', 'spotify:track:1N6ufONdqo8Lltpq7F4tcz'] ....Fetched!
+['Daughter', 'Pearl Jam', 'spotify:track:1N6ufONdqo8Lltpq7F4tcz', 0.623, 0.639, 7, -10.818, 1, 0.0285, 0.023, 0.00152, 0.0887, 0.73, 96.925, 234227, 4, 33.09753, 12]
+142
+Fetching ['Feed the Tree', 'Belly', 'spotify:track:3L19vBWH4jTHNXbuBaHbUN'] ....Fetched!
+['Feed the Tree', 'Belly', 'spotify:track:3L19vBWH4jTHNXbuBaHbUN', 0.547, 0.718, 0, -8.309, 1, 0.0269, 0.00325, 0.672, 0.0718, 0.868, 137.978, 209000, 4, 33.23675, 8]
+143
+Fetching ['Unwind Yourself', 'Marva Whitney', 'spotify:track:2cmSJ67jjfj2S0qd28PmzN'] ....Fetched!
+['Unwind Yourself', 'Marva Whitney', 'spotify:track:2cmSJ67jjfj2S0qd28PmzN', 0.832, 0.458, 3, -9.07, 1, 0.218, 0.115, 0.0015, 0.284, 0.838, 128.696, 158027, 4, 68.2528, 5]
+148
+Fetching ['Shoots and Ladders', 'Korn', 'spotify:track:3ezGIgTmk2BZy9C3j0x1h9'] ....Fetched!
+['Shoots and Ladders', 'Korn', 'spotify:track:3ezGIgTmk2BZy9C3j0x1h9', 0.277, 0.744, 0, -9.756, 0, 0.0868, 0.00681, 0.00466, 0.246, 0.227, 93.669, 322133, 4, 27.78266, 8]
+147
+Fetching ['In The Meantime', 'Helmet', 'spotify:track:6mHgOGBDLM71YzKcwAyiXi'] ....Fetched!
+['In The Meantime', 'Helmet', 'spotify:track:6mHgOGBDLM71YzKcwAyiXi', 0.359, 0.859, 7, -8.621, 1, 0.0527, 2.79e-05, 0.0627, 0.236, 0.655, 159.734, 188693, 4, 24.902, 10]
+146
+Fetching ['Cough Syrup', 'Butthole Surfers', 'spotify:track:46ou6i1u3b8Uu1KUzwKkAO'] ....Fetched!
+['Cough Syrup', 'Butthole Surfers', 'spotify:track:46ou6i1u3b8Uu1KUzwKkAO', 0.328, 0.828, 9, -4.449, 1, 0.0373, 0.0421, 1.96e-06, 0.114, 0.308, 117.901, 273200, 4, 41.60584, 9]
+153
+Fetching ['Never Met A Man I DidnÃ\x83Â\x83Ã\x82Â¢Ã\x83Â\x82Ã\x82Â\x80Ã\x83Â\x82Ã\x82Â\x99t Like', 'Silkworm', 'spotify:track:3q6McPCgtypurC5qqtHb8F'] ....Fetched!
+['Never Met A Man I DidnÃ\x83Â\x83Ã\x82Â¢Ã\x83Â\x82Ã\x82Â\x80Ã\x83Â\x82Ã\x82Â\x99t Like', 'Silkworm', 'spotify:track:3q6McPCgtypurC5qqtHb8F', 0.371, 0.791, 0, -10.112, 1, 0.04, 0.000258, 0.0271, 0.314, 0.58, 136.571, 198600, 4, 79.01692, 7]
+184
+Fetching ['Down with Disease', 'Phish', 'spotify:track:3B1cnD5CuR6WSN71V7Rlco'] ....Fetched!
+['Down with Disease', 'Phish', 'spotify:track:3B1cnD5CuR6WSN71V7Rlco', 0.636, 0.796, 2, -7.628, 1, 0.0668, 0.0293, 0.000168, 0.33, 0.577, 122.725, 247733, 4, 31.21305, 11]
+148
+Fetching ['Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â\x9aÃ\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¾Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¼Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â±Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â°Ã\x83Â\x83Ã\x82Â\x91Ã\x83Â\x82Ã\x82Â\x82', 'Lyube', 'spotify:track:6nXhsY2AUOt26GU19054B3'] ....Fetched!
+['Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â\x9aÃ\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¾Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¼Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â±Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â°Ã\x83Â\x83Ã\x82Â\x91Ã\x83Â\x82Ã\x82Â\x82', 'Lyube', 'spotify:track:6nXhsY2AUOt26GU19054B3', 0.716, 0.525, 0, -7.842, 0, 0.0269, 0.487, 1.53e-06, 0.0959, 0.56, 114.071, 304693, 4, 44.74034, 16]
+227
+Fetching ['River of Deceit', 'Mad Season', 'spotify:track:5EUsI3LIV042IV5ydksV9y'] ....Fetched!
+['River of Deceit', 'Mad Season', 'spotify:track:5EUsI3LIV042IV5ydksV9y', 0.455, 0.29, 0, -11.473, 1, 0.0288, 0.0614, 0.00225, 0.101, 0.169, 88.523, 302907, 4, 23.63308, 13]
+150
+Fetching ['Tender Surrender', 'Steve Vai', 'spotify:track:1BpMzIbVYhLfXTQe7ob2sY'] ....Fetched!
+['Tender Surrender', 'Steve Vai', 'spotify:track:1BpMzIbVYhLfXTQe7ob2sY', 0.559, 0.567, 4, -7.155, 0, 0.036, 0.174, 0.103, 0.122, 0.227, 130.036, 301067, 4, 26.03628, 14]
+147
+Fetching ['Pole Position', 'Folk Implosion', 'spotify:track:6Jx3dAS3fYgaIWpvql8eFZ'] ....Fetched!
+['Pole Position', 'Folk Implosion', 'spotify:track:6Jx3dAS3fYgaIWpvql8eFZ', 0.534, 0.934, 1, -6.908, 1, 0.055, 0.336, 0.00416, 0.459, 0.691, 127.857, 166267, 4, 22.23583, 7]
+150
+Fetching ['This Town', 'Green River', 'spotify:track:4Wj6GKn1vBHJ12ezWQubax'] ....Fetched!
+['This Town', 'Green River', 'spotify:track:4Wj6GKn1vBHJ12ezWQubax', 0.457, 0.92, 2, -12.226, 1, 0.0517, 0.00521, 4.9e-06, 0.0948, 0.28, 102.301, 203800, 4, 20.80057, 7]
+146
+Fetching ["If I Can't Have You", 'Yvonne Elliman', 'spotify:track:0QjPiq9Wka9I1b4uzWETYI'] ....Fetched!
+["If I Can't Have You", 'Yvonne Elliman', 'spotify:track:0QjPiq9Wka9I1b4uzWETYI', 0.616, 0.681, 11, -10.773, 1, 0.0416, 0.102, 1.47e-06, 0.296, 0.811, 109.454, 180160, 4, 40.83424, 9]
+160
+Fetching ['Brimful of Asha', 'Cornershop', 'spotify:track:1t6tQ0ETeOIDl5cscjEC55'] ....Fetched!
+['Brimful of Asha', 'Cornershop', 'spotify:track:1t6tQ0ETeOIDl5cscjEC55', 0.807, 0.796, 9, -6.68, 1, 0.0325, 0.504, 0, 0.216, 0.932, 110.096, 317027, 4, 17.92441, 12]
+143
+Fetching ['Your Place Or Mine', 'The Bar-Kays', 'spotify:track:3YF27btY0N7oIwf2zK5pT4'] ....Fetched!
+['Your Place Or Mine', 'The Bar-Kays', 'spotify:track:3YF27btY0N7oIwf2zK5pT4', 0.977, 0.534, 0, -13.332, 1, 0.161, 0.000203, 0.221, 0.0462, 0.942, 125.915, 325267, 4, 19.95039, 16]
+157
+Fetching ["I Ain't Got Nobody", 'Sammy Davis Jr.', 'spotify:track:1mYU1xNK2THM44DpukZGY4'] ....Fetched!
+["I Ain't Got Nobody", 'Sammy Davis Jr.', 'spotify:track:1mYU1xNK2THM44DpukZGY4', 0.53, 0.408, 0, -10.283, 1, 0.279, 0.885, 1.13e-06, 0.0555, 0.738, 200.098, 144800, 4, 28.01019, 7]
+158
+Fetching ['Mad About You', 'Belinda Carlisle', 'spotify:track:6v9oV4RpWKJ5qbpAZqKqtZ'] ....Fetched!
+['Mad About You', 'Belinda Carlisle', 'spotify:track:6v9oV4RpWKJ5qbpAZqKqtZ', 0.592, 0.526, 9, -13.548, 1, 0.0339, 0.00439, 0.000157, 0.0614, 0.485, 143.851, 216827, 4, 28.4228, 10]
+158
+Fetching ['40 Oz. To Freedom', 'Sublime', 'spotify:track:4qvMZBtrZxZlUl9nPR2p0y'] ....Fetched!
+['40 Oz. To Freedom', 'Sublime', 'spotify:track:4qvMZBtrZxZlUl9nPR2p0y', 0.709, 0.439, 7, -9.931, 1, 0.0422, 0.000456, 0.0136, 0.125, 0.459, 94.148, 182933, 4, 53.92307, 8]
+149
+Fetching ["C'est La Vie", 'Robbie Nevil', 'spotify:track:6Ce9ItNCpk2PkAMq5v6EEV'] ....Fetched!
+["C'est La Vie", 'Robbie Nevil', 'spotify:track:6Ce9ItNCpk2PkAMq5v6EEV', 0.729, 0.798, 7, -12.868, 1, 0.0552, 0.533, 0.00032, 0.725, 0.565, 102.108, 271667, 4, 138.80134, 7]
+150
+Fetching ['Halcyon and On and On', 'Orbital', 'spotify:track:6l0LbTF2V77M3LPpcOBmqX'] ....Fetched!
+['Halcyon and On and On', 'Orbital', 'spotify:track:6l0LbTF2V77M3LPpcOBmqX', 0.577, 0.729, 11, -14.376, 0, 0.0319, 0.0953, 0.928, 0.184, 0.177, 126.988, 567107, 4, 20.12134, 18]
+154
+Fetching ['Catch The Breeze', 'Slowdive', 'spotify:track:0ChyPbRdUbMuu349rT2pZy'] ....Fetched!
+['Catch The Breeze', 'Slowdive', 'spotify:track:0ChyPbRdUbMuu349rT2pZy', 0.253, 0.476, 9, -11.949, 1, 0.0345, 8.07e-05, 0.845, 0.0561, 0.169, 92.798, 257333, 4, 47.00201, 8]
+150
+Fetching ['Vacation', 'Connie Francis', 'spotify:track:5vEITnXdh3ou2h3FQo8fDZ'] ....Fetched!
+['Vacation', 'Connie Francis', 'spotify:track:5vEITnXdh3ou2h3FQo8fDZ', 0.607, 0.687, 0, -8.168, 1, 0.0418, 0.75, 2.01e-05, 0.87, 0.898, 143.513, 141800, 4, 58.98988, 6]
+145
+Fetching ["Don't You Want My Love", 'Jomanda', 'spotify:track:0P2Md6CAVF34UOFa3FL4D3'] ....Fetched!
+["Don't You Want My Love", 'Jomanda', 'spotify:track:0P2Md6CAVF34UOFa3FL4D3', 0.782, 0.568, 1, -11.506, 1, 0.053, 0.00699, 0.182, 0.0463, 0.964, 121.44, 243173, 4, 118.72681, 8]
+154
+Fetching ['Wonderwall', 'Oasis', 'spotify:track:7JrUo70YjhU4S7flcJtK0k'] ....Fetched!
+['Wonderwall', 'Oasis', 'spotify:track:7JrUo70YjhU4S7flcJtK0k', 0.412, 0.849, 2, -5.625, 1, 0.0361, 0.00212, 0, 0.13, 0.486, 174.428, 258907, 4, 45.06004, 14]
+135
+Fetching ['Closer to Free', 'Bodeans', 'spotify:track:0xw22cJECqEQ8RlH0H4sHr'] ....Fetched!
+['Closer to Free', 'Bodeans', 'spotify:track:0xw22cJECqEQ8RlH0H4sHr', 0.497, 0.943, 7, -4.792, 1, 0.0412, 0.000627, 0.000698, 0.731, 0.702, 98.155, 188600, 4, 45.18656, 8]
+148
+Fetching ['Rita Ballou', 'Guy Clark', 'spotify:track:0MZOhW2owaEpMLiJK18ODo'] ....Fetched!
+['Rita Ballou', 'Guy Clark', 'spotify:track:0MZOhW2owaEpMLiJK18ODo', 0.591, 0.572, 0, -8.299, 1, 0.0299, 0.56, 4.31e-06, 0.084, 0.708, 86.098, 170560, 4, 23.77127, 10]
+144
+Fetching ['Puppet On A String', 'Gino Washington', 'spotify:track:1iVhEWx08vrTbFFK5jm2NX'] ....Fetched!
+['Puppet On A String', 'Gino Washington', 'spotify:track:1iVhEWx08vrTbFFK5jm2NX', 0.792, 0.644, 5, -6.452, 0, 0.0402, 0.715, 0, 0.156, 0.971, 106.132, 148333, 4, 21.68779, 8]
+151
+Fetching ['Name', 'The Goo Goo Dolls', 'spotify:track:1G8jae4jD8mwkXdodqHsBM'] ....Fetched!
+['Name', 'The Goo Goo Dolls', 'spotify:track:1G8jae4jD8mwkXdodqHsBM', 0.464, 0.701, 9, -5.943, 1, 0.0341, 0.0691, 0.00182, 0.0766, 0.407, 73.97, 270000, 4, 65.71874, 8]
+145
+Fetching ['Rhythm Nation - 12" House Nation Mix', 'Janet Jackson', 'spotify:track:4FBLmcuqm3tyAEJ0eLCpaa'] ....Fetched!
+['Rhythm Nation - 12" House Nation Mix', 'Janet Jackson', 'spotify:track:4FBLmcuqm3tyAEJ0eLCpaa', 0.654, 0.807, 10, -10.904, 0, 0.0519, 0.000292, 0.396, 0.0791, 0.584, 112.667, 487600, 4, 33.38307, 18]
+181
+Fetching ['The Odd Couple', 'Billy May & His Orchestra', 'spotify:track:09mhTDBTeHQIR7K305ciC6'] ....Fetched!
+['The Odd Couple', 'Billy May & His Orchestra', 'spotify:track:09mhTDBTeHQIR7K305ciC6', 0.727, 0.3, 4, -17.278, 1, 0.0578, 0.538, 0.526, 0.0869, 0.449, 108.527, 137267, 4, 80.5051, 5]
+160
+Fetching ['Someone to Pull the Trigger', 'Matthew Sweet', 'spotify:track:6gex4z1I6XU89QP2gS85uP'] ....Fetched!
+['Someone to Pull the Trigger', 'Matthew Sweet', 'spotify:track:6gex4z1I6XU89QP2gS85uP', 0.483, 0.671, 0, -8.16, 1, 0.027, 0.0107, 0.0142, 0.144, 0.556, 101.773, 235907, 4, 44.65456, 10]
+163
+Fetching ['Got to Get You off My Mind', 'Solomon Burke', 'spotify:track:2aBa2XO23shN0lQjpL0G1K'] ....Fetched!
+['Got to Get You off My Mind', 'Solomon Burke', 'spotify:track:2aBa2XO23shN0lQjpL0G1K', 0.746, 0.55, 2, -7.554, 1, 0.062, 0.621, 1.27e-06, 0.0136, 0.736, 102.669, 155080, 4, 18.55184, 11]
+164
+Fetching ['Punk Pop Travesty', 'Lungleg', 'spotify:track:1eqpEKPxYTag3UPCyF74NG'] ....Fetched!
+['Punk Pop Travesty', 'Lungleg', 'spotify:track:1eqpEKPxYTag3UPCyF74NG', 0.662, 0.881, 1, -6.547, 1, 0.0695, 0.218, 0.342, 0.302, 0.819, 166.362, 64307, 4, 23.51839, 4]
+145
+Fetching ['Why (feat. Michael Jackson) - Duet with Michael Jackson', '3T', 'spotify:track:0gfqiSFDDJSZnmJv1EUbRO'] ....Fetched!
+['Why (feat. Michael Jackson) - Duet with Michael Jackson', '3T', 'spotify:track:0gfqiSFDDJSZnmJv1EUbRO', 0.637, 0.399, 8, -11.312, 0, 0.037, 0.189, 3.29e-05, 0.42, 0.148, 75.319, 320333, 4, 22.67752, 17]
+181
+Fetching ['Dress', 'PJ Harvey', 'spotify:track:2VuQyUR0ZbSsefYESWN6L1'] ....Fetched!
+['Dress', 'PJ Harvey', 'spotify:track:2VuQyUR0ZbSsefYESWN6L1', 0.423, 0.512, 11, -16.51, 1, 0.0367, 0.00443, 0.00145, 0.0934, 0.697, 151.492, 198240, 4, 54.58208, 10]
+143
+Fetching ['Inherit The Wind - 12" Version', 'Wilton Felder', 'spotify:track:43XY9s9zUjedNh6ALN1y4Q'] ....Fetched!
+['Inherit The Wind - 12" Version', 'Wilton Felder', 'spotify:track:43XY9s9zUjedNh6ALN1y4Q', 0.771, 0.6, 0, -11.441, 0, 0.0374, 0.0385, 0.18, 0.107, 0.966, 116.265, 415907, 4, 59.41386, 16]
+168
+Fetching ['You Took My Moonlight Away', 'The Poppy Family', 'spotify:track:3cSwjdl7SAxMepWMdOJ9OG'] ....Fetched!
+['You Took My Moonlight Away', 'The Poppy Family', 'spotify:track:3cSwjdl7SAxMepWMdOJ9OG', 0.253, 0.318, 7, -12.559, 1, 0.0309, 0.149, 0.088, 0.197, 0.296, 155.415, 163867, 3, 55.02733, 8]
+165
+Fetching ['Minor Bash', 'Lou Donaldson', 'spotify:track:16hXGWBfJjR9brFNleOnUq'] ....Fetched!
+['Minor Bash', 'Lou Donaldson', 'spotify:track:16hXGWBfJjR9brFNleOnUq', 0.705, 0.464, 1, -13.613, 1, 0.0467, 0.44, 0.294, 0.151, 0.735, 96.194, 375227, 4, 89.62401, 14]
+145
+Fetching ['License To Confuse', 'Sebadoh', 'spotify:track:6J87gJpCg5xdVIM1Fs8uBK'] ....Fetched!
+['License To Confuse', 'Sebadoh', 'spotify:track:6J87gJpCg5xdVIM1Fs8uBK', 0.338, 0.87, 6, -6.534, 1, 0.0381, 0.000121, 0.281, 0.343, 0.893, 136.462, 105533, 4, 50.23984, 5]
+149
+Fetching ['Desperados Waiting For A Train', 'Guy Clark', 'spotify:track:2Q3KJw8ibHDsvuNQQmeg8Q'] ....Fetched!
+['Desperados Waiting For A Train', 'Guy Clark', 'spotify:track:2Q3KJw8ibHDsvuNQQmeg8Q', 0.567, 0.283, 11, -9.365, 0, 0.0326, 0.66, 2.62e-05, 0.0841, 0.286, 138.603, 272867, 4, 41.08422, 16]
+166
+Fetching ['Town Called Malice', 'The Jam', 'spotify:track:6JyricctgDY0zBaWnsivSo'] ....Fetched!
+['Town Called Malice', 'The Jam', 'spotify:track:6JyricctgDY0zBaWnsivSo', 0.554, 0.913, 2, -8.907, 1, 0.0753, 0.00218, 0.0104, 0.0637, 0.737, 101.917, 173000, 4, 29.19565, 10]
+152
+Fetching ["Heat Lightnin' - LP Verson", 'Tuscadero', 'spotify:track:0CJXFnXAqUxjTTgXrQ3LVa'] ....Fetched!
+["Heat Lightnin' - LP Verson", 'Tuscadero', 'spotify:track:0CJXFnXAqUxjTTgXrQ3LVa', 0.451, 0.955, 11, -5.995, 1, 0.0428, 0.00272, 0.00179, 0.112, 0.846, 123.992, 177707, 4, 42.40919, 7]
+162
+Fetching ['Airegin - Alternate Take', 'Grant Green', 'spotify:track:0Lmluy5mcvLRW2822p1OoJ'] ....Fetched!
+['Airegin - Alternate Take', 'Grant Green', 'spotify:track:0Lmluy5mcvLRW2822p1OoJ', 0.612, 0.288, 5, -14.73, 0, 0.0588, 0.829, 0.151, 0.118, 0.599, 116.053, 457840, 4, 29.0458, 22]
+157
+Fetching ['Summertime, Summertime [Original Club Mix]', 'Nocera', 'spotify:track:0tFlfpmttDRM3dhDhQVJbq'] ....Fetched!
+['Summertime, Summertime [Original Club Mix]', 'Nocera', 'spotify:track:0tFlfpmttDRM3dhDhQVJbq', 0.749, 0.745, 10, -8.013, 0, 0.0521, 0.00663, 0.71, 0.0648, 0.839, 115.256, 323693, 4, 101.35456, 8]
+176
+Fetching ['Soft Serve', 'Soul Coughing', 'spotify:track:06l32PyLugH1lEqEEnatfR'] ....Fetched!
+['Soft Serve', 'Soul Coughing', 'spotify:track:06l32PyLugH1lEqEEnatfR', 0.743, 0.443, 0, -11.592, 1, 0.251, 0.0232, 0.00316, 0.103, 0.545, 90.232, 192733, 4, 23.50158, 9]
+147
+Fetching ['Everything I Do Gonna Be Funky (From Now On)', 'Lou Donaldson', 'spotify:track:7KhvPQRbPGjBZk5YBaVOQw'] ....Fetched!
+['Everything I Do Gonna Be Funky (From Now On)', 'Lou Donaldson', 'spotify:track:7KhvPQRbPGjBZk5YBaVOQw', 0.786, 0.416, 3, -13.009, 1, 0.0434, 0.763, 0.536, 0.129, 0.886, 141.607, 331267, 4, 43.55237, 13]
+181
+Fetching ['Jump Start', 'Natalie Cole', 'spotify:track:6HXqPLNqNoxP70YihXnmST'] ....Fetched!
+['Jump Start', 'Natalie Cole', 'spotify:track:6HXqPLNqNoxP70YihXnmST', 0.792, 0.693, 5, -13.294, 0, 0.0525, 0.248, 0.000188, 0.174, 0.952, 122.321, 388267, 4, 30.26286, 14]
+149
+Fetching ["We've Gotta Get Out of This Place", 'The Animals', 'spotify:track:6ZMBR8nPA10HTmbtIUXpO6'] ....Fetched!
+["We've Gotta Get Out of This Place", 'The Animals', 'spotify:track:6ZMBR8nPA10HTmbtIUXpO6', 0.588, 0.444, 5, -9.781, 1, 0.0362, 0.586, 0, 0.146, 0.487, 124.321, 192840, 4, 24.32871, 10]
+163
+Fetching ['Today I Sing the Blues', 'Aretha Franklin', 'spotify:track:6NxdgHR3lebLG7CyZ9EtK5'] ....Fetched!
+['Today I Sing the Blues', 'Aretha Franklin', 'spotify:track:6NxdgHR3lebLG7CyZ9EtK5', 0.44, 0.193, 2, -16.509, 1, 0.0352, 0.612, 1.54e-05, 0.118, 0.29, 121.69, 265800, 3, 50.2172, 12]
+160
+Fetching ["Can't Be Still", "Booker T. & the M.G.'s", 'spotify:track:03awBml6meXaalPEWlyRS8'] ....Fetched!
+["Can't Be Still", "Booker T. & the M.G.'s", 'spotify:track:03awBml6meXaalPEWlyRS8', 0.588, 0.622, 10, -11.094, 1, 0.0355, 0.28, 0.775, 0.106, 0.964, 151.691, 121333, 4, 27.79287, 8]
+159
+Fetching ['Wanna Girl', 'Jeremy Jordan', 'spotify:track:0vXl7B56G2vyHt1VGL4lcc'] ....Fetched!
+['Wanna Girl', 'Jeremy Jordan', 'spotify:track:0vXl7B56G2vyHt1VGL4lcc', 0.68, 0.928, 7, -7.973, 1, 0.035, 0.0498, 0, 0.32, 0.889, 111.985, 269707, 4, 38.35897, 10]
+140
+Fetching ['My Girl Josephine', "Flamin' Groovies", 'spotify:track:4tcFHTaheoWs3lOHA3BMtT'] ....Fetched!
+['My Girl Josephine', "Flamin' Groovies", 'spotify:track:4tcFHTaheoWs3lOHA3BMtT', 0.554, 0.792, 9, -4.303, 1, 0.0376, 0.175, 0.319, 0.039, 0.97, 81.351, 130467, 4, 52.40158, 6]
+153
+Fetching ['Keep On Running - Mono Version', 'The Spencer Davis Group', 'spotify:track:6ftH8Mtm6seGGTA8e4jooj'] ....Fetched!
+['Keep On Running - Mono Version', 'The Spencer Davis Group', 'spotify:track:6ftH8Mtm6seGGTA8e4jooj', 0.644, 0.567, 9, -11.737, 1, 0.0394, 0.289, 0, 0.315, 0.943, 140.556, 165227, 4, 34.92129, 10]
+173
+Fetching ["Surfin' Bird", 'The Trashmen', 'spotify:track:58LVNLjFvt50ERUG3cidjF'] ....Fetched!
+["Surfin' Bird", 'The Trashmen', 'spotify:track:58LVNLjFvt50ERUG3cidjF', 0.587, 0.968, 11, -9.393, 1, 0.0527, 0.000869, 0.000606, 0.329, 0.845, 99.231, 143293, 4, 73.47126, 5]
+152
+Fetching ['Tom Courtenay', 'Yo La Tengo', 'spotify:track:1On6PxrwKjG3VGwFaEB9Gw'] ....Fetched!
+['Tom Courtenay', 'Yo La Tengo', 'spotify:track:1On6PxrwKjG3VGwFaEB9Gw', 0.249, 0.611, 9, -7.431, 1, 0.0397, 0.57, 0.675, 0.0902, 0.3, 124.864, 209840, 4, 101.13745, 9]
+145
+Fetching ["I Don't Know Anything", 'Mad Season', 'spotify:track:5gw55IexPLnJMXaGs8s4Tc'] ....Fetched!
+["I Don't Know Anything", 'Mad Season', 'spotify:track:5gw55IexPLnJMXaGs8s4Tc', 0.339, 0.899, 6, -5.985, 0, 0.0394, 0.000744, 0, 0.388, 0.436, 177.233, 299973, 4, 32.8143, 13]
+152
+Fetching ['If You Want Me to Stay', 'Etta James', 'spotify:track:3ux4SABKVVgyXzB0A4D2zQ'] ....Fetched!
+['If You Want Me to Stay', 'Etta James', 'spotify:track:3ux4SABKVVgyXzB0A4D2zQ', 0.836, 0.478, 6, -10.935, 1, 0.0572, 0.157, 0.0103, 0.0824, 0.245, 101.36, 320840, 4, 75.85182, 8]
+156
+Fetching ['Cure for Pain', 'Morphine', 'spotify:track:3hO9gaVixKDoYDrlTBrEWf'] ....Fetched!
+['Cure for Pain', 'Morphine', 'spotify:track:3hO9gaVixKDoYDrlTBrEWf', 0.585, 0.568, 2, -8.737, 1, 0.0253, 0.112, 0.138, 0.263, 0.528, 109.159, 194093, 4, 72.4902, 10]
+143
+Fetching ['Waiting', 'The Rentals', 'spotify:track:1fQJPRtrD1abNeOcZVRNO2'] ....Fetched!
+['Waiting', 'The Rentals', 'spotify:track:1fQJPRtrD1abNeOcZVRNO2', 0.442, 0.962, 8, -7.398, 1, 0.0333, 0.000751, 6.25e-05, 0.131, 0.772, 135.823, 193093, 4, 18.5791, 8]
+145
+Fetching ["Tearin' up My Heart - Radio Edit", '*NSYNC', 'spotify:track:594M0rqYMOo8BhMGEdoi5C'] ....Fetched!
+["Tearin' up My Heart - Radio Edit", '*NSYNC', 'spotify:track:594M0rqYMOo8BhMGEdoi5C', 0.686, 0.915, 7, -4.447, 1, 0.0364, 0.0028, 7.16e-06, 0.233, 0.796, 110.054, 211000, 4, 19.77038, 10]
+165
+Fetching ['Retarded', 'The Afghan Whigs', 'spotify:track:2ShzfroHNM1WZRJXrU3kgw'] ....Fetched!
+['Retarded', 'The Afghan Whigs', 'spotify:track:2ShzfroHNM1WZRJXrU3kgw', 0.355, 0.881, 4, -12.075, 0, 0.043, 5.92e-05, 0.739, 0.128, 0.611, 146.607, 205040, 4, 56.20147, 10]
+150
+Fetching ['Excuse Me While I Drink Myself to Death', 'Spent', 'spotify:track:2wOmDW0ne0pGGHNY2V5VV6'] ....Fetched!
+['Excuse Me While I Drink Myself to Death', 'Spent', 'spotify:track:2wOmDW0ne0pGGHNY2V5VV6', 0.465, 0.698, 9, -8.803, 1, 0.0323, 0.0923, 0.0149, 0.0981, 0.759, 81.484, 227533, 4, 68.26505, 9]
+168
+Fetching ['I Go Blind', 'Hootie & The Blowfish', 'spotify:track:060AenZFpUKot40Pv0CJ0l'] ....Fetched!
+['I Go Blind', 'Hootie & The Blowfish', 'spotify:track:060AenZFpUKot40Pv0CJ0l', 0.611, 0.793, 0, -7.538, 1, 0.0303, 0.213, 0, 0.136, 0.86, 121.987, 188800, 4, 51.63314, 11]
+149
+Fetching ['Flood', 'TOOL', 'spotify:track:1ZzzgXjX1bHroTSMoShdMe'] ....Fetched!
+['Flood', 'TOOL', 'spotify:track:1ZzzgXjX1bHroTSMoShdMe', 0.421, 0.691, 2, -7.982, 1, 0.0558, 0.000166, 0.604, 0.0284, 0.119, 142.9, 467853, 1, 49.77218, 18]
+134
+Fetching ['Nancy (With The Laughing Face)', 'Grant Green', 'spotify:track:2sZVgoGGZozwuN8QWHDVLQ'] ....Fetched!
+['Nancy (With The Laughing Face)', 'Grant Green', 'spotify:track:2sZVgoGGZozwuN8QWHDVLQ', 0.47, 0.0672, 0, -21.883, 0, 0.0511, 0.984, 0.421, 0.119, 0.223, 176.497, 385093, 3, 35.86247, 19]
+165
+Fetching ['One Shot at Glory', 'Judas Priest', 'spotify:track:2n7EiCahswilIBEmCOsjLs'] ....Fetched!
+['One Shot at Glory', 'Judas Priest', 'spotify:track:2n7EiCahswilIBEmCOsjLs', 0.345, 0.914, 9, -5.145, 1, 0.0696, 2.62e-05, 0.000352, 0.164, 0.188, 150.149, 408067, 4, 64.55261, 18]
+158
+Fetching ['Stuck On You', 'Failure', 'spotify:track:6kBODAu0J7doZnLpnwBROy'] ....Fetched!
+['Stuck On You', 'Failure', 'spotify:track:6kBODAu0J7doZnLpnwBROy', 0.481, 0.618, 8, -6.711, 1, 0.0271, 0.000358, 0.00199, 0.279, 0.279, 142.076, 268933, 4, 41.10287, 10]
+147
+Fetching ['Une histoire de plage', 'Brigitte Bardot', 'spotify:track:2gBySoyAkqPUoOmoGgtUpK'] ....Fetched!
+['Une histoire de plage', 'Brigitte Bardot', 'spotify:track:2gBySoyAkqPUoOmoGgtUpK', 0.557, 0.137, 0, -20.348, 0, 0.0419, 0.909, 0.00262, 0.112, 0.549, 94.711, 113493, 4, 32.09776, 5]
+160
+Fetching ["Silly Wasn't I", 'Valerie Simpson', 'spotify:track:58t2Uqz6FPB6CrMEJrzvdN'] ....Fetched!
+["Silly Wasn't I", 'Valerie Simpson', 'spotify:track:58t2Uqz6FPB6CrMEJrzvdN', 0.659, 0.288, 7, -15.119, 1, 0.0352, 0.234, 4.49e-05, 0.104, 0.479, 80.717, 129627, 4, 72.59292, 5]
+154
+Fetching ['The Sewers of Mars', 'Royal Trux', 'spotify:track:0iff3J6lSYN7RpHi8iHdaq'] ....Fetched!
+['The Sewers of Mars', 'Royal Trux', 'spotify:track:0iff3J6lSYN7RpHi8iHdaq', 0.427, 0.776, 9, -5.969, 1, 0.0515, 0.0741, 0.000166, 0.164, 0.435, 144.281, 210773, 4, 30.94242, 7]
+154
+Fetching ['No Association', 'Silverchair', 'spotify:track:0lrY8m1pYczjiup6f0HhoR'] ....Fetched!
+['No Association', 'Silverchair', 'spotify:track:0lrY8m1pYczjiup6f0HhoR', 0.493, 0.67, 9, -7.467, 1, 0.0608, 0.00485, 0.082, 0.0623, 0.699, 143.821, 230867, 4, 17.82451, 14]
+150
+Fetching ['Engel', 'Rammstein', 'spotify:track:0xrkyEMkG4dVa5OMLQZOX8'] ....Fetched!
+['Engel', 'Rammstein', 'spotify:track:0xrkyEMkG4dVa5OMLQZOX8', 0.637, 0.658, 2, -5.775, 1, 0.0291, 0.00918, 0.00229, 0.295, 0.328, 96.072, 264267, 4, 184.11314, 5]
+140
+Fetching ["Miss You Much - Slammin' R&B Mix", 'Janet Jackson', 'spotify:track:1ICXGCxQqOhJurHVg2QrXq'] ....Fetched!
+["Miss You Much - Slammin' R&B Mix", 'Janet Jackson', 'spotify:track:1ICXGCxQqOhJurHVg2QrXq', 0.786, 0.766, 1, -11.934, 1, 0.0596, 0.0162, 0.0418, 0.0229, 0.531, 116.671, 457773, 4, 33.80316, 16]
+172
+Fetching ['Somebody To Love', 'Grace Slick', 'spotify:track:2nHaqjs0xN8RQjFo2asYYH'] ....Fetched!
+['Somebody To Love', 'Grace Slick', 'spotify:track:2nHaqjs0xN8RQjFo2asYYH', 0.468, 0.782, 7, -11.081, 1, 0.115, 0.708, 0, 0.746, 0.588, 120.683, 267933, 4, 23.8022, 12]
+145
+Fetching ['Gepetto', 'Belly', 'spotify:track:1GB1oyt7Ar8GWa76B4dV1h'] ....Fetched!
+['Gepetto', 'Belly', 'spotify:track:1GB1oyt7Ar8GWa76B4dV1h', 0.548, 0.827, 2, -7.186, 1, 0.032, 0.000109, 0.00505, 0.309, 0.774, 120.238, 203280, 4, 68.70969, 5]
+138
+Fetching ['The Scorpion - Live', 'Lou Donaldson', 'spotify:track:1mQ0ZxiBGjecx3RXIhrTcG'] ....Fetched!
+['The Scorpion - Live', 'Lou Donaldson', 'spotify:track:1mQ0ZxiBGjecx3RXIhrTcG', 0.696, 0.556, 5, -11.888, 1, 0.0286, 0.612, 0.279, 0.0874, 0.826, 130.03, 658760, 4, 29.86054, 34]
+156
+Fetching ['Hurt', 'Nine Inch Nails', 'spotify:track:1lo9k4PrxFd5Np4cAxXoKo'] ....Fetched!
+['Hurt', 'Nine Inch Nails', 'spotify:track:1lo9k4PrxFd5Np4cAxXoKo', 0.49, 0.158, 9, -18.148, 1, 0.04, 0.773, 0.0227, 0.121, 0.0826, 79.833, 375933, 4, 71.47336, 12]
+141
+Fetching ['You Brought It On Yourself', 'Gayle Adams', 'spotify:track:2oeY6egU2q9fMEYStzrQcR'] ....Fetched!
+['You Brought It On Yourself', 'Gayle Adams', 'spotify:track:2oeY6egU2q9fMEYStzrQcR', 0.693, 0.66, 2, -14.237, 1, 0.0419, 0.00127, 0.00823, 0.0367, 0.683, 125.255, 324933, 4, 31.54037, 16]
+165
+Fetching ['Diving For Pearls', '1000 Mexicans', 'spotify:track:0NlembBP4LCwey1hHUOq1S'] ....Fetched!
+['Diving For Pearls', '1000 Mexicans', 'spotify:track:0NlembBP4LCwey1hHUOq1S', 0.451, 0.476, 9, -16.742, 0, 0.0287, 0.523, 4.39e-05, 0.0969, 0.616, 148.071, 174080, 3, 36.27053, 9]
+157
+Fetching ['Dissidents (The Search For Truth Part 1)', 'Thomas Dolby', 'spotify:track:3jEDloe4GAR2rYZ8MTExeL'] ....Fetched!
+['Dissidents (The Search For Truth Part 1)', 'Thomas Dolby', 'spotify:track:3jEDloe4GAR2rYZ8MTExeL', 0.74, 0.744, 2, -11.627, 1, 0.0788, 0.000844, 0.706, 0.191, 0.761, 103.77, 434640, 4, 21.56979, 21]
+177
+Fetching ['Freak of the Week', 'Marvelous 3', 'spotify:track:5eR2WL7ZHLpGv5PfFT9iEJ'] ....Fetched!
+['Freak of the Week', 'Marvelous 3', 'spotify:track:5eR2WL7ZHLpGv5PfFT9iEJ', 0.618, 0.82, 11, -4.593, 0, 0.0577, 0.000543, 0, 0.546, 0.51, 130.709, 200640, 4, 42.2806, 10]
+148
+Fetching ['Du hast', 'Rammstein', 'spotify:track:3cwDSDzTiWr5H5xMQhQ6Mx'] ....Fetched!
+['Du hast', 'Rammstein', 'spotify:track:3cwDSDzTiWr5H5xMQhQ6Mx', 0.64, 0.922, 9, -6.283, 0, 0.0385, 0.00369, 0.055, 0.332, 0.716, 125.105, 234227, 4, 64.65971, 8]
+139
+Fetching ['2 Wicky', 'Hooverphonic', 'spotify:track:4NyKEVldCvokxpmeFBNNXI'] ....Fetched!
+['2 Wicky', 'Hooverphonic', 'spotify:track:4NyKEVldCvokxpmeFBNNXI', 0.546, 0.613, 10, -7.938, 0, 0.048, 0.16, 0.00403, 0.13, 0.446, 68.172, 284293, 4, 60.15044, 9]
+140
+Fetching ["Steppin' Out", 'Paul Revere & The Raiders', 'spotify:track:7xM60hOQwp5DIG0TblEiPq'] ....Fetched!
+["Steppin' Out", 'Paul Revere & The Raiders', 'spotify:track:7xM60hOQwp5DIG0TblEiPq', 0.582, 0.708, 5, -10.258, 0, 0.0322, 0.0259, 0.000229, 0.043, 0.962, 138.097, 133893, 4, 29.38378, 8]
+164
+Fetching ['Rub It In', "Billy 'Crash' Craddock", 'spotify:track:6q014fQ3SqLy180KPuCTG1'] ....Fetched!
+['Rub It In', "Billy 'Crash' Craddock", 'spotify:track:6q014fQ3SqLy180KPuCTG1', 0.759, 0.543, 7, -11.189, 1, 0.0321, 0.404, 1.25e-05, 0.141, 0.977, 115.671, 146800, 4, 39.62952, 8]
+157
+Fetching ['Libertine', 'The Buck Pets', 'spotify:track:5ZUoItidGZPHuyxYzPAlNi'] ....Fetched!
+['Libertine', 'The Buck Pets', 'spotify:track:5ZUoItidGZPHuyxYzPAlNi', 0.553, 0.82, 9, -12.89, 1, 0.102, 0.0383, 0.00577, 0.0808, 0.572, 193.421, 198933, 4, 25.79354, 9]
+146
+Fetching ["California Dreamin'", 'The Mamas & The Papas', 'spotify:track:7BsD3xcEhgTmc4zegwbkHj'] ....Fetched!
+["California Dreamin'", 'The Mamas & The Papas', 'spotify:track:7BsD3xcEhgTmc4zegwbkHj', 0.554, 0.69, 1, -10.245, 0, 0.0346, 0.627, 0, 0.0688, 0.558, 112.749, 159333, 4, 53.09241, 7]
+159
+Fetching ['Expressions', 'Dr. Lonnie Smith', 'spotify:track:56Ecqo2ooFyzXIwmwdNKZU'] ....Fetched!
+['Expressions', 'Dr. Lonnie Smith', 'spotify:track:56Ecqo2ooFyzXIwmwdNKZU', 0.393, 0.663, 0, -12.134, 1, 0.0666, 0.389, 0.746, 0.657, 0.654, 163.841, 690560, 4, 71.70379, 26]
+151
+Fetching ['Native Son', 'The Judybats', 'spotify:track:1jbdYYTUWUwDt6Yriizmv5'] ....Fetched!
+['Native Son', 'The Judybats', 'spotify:track:1jbdYYTUWUwDt6Yriizmv5', 0.51, 0.868, 1, -10.838, 0, 0.0466, 0.00974, 0.000698, 0.103, 0.826, 132.343, 198533, 4, 45.08529, 10]
+150
+Fetching ['Lie For A Lie', 'Built To Spill', 'spotify:track:3APriwCZUb8KSSSCFeQ3l0'] ....Fetched!
+['Lie For A Lie', 'Built To Spill', 'spotify:track:3APriwCZUb8KSSSCFeQ3l0', 0.327, 0.411, 7, -14.041, 1, 0.0517, 0.00798, 0.0825, 0.128, 0.528, 174.99, 195760, 4, 21.19601, 11]
+153
+Fetching ["Breakfast At Tiffany's", 'Deep Blue Something', 'spotify:track:4GPe1qjQCvOIa8vLBKDI9d'] ....Fetched!
+["Breakfast At Tiffany's", 'Deep Blue Something', 'spotify:track:4GPe1qjQCvOIa8vLBKDI9d', 0.467, 0.483, 2, -16.163, 1, 0.0409, 0.0129, 0.000718, 0.0485, 0.599, 114.599, 318400, 4, 45.35488, 11]
+170
+Fetching ['No Diggity', 'Blackstreet', 'spotify:track:6KoaqyDrVtZmlWET7Nf9Ez'] ....Fetched!
+['No Diggity', 'Blackstreet', 'spotify:track:6KoaqyDrVtZmlWET7Nf9Ez', 0.853, 0.526, 6, -5.425, 0, 0.211, 0.347, 0, 0.0684, 0.792, 92.59, 272510, 4, 35.01067, 11]
+138
+Fetching ['San Franciscan Nights', 'Eric Burdon & the Animals', 'spotify:track:7HgvOarjz4hTGBssqQyNlV'] ....Fetched!
+['San Franciscan Nights', 'Eric Burdon & the Animals', 'spotify:track:7HgvOarjz4hTGBssqQyNlV', 0.729, 0.232, 0, -19.717, 1, 0.0477, 0.241, 0.0512, 0.189, 0.386, 92.546, 195173, 4, 42.19718, 11]
+170
+Fetching ['A Certain Shade of Green', 'Incubus', 'spotify:track:6zU4ims9oVbprKkjpdGD5c'] ....Fetched!
+['A Certain Shade of Green', 'Incubus', 'spotify:track:6zU4ims9oVbprKkjpdGD5c', 0.429, 0.978, 11, -4.88, 1, 0.126, 0.000227, 6.81e-06, 0.0583, 0.43, 121.651, 191360, 4, 115.58284, 6]
+159
+Fetching ["Back In Baby's Arms", 'Patsy Cline', 'spotify:track:6wRJogzb7OFOyCu9me7Ie8'] ....Fetched!
+["Back In Baby's Arms", 'Patsy Cline', 'spotify:track:6wRJogzb7OFOyCu9me7Ie8', 0.716, 0.441, 8, -11.625, 1, 0.0287, 0.767, 3.12e-06, 0.148, 0.703, 102.39, 124307, 4, 20.52375, 6]
+155
+Fetching ['Promises, Promises', 'Naked Eyes', 'spotify:track:3kcikn08ZWSgRvvXT6yeKY'] ....Fetched!
+['Promises, Promises', 'Naked Eyes', 'spotify:track:3kcikn08ZWSgRvvXT6yeKY', 0.805, 0.478, 9, -13.359, 0, 0.0608, 0.0895, 0.00588, 0.208, 0.9, 112.616, 268267, 4, 20.7076, 14]
+154
+Fetching ['Loco', 'Coal Chamber', 'spotify:track:34SVUs66rBnOqsCJl45Ek8'] ....Fetched!
+['Loco', 'Coal Chamber', 'spotify:track:34SVUs66rBnOqsCJl45Ek8', 0.497, 0.914, 6, -6.532, 1, 0.0601, 0.00178, 0.00105, 0.258, 0.16, 133.738, 254693, 4, 48.26029, 12]
+142
+Fetching ['Just a Friend', 'Biz Markie', 'spotify:track:3yNVfRQlUPViUh8O2V9SQn'] ....Fetched!
+['Just a Friend', 'Biz Markie', 'spotify:track:3yNVfRQlUPViUh8O2V9SQn', 0.862, 0.663, 0, -9.004, 1, 0.21, 0.12, 0, 0.318, 0.837, 85.308, 238267, 4, 32.31289, 9]
+137
+Fetching ['Liquid Boy', 'Treepeople', 'spotify:track:6JzZfQ8UcUXTo7GzY48MlW'] ....Fetched!
+['Liquid Boy', 'Treepeople', 'spotify:track:6JzZfQ8UcUXTo7GzY48MlW', 0.369, 0.715, 9, -14.373, 1, 0.0356, 0.000406, 0.691, 0.0645, 0.875, 139.106, 236733, 4, 24.31107, 14]
+148
+Fetching ['V1NC3NT COM3 ON DOWN', 'Brainiac', 'spotify:track:5UCKBf67aFwckcibLTb2X3'] ....Fetched!
+['V1NC3NT COM3 ON DOWN', 'Brainiac', 'spotify:track:5UCKBf67aFwckcibLTb2X3', 0.308, 0.944, 0, -7.5, 0, 0.0827, 0.0161, 0.00423, 0.0531, 0.715, 176.299, 154107, 4, 22.86507, 8]
+152
+Fetching ['Glory Box', 'Portishead', 'spotify:track:3Ty7OTBNSigGEpeW2PqcsC'] ....Fetched!
+['Glory Box', 'Portishead', 'spotify:track:3Ty7OTBNSigGEpeW2PqcsC', 0.51, 0.434, 1, -10.004, 1, 0.0361, 0.177, 0.516, 0.0603, 0.207, 119.695, 308627, 4, 57.11993, 13]
+143
+Fetching ['Expeditions', 'Mythos', 'spotify:track:4uCKgAhneJjkdVKKMeJZbX'] ....Fetched!
+['Expeditions', 'Mythos', 'spotify:track:4uCKgAhneJjkdVKKMeJZbX', 0.314, 0.36, 4, -15.254, 0, 0.038, 0.897, 0.915, 0.115, 0.189, 142.563, 371027, 4, 21.26502, 14]
+139
+Fetching ['The Only One I Know', 'The Charlatans', 'spotify:track:17hdos7cv1vAvcfoTU4Pym'] ....Fetched!
+['The Only One I Know', 'The Charlatans', 'spotify:track:17hdos7cv1vAvcfoTU4Pym', 0.543, 0.572, 5, -13.124, 1, 0.0317, 0.0685, 0.00119, 0.0823, 0.533, 113.312, 238120, 4, 26.85777, 8]
+160
+Fetching ['Everything You Want', 'Vertical Horizon', 'spotify:track:4cKGldbhGJniI8BrB3K6tb'] ....Fetched!
+['Everything You Want', 'Vertical Horizon', 'spotify:track:4cKGldbhGJniI8BrB3K6tb', 0.637, 0.759, 3, -6.389, 0, 0.0305, 0.0504, 0, 0.0642, 0.741, 93.898, 257067, 4, 78.35263, 9]
+154
+Fetching ['Leader Of The Pack', 'The Shangri-Las', 'spotify:track:3GmQBCSYmD0Bh4O0mky3gD'] ....Fetched!
+['Leader Of The Pack', 'The Shangri-Las', 'spotify:track:3GmQBCSYmD0Bh4O0mky3gD', 0.421, 0.557, 1, -8.538, 1, 0.0981, 0.702, 0, 0.691, 0.344, 116.512, 171333, 4, 58.86867, 9]
+151
+Fetching ["You're Gonna Die", 'Destroy All Monsters', 'spotify:track:6McOy6dWlBROw3s5v5xmEm'] ....Fetched!
+["You're Gonna Die", 'Destroy All Monsters', 'spotify:track:6McOy6dWlBROw3s5v5xmEm', 0.486, 0.735, 11, -12.768, 0, 0.0391, 0.175, 0.0304, 0.252, 0.683, 81.962, 172067, 4, 22.28952, 7]
+160
+Fetching ['Just Another Victim', 'Helmet', 'spotify:track:4WlhMYiPUp94kZO5uzVk7i'] ....Fetched!
+['Just Another Victim', 'Helmet', 'spotify:track:4WlhMYiPUp94kZO5uzVk7i', 0.458, 0.79, 6, -10.452, 0, 0.117, 0.000707, 9.3e-05, 0.151, 0.274, 121.096, 261160, 4, 50.37512, 9]
+151
+Fetching ['Fungi Mama (Bebopafunkadiscolypso)', 'Tom Browne', 'spotify:track:73JWSmA5EGjKULcYfeKX60'] ....Fetched!
+['Fungi Mama (Bebopafunkadiscolypso)', 'Tom Browne', 'spotify:track:73JWSmA5EGjKULcYfeKX60', 0.778, 0.753, 2, -10.856, 1, 0.0939, 0.107, 0.556, 0.627, 0.61, 121.59, 355227, 4, 24.02935, 18]
+166
+Fetching ['Red Light', 'Deep Blue Something', 'spotify:track:2Vpixe8tv2OQMGZlC6UeQy'] ....Fetched!
+['Red Light', 'Deep Blue Something', 'spotify:track:2Vpixe8tv2OQMGZlC6UeQy', 0.468, 0.931, 2, -5.594, 1, 0.0444, 0.00144, 0.00483, 0.218, 0.681, 173.054, 244627, 4, 46.40796, 10]
+155
+Fetching ['Pretty Pain', 'Money Mark', 'spotify:track:5k58rJgg3b6efKhwbBljXJ'] ....Fetched!
+['Pretty Pain', 'Money Mark', 'spotify:track:5k58rJgg3b6efKhwbBljXJ', 0.746, 0.424, 2, -15.518, 0, 0.0339, 0.269, 0.919, 0.195, 0.58, 107.372, 189840, 4, 58.08869, 9]
+143
+Fetching ['Mmm Mmm Mmm Mmm', 'Crash Test Dummies', 'spotify:track:31v2AQlx4pDI7kmnLxBkem'] ....Fetched!
+['Mmm Mmm Mmm Mmm', 'Crash Test Dummies', 'spotify:track:31v2AQlx4pDI7kmnLxBkem', 0.58, 0.575, 3, -7.72, 1, 0.0231, 0.25, 1.83e-05, 0.0813, 0.37, 92.934, 235173, 4, 44.44677, 10]
+155
+Fetching ['Re-entry Blues', 'The Grifters', 'spotify:track:7zKp7Vw3ibD1FaHwD0GNwi'] ....Fetched!
+['Re-entry Blues', 'The Grifters', 'spotify:track:7zKp7Vw3ibD1FaHwD0GNwi', 0.607, 0.865, 7, -7.539, 1, 0.0466, 0.0647, 0.000163, 0.258, 0.74, 118.866, 236000, 4, 35.60255, 10]
+152
+Fetching ['Piece of My Heart', 'Janis Joplin', 'spotify:track:2RWraN4ZkuqjcNQAlBNGEH'] ....Fetched!
+['Piece of My Heart', 'Janis Joplin', 'spotify:track:2RWraN4ZkuqjcNQAlBNGEH', 0.427, 0.665, 4, -9.681, 1, 0.139, 0.402, 0.000105, 0.409, 0.561, 160.935, 266240, 4, 51.39951, 9]
+153
+Fetching ['Cold And Ugly - Live', 'TOOL', 'spotify:track:7ajn3mKu2DP8CoqzpHEr1d'] ....Fetched!
+['Cold And Ugly - Live', 'TOOL', 'spotify:track:7ajn3mKu2DP8CoqzpHEr1d', 0.263, 0.965, 2, -5.565, 1, 0.133, 0.000409, 0.174, 0.585, 0.138, 180.63, 249200, 4, 77.11818, 8]
+147
+Fetching ['You Are The One', 'TKA', 'spotify:track:4Jqw3L02yfNMfrxYIfr8Gd'] ....Fetched!
+['You Are The One', 'TKA', 'spotify:track:4Jqw3L02yfNMfrxYIfr8Gd', 0.717, 0.564, 7, -13.894, 1, 0.0674, 0.112, 0.076, 0.18, 0.753, 120.568, 252600, 4, 34.06039, 12]
+141
+Fetching ['Suspicion', 'Terry Stafford', 'spotify:track:17YtDVU9bUluyihdOKWfxu'] ....Fetched!
+['Suspicion', 'Terry Stafford', 'spotify:track:17YtDVU9bUluyihdOKWfxu', 0.595, 0.57, 2, -11.301, 1, 0.0356, 0.678, 0.291, 0.13, 0.884, 137.757, 154907, 4, 26.63064, 10]
+145
+Fetching ['Save Your Love (For # 1) - 12" Mix', 'Rene & Angela', 'spotify:track:4LXXEL57VTuqAM5MvpEO9X'] ....Fetched!
+['Save Your Love (For # 1) - 12" Mix', 'Rene & Angela', 'spotify:track:4LXXEL57VTuqAM5MvpEO9X', 0.889, 0.75, 10, -10.426, 0, 0.0658, 0.00554, 0.014, 0.12, 0.577, 112.013, 331493, 4, 38.36221, 9]
+174
+Fetching ['Standing Outside a Broken Phone Booth with Money in My Hand', 'Primitive Radio Gods', 'spotify:track:47Ut22CeIzd0PRIcrm4sDd'] ....Fetched!
+['Standing Outside a Broken Phone Booth with Money in My Hand', 'Primitive Radio Gods', 'spotify:track:47Ut22CeIzd0PRIcrm4sDd', 0.729, 0.619, 0, -7.001, 1, 0.0404, 0.125, 0.792, 0.0676, 0.456, 95.037, 336773, 4, 19.3894, 15]
+201
+Fetching ['Richard III', 'Supergrass', 'spotify:track:3p0rnbnQc8WPJjcMyUsglj'] ....Fetched!
+['Richard III', 'Supergrass', 'spotify:track:3p0rnbnQc8WPJjcMyUsglj', 0.13, 0.622, 10, -10.951, 1, 0.0482, 3.14e-06, 0.762, 0.106, 0.235, 145.233, 191319, 4, 44.5004, 9]
+146
+Fetching ['If We Are Only Friends', 'Tracy Huang', 'spotify:track:73Pmjv7d9rUaZcmkStvEBE'] ....Fetched!
+['If We Are Only Friends', 'Tracy Huang', 'spotify:track:73Pmjv7d9rUaZcmkStvEBE', 0.882, 0.655, 8, -6.748, 1, 0.0358, 0.596, 5.4e-06, 0.0321, 0.983, 109.932, 176613, 4, 41.56629, 10]
+159
+Fetching ['Kick In The Eye', 'Bauhaus', 'spotify:track:2CBxS6Xzq7I2hu87CXDx0a'] ....Fetched!
+['Kick In The Eye', 'Bauhaus', 'spotify:track:2CBxS6Xzq7I2hu87CXDx0a', 0.686, 0.67, 7, -9.545, 1, 0.0688, 0.00186, 0.00752, 0.053, 0.829, 120.605, 219933, 4, 21.84312, 9]
+147
+Fetching ['Point Of No Return', 'Gene McDaniels', 'spotify:track:3Z05xMKFPEwR8YadgcDPWH'] ....Fetched!
+['Point Of No Return', 'Gene McDaniels', 'spotify:track:3Z05xMKFPEwR8YadgcDPWH', 0.645, 0.425, 5, -8.352, 1, 0.0469, 0.46, 0, 0.0584, 0.885, 140.995, 139200, 4, 25.7326, 8]
+149
+Fetching ['Sometimes', 'My Bloody Valentine', 'spotify:track:5KBKqxYY263Tr0haAu3fMz'] ....Fetched!
+['Sometimes', 'My Bloody Valentine', 'spotify:track:5KBKqxYY263Tr0haAu3fMz', 0.351, 0.651, 7, -17.989, 1, 0.0789, 6.79e-05, 0.889, 0.0916, 0.0395, 128.453, 319227, 4, 27.11827, 14]
+157
+Fetching ['Digging Your Scene', 'The Blow Monkeys', 'spotify:track:00Mk0LnP5u2W5yJmJpG4va'] ....Fetched!
+['Digging Your Scene', 'The Blow Monkeys', 'spotify:track:00Mk0LnP5u2W5yJmJpG4va', 0.565, 0.875, 9, -7.102, 1, 0.0723, 0.175, 0.00122, 0.0542, 0.676, 102.554, 245267, 4, 39.38563, 12]
+160
+Fetching ['Lay It on Me', 'Sylvia', 'spotify:track:1t8plCno96bBSbmm8j4Ya4'] ....Fetched!
+['Lay It on Me', 'Sylvia', 'spotify:track:1t8plCno96bBSbmm8j4Ya4', 0.589, 0.707, 11, -10.146, 0, 0.04, 0.346, 0.000161, 0.0627, 0.904, 88.9, 240933, 4, 22.56078, 11]
+142
+Fetching ["J'aime les filles", 'Jacques Dutronc', 'spotify:track:5dg1C0ZZ87QL4dZCfPI2z1'] ....Fetched!
+["J'aime les filles", 'Jacques Dutronc', 'spotify:track:5dg1C0ZZ87QL4dZCfPI2z1', 0.654, 0.355, 9, -8.154, 1, 0.0439, 0.766, 3.57e-05, 0.123, 0.705, 120.92, 181533, 4, 35.67809, 8]
+156
+Fetching ["She Ain't Going Nowhere", 'Guy Clark', 'spotify:track:75WQivypwbWNM6YLPiVoCv'] ....Fetched!
+["She Ain't Going Nowhere", 'Guy Clark', 'spotify:track:75WQivypwbWNM6YLPiVoCv', 0.5, 0.251, 2, -9.912, 1, 0.0311, 0.65, 0, 0.156, 0.352, 132.29, 206640, 4, 37.66614, 11]
+147
+Fetching ['This Is How We Do It', 'Montell Jordan', 'spotify:track:1yRBHnXfl6wjCnM6dYRXq0'] ....Fetched!
+['This Is How We Do It', 'Montell Jordan', 'spotify:track:1yRBHnXfl6wjCnM6dYRXq0', 0.775, 0.613, 0, -9.831, 1, 0.145, 0.0413, 0, 0.5, 0.789, 103.65, 277014, 4, 33.81984, 9]
+149
+Fetching ['Tear the Top Right Off My Head', 'The Monkees', 'spotify:track:5J2e0W9z4S3k7Gtj1IXTs7'] ....Fetched!
+['Tear the Top Right Off My Head', 'The Monkees', 'spotify:track:5J2e0W9z4S3k7Gtj1IXTs7', 0.47, 0.607, 11, -8.736, 1, 0.0486, 0.13, 5.6e-06, 0.19, 0.627, 138.877, 125533, 4, 22.29729, 8]
+163
+Fetching ['Tomorrow', 'Silverchair', 'spotify:track:1kWbriV6xrd2lqFJfm7WJm'] ....Fetched!
+['Tomorrow', 'Silverchair', 'spotify:track:1kWbriV6xrd2lqFJfm7WJm', 0.307, 0.736, 2, -6.022, 1, 0.0339, 0.000413, 0.000102, 0.0991, 0.55, 146.915, 265560, 4, 45.85745, 10]
+148
+Fetching ['Outshined', 'Soundgarden', 'spotify:track:3t365tTYiwszqaXZb2LajN'] ....Fetched!
+['Outshined', 'Soundgarden', 'spotify:track:3t365tTYiwszqaXZb2LajN', 0.499, 0.752, 2, -9.549, 0, 0.0297, 5.91e-05, 0.0129, 0.0874, 0.612, 94.614, 310600, 1, 61.65168, 12]
+147
+Fetching ['Watching the Moon', 'The Del-Vikings', 'spotify:track:6qradMJCL5KFZ0iqKSUpwd'] ....Fetched!
+['Watching the Moon', 'The Del-Vikings', 'spotify:track:6qradMJCL5KFZ0iqKSUpwd', 0.572, 0.448, 8, -11.79, 1, 0.0314, 0.635, 1.98e-06, 0.102, 0.646, 112.863, 180267, 3, 64.77136, 7]
+157
+Fetching ['Sodajerk', 'Buffalo Tom', 'spotify:track:01yf7D8hFdCUnR9o375ikg'] ....Fetched!
+['Sodajerk', 'Buffalo Tom', 'spotify:track:01yf7D8hFdCUnR9o375ikg', 0.521, 0.929, 7, -9.787, 1, 0.0407, 0.00131, 5.89e-05, 0.203, 0.634, 140.58, 267533, 4, 43.26653, 13]
+146
+Fetching ['Beercan', 'Beck', 'spotify:track:33G1oMExIGE0FKltZ37auo'] ....Fetched!
+['Beercan', 'Beck', 'spotify:track:33G1oMExIGE0FKltZ37auo', 0.781, 0.623, 6, -9.433, 1, 0.168, 0.00296, 0.00365, 0.0892, 0.606, 109.022, 240320, 4, 35.19409, 11]
+138
+Fetching ['So Much for the Afterglow', 'Everclear', 'spotify:track:10yqORzsT4ZD9byA7EQjsS'] ....Fetched!
+['So Much for the Afterglow', 'Everclear', 'spotify:track:10yqORzsT4ZD9byA7EQjsS', 0.349, 0.949, 9, -7.114, 1, 0.369, 0.00521, 0.831, 0.096, 0.108, 149.897, 233867, 4, 42.35063, 8]
+157
+Fetching ['Nothing To Be Done', 'The Pastels', 'spotify:track:282VgBXcFt4JPkkxT7c2cF'] ....Fetched!
+['Nothing To Be Done', 'The Pastels', 'spotify:track:282VgBXcFt4JPkkxT7c2cF', 0.349, 0.896, 9, -10.59, 1, 0.106, 0.00144, 0.73, 0.287, 0.481, 141.72, 232133, 4, 38.93618, 9]
+150
+Fetching ['StarÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â¡lfur', 'Sigur RÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â³s', 'spotify:track:55gISxV37mffOW2DbSskT3'] ....Fetched!
+['StarÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â¡lfur', 'Sigur RÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â³s', 'spotify:track:55gISxV37mffOW2DbSskT3', 0.184, 0.423, 3, -9.335, 1, 0.0399, 0.496, 0.901, 0.201, 0.0954, 137.74, 406573, 4, 17.68892, 15]
+171
+Fetching ['Blitzkrieg', 'Metallica', 'spotify:track:4LkKEiocS6QvdYIekwiPWd'] ....Fetched!
+['Blitzkrieg', 'Metallica', 'spotify:track:4LkKEiocS6QvdYIekwiPWd', 0.492, 0.968, 4, -6.332, 1, 0.0559, 0.000834, 0.533, 0.0661, 0.631, 98.825, 216800, 4, 36.9166, 12]
+144
+Fetching ['Hang On Sloopy', 'The McCoys', 'spotify:track:0i7O5MtSTXvR4BEY7stpjF'] ....Fetched!
+['Hang On Sloopy', 'The McCoys', 'spotify:track:0i7O5MtSTXvR4BEY7stpjF', 0.764, 0.516, 7, -12.099, 1, 0.0334, 0.167, 0, 0.0723, 0.936, 115.255, 231800, 4, 26.24199, 11]
+145
+Fetching ["That's The Way Boys Are", 'Lesley Gore', 'spotify:track:4A7hYEn9cGpGvZ0nWE0NVx'] ....Fetched!
+["That's The Way Boys Are", 'Lesley Gore', 'spotify:track:4A7hYEn9cGpGvZ0nWE0NVx', 0.49, 0.611, 1, -8.499, 1, 0.035, 0.642, 0, 0.13, 0.749, 126.083, 136267, 4, 33.1773, 8]
+148
+Fetching ['Kiss and Say Goodbye', 'The Manhattans', 'spotify:track:6roaUdrIQUlTcujSFLtYKI'] ....Fetched!
+['Kiss and Say Goodbye', 'The Manhattans', 'spotify:track:6roaUdrIQUlTcujSFLtYKI', 0.588, 0.414, 10, -11.503, 1, 0.0665, 0.361, 0, 0.139, 0.605, 129.118, 265773, 4, 38.88923, 12]
+155
+Fetching ['Tennessee Waltz', 'Alma Cogan', 'spotify:track:74ofWyrbvF76TukOsVfhsS'] ....Fetched!
+['Tennessee Waltz', 'Alma Cogan', 'spotify:track:74ofWyrbvF76TukOsVfhsS', 0.538, 0.947, 5, -4.086, 1, 0.0361, 0.277, 0.00161, 0.0913, 0.884, 109.589, 133000, 4, 25.64953, 8]
+150
+Fetching ['Kool Thing', 'Sonic Youth', 'spotify:track:1ZozGivTAYsOwhy6LVHsPX'] ....Fetched!
+['Kool Thing', 'Sonic Youth', 'spotify:track:1ZozGivTAYsOwhy6LVHsPX', 0.262, 0.82, 7, -11.621, 1, 0.0428, 0.0103, 0.0914, 0.101, 0.254, 155.197, 246333, 4, 49.67863, 14]
+146
+Fetching ["Some Of Your Lovin'", 'Dusty Springfield', 'spotify:track:3nwEmthjrWTwnhbFVujVbk'] ....Fetched!
+["Some Of Your Lovin'", 'Dusty Springfield', 'spotify:track:3nwEmthjrWTwnhbFVujVbk', 0.366, 0.487, 11, -8.147, 1, 0.0311, 0.657, 0, 0.176, 0.567, 78.122, 181867, 4, 33.93908, 9]
+154
+Fetching ['The Right Stuff', 'Vanessa Williams', 'spotify:track:04c7gHwmtsa37ejt5o3Kdp'] ....Fetched!
+['The Right Stuff', 'Vanessa Williams', 'spotify:track:04c7gHwmtsa37ejt5o3Kdp', 0.81, 0.761, 11, -7.582, 0, 0.0529, 0.0707, 0.0125, 0.0426, 0.587, 112.593, 267760, 4, 59.18242, 11]
+157
+Fetching ['I Want You', 'Spiritualized', 'spotify:track:30V8jILgWHdSPwajNUSGZb'] ....Fetched!
+['I Want You', 'Spiritualized', 'spotify:track:30V8jILgWHdSPwajNUSGZb', 0.429, 0.539, 7, -13.927, 1, 0.033, 0.00146, 0.825, 0.214, 0.355, 115.678, 226707, 4, 48.6884, 8]
+146
+Fetching ['Beautiful Life', 'Ace of Base', 'spotify:track:74jTexO94dFGyXGyeu8krd'] ....Fetched!
+['Beautiful Life', 'Ace of Base', 'spotify:track:74jTexO94dFGyXGyeu8krd', 0.749, 0.988, 0, -5.266, 0, 0.0387, 0.202, 0.00631, 0.17, 0.749, 135.015, 221187, 4, 51.38483, 9]
+148
+Fetching ['Theme From Electric Surfboard', 'Jack McDuff', 'spotify:track:6eHVWEOlLetg8gscLtAUsI'] ....Fetched!
+['Theme From Electric Surfboard', 'Jack McDuff', 'spotify:track:6eHVWEOlLetg8gscLtAUsI', 0.499, 0.648, 6, -5.04, 1, 0.0318, 0.29, 0.592, 0.111, 0.625, 98.367, 214227, 4, 42.94634, 10]
+160
+Fetching ['Kiss from a Rose', 'Seal', 'spotify:track:3YKptz29AsOlm7WAVnztBh'] ....Fetched!
+['Kiss from a Rose', 'Seal', 'spotify:track:3YKptz29AsOlm7WAVnztBh', 0.583, 0.532, 10, -7.11, 0, 0.0309, 0.684, 0, 0.306, 0.223, 131.741, 288427, 3, 24.39038, 15]
+139
+Fetching ['Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¡Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â»Ã\x83Â\x83Ã\x82Â\x91Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¶Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¸Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â»Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¸ Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â´Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â²Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â° Ã\x83Â\x83Ã\x82Â\x91Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¾Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â²Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â°Ã\x83Â\x83Ã\x82Â\x91Ã\x83Â\x82Ã\x82Â\x80Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¸Ã\x83Â\x83Ã\x82Â\x91Ã\x83Â\x82Ã\x82Â\x89Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â°', 'Lyube', 'spotify:track:4za8d8KiWueRsmVfa6o45j'] ....Fetched!
+['Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¡Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â»Ã\x83Â\x83Ã\x82Â\x91Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¶Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¸Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â»Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¸ Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â´Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â²Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â° Ã\x83Â\x83Ã\x82Â\x91Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¾Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â²Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â°Ã\x83Â\x83Ã\x82Â\x91Ã\x83Â\x82Ã\x82Â\x80Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â¸Ã\x83Â\x83Ã\x82Â\x91Ã\x83Â\x82Ã\x82Â\x89Ã\x83Â\x83Ã\x82Â\x90Ã\x83Â\x82Ã\x82Â°', 'Lyube', 'spotify:track:4za8d8KiWueRsmVfa6o45j', 0.68, 0.856, 1, -8.075, 1, 0.0982, 0.234, 0.000227, 0.309, 0.46, 124.059, 165080, 4, 34.40921, 7]
+418
+Fetching ['Maybe I Should Drive', 'Trashcan Sinatras', 'spotify:track:34QtXtmXSHEwjilYpCgHQq'] ....Fetched!
+['Maybe I Should Drive', 'Trashcan Sinatras', 'spotify:track:34QtXtmXSHEwjilYpCgHQq', 0.492, 0.862, 3, -9.777, 1, 0.0497, 0.238, 0.00826, 0.0708, 0.506, 117.499, 220000, 4, 58.18221, 9]
+162
+Fetching ['The Hippy Hippy Shake', 'The Swinging Blue Jeans', 'spotify:track:4LddAerqROEdlx1GF1bcVd'] ....Fetched!
+['The Hippy Hippy Shake', 'The Swinging Blue Jeans', 'spotify:track:4LddAerqROEdlx1GF1bcVd', 0.551, 0.686, 4, -11.969, 1, 0.0536, 0.346, 0, 0.33, 0.982, 70.959, 106067, 4, 54.93326, 4]
+161
+Fetching ["I'd Rather Be An Old Man's Sweetheart (Than A Young Man's Fool)", 'Candi Staton', 'spotify:track:0S38O3eo802ZJe0I8NEiJl'] ....Fetched!
+["I'd Rather Be An Old Man's Sweetheart (Than A Young Man's Fool)", 'Candi Staton', 'spotify:track:0S38O3eo802ZJe0I8NEiJl', 0.611, 0.468, 10, -16.23, 1, 0.06, 0.619, 0, 0.112, 0.829, 102.582, 129613, 4, 32.79655, 5]
+192
+Fetching ['Annie', 'Elastica', 'spotify:track:6GH7rZ4T8uwV49rcKWqoot'] ....Fetched!
+['Annie', 'Elastica', 'spotify:track:6GH7rZ4T8uwV49rcKWqoot', 0.381, 0.974, 9, -4.43, 1, 0.0924, 4.47e-06, 0.885, 0.0782, 0.46, 171.26, 73707, 4, 26.21675, 5]
+135
+Fetching ['Big Dipper', 'Built To Spill', 'spotify:track:4eEkyvPuIZlhTURRxJ8HWt'] ....Fetched!
+['Big Dipper', 'Built To Spill', 'spotify:track:4eEkyvPuIZlhTURRxJ8HWt', 0.685, 0.781, 11, -8.279, 0, 0.0481, 0.0761, 2.07e-05, 0.147, 0.962, 117.457, 249827, 4, 60.27391, 9]
+151
+Fetching ['Party Time', 'Kurtis Blow', 'spotify:track:5bc1kaUqSKCmSJ75HoCOgz'] ....Fetched!
+['Party Time', 'Kurtis Blow', 'spotify:track:5bc1kaUqSKCmSJ75HoCOgz', 0.793, 0.806, 1, -12.324, 1, 0.0771, 0.0681, 0.0366, 0.299, 0.9, 108.375, 406600, 4, 27.13709, 18]
+145
+Fetching ["What's My Age Again?", 'blink-182', 'spotify:track:5JZcX7TTLx4l0xFIXJ3DBt'] ....Fetched!
+["What's My Age Again?", 'blink-182', 'spotify:track:5JZcX7TTLx4l0xFIXJ3DBt', 0.403, 0.956, 6, -7.376, 1, 0.0732, 0.017, 7.09e-05, 0.0893, 0.561, 157.706, 148573, 4, 39.43566, 6]
+155
+Fetching ['King For A Day', 'Bazooka Joe', 'spotify:track:5VqPUyoPRVuVuMEhUe1b5q'] ....Fetched!
+['King For A Day', 'Bazooka Joe', 'spotify:track:5VqPUyoPRVuVuMEhUe1b5q', 0.424, 0.937, 7, -11.856, 1, 0.053, 0.000408, 0.228, 0.649, 0.413, 120.012, 310640, 4, 68.86622, 10]
+151
+Fetching ["Don't You Love It", 'Maxine Singleton', 'spotify:track:70e17yxZ8PBZShMPuWRiNa'] ....Fetched!
+["Don't You Love It", 'Maxine Singleton', 'spotify:track:70e17yxZ8PBZShMPuWRiNa', 0.678, 0.823, 0, -7.955, 0, 0.0374, 0.235, 0.00374, 0.058, 0.97, 117.708, 346933, 4, 41.65452, 10]
+157
+Fetching ['Roll Roll Train', 'Hasil Adkins', 'spotify:track:4uHPaGoeZfSzuUdkufgZqk'] ....Fetched!
+['Roll Roll Train', 'Hasil Adkins', 'spotify:track:4uHPaGoeZfSzuUdkufgZqk', 0.271, 0.9, 4, -7.397, 1, 0.0702, 0.562, 0.786, 0.223, 0.836, 170.758, 161760, 4, 30.64311, 10]
+148
+Fetching ['Fragile X', 'Janitor Joe', 'spotify:track:5d381ohoJJp4QLLWHYyg4G'] ....Fetched!
+['Fragile X', 'Janitor Joe', 'spotify:track:5d381ohoJJp4QLLWHYyg4G', 0.178, 0.976, 11, -8.546, 0, 0.0463, 0.000169, 0.864, 0.2, 0.451, 105.853, 166960, 3, 28.54286, 11]
+145
+Fetching ['Smooth (feat. Rob Thomas)', 'Santana', 'spotify:track:2pX4FpOgwItRVPPUFdRcxA'] ....Fetched!
+['Smooth (feat. Rob Thomas)', 'Santana', 'spotify:track:2pX4FpOgwItRVPPUFdRcxA', 0.609, 0.923, 9, -3.908, 1, 0.0338, 0.16, 4.73e-06, 0.295, 0.961, 115.996, 294987, 4, 44.2353, 11]
+156
+Fetching ['Rocks', 'Primal Scream', 'spotify:track:2MjYMvn7PlS4HAE1EtP7BJ'] ....Fetched!
+['Rocks', 'Primal Scream', 'spotify:track:2MjYMvn7PlS4HAE1EtP7BJ', 0.635, 0.754, 7, -7.703, 1, 0.035, 0.000183, 0.001, 0.0411, 0.96, 127.717, 217373, 4, 23.78767, 12]
+143
+Fetching ["Guess I'm Falling In Love - Live At The Gymnasium, New York/1967", 'The Velvet Underground', 'spotify:track:4eYlXlsyPdYkkzJidgI2rZ'] ....Fetched!
+["Guess I'm Falling In Love - Live At The Gymnasium, New York/1967", 'The Velvet Underground', 'spotify:track:4eYlXlsyPdYkkzJidgI2rZ', 0.637, 0.904, 0, -6.509, 1, 0.0352, 0.658, 0.344, 0.0802, 0.942, 129.473, 250759, 4, 70.51346, 10]
+212
+Fetching ['Lions', 'Tones On Tail', 'spotify:track:5da1FAYjU6rxJCtC7I485I'] ....Fetched!
+['Lions', 'Tones On Tail', 'spotify:track:5da1FAYjU6rxJCtC7I485I', 0.68, 0.367, 4, -17.889, 1, 0.0872, 0.154, 0.00277, 0.106, 0.749, 72.259, 238173, 4, 41.03153, 9]
+141
+Fetching ['Early Retirement', 'Janitor Joe', 'spotify:track:2cTHkVKdVFS7ajC0OH4NZy'] ....Fetched!
+['Early Retirement', 'Janitor Joe', 'spotify:track:2cTHkVKdVFS7ajC0OH4NZy', 0.382, 0.877, 5, -11.296, 1, 0.0487, 3.96e-06, 0.825, 0.137, 0.226, 102.707, 193236, 4, 95.70119, 6]
+153
+Fetching ['Put A Little Love In Your Heart', 'Jackie DeShannon', 'spotify:track:1fQn0TtyvkS6PjdVOitG4p'] ....Fetched!
+['Put A Little Love In Your Heart', 'Jackie DeShannon', 'spotify:track:1fQn0TtyvkS6PjdVOitG4p', 0.579, 0.362, 9, -12.442, 1, 0.0284, 0.71, 0.00053, 0.126, 0.401, 100.561, 156533, 4, 42.44745, 7]
+171
+Fetching ['Love Take Over', 'Five Star', 'spotify:track:5CZnie5eXX6my2lSlEBsia'] ....Fetched!
+['Love Take Over', 'Five Star', 'spotify:track:5CZnie5eXX6my2lSlEBsia', 0.827, 0.615, 10, -11.874, 0, 0.0471, 0.0776, 0.018, 0.297, 0.774, 119.546, 234960, 4, 32.0166, 12]
+148
+Fetching ['Distant Drums', 'Jim Reeves', 'spotify:track:78JlD9PKDckLNq0ouu0DZM'] ....Fetched!
+['Distant Drums', 'Jim Reeves', 'spotify:track:78JlD9PKDckLNq0ouu0DZM', 0.511, 0.194, 2, -17.579, 1, 0.0259, 0.538, 0.00092, 0.0971, 0.346, 96.254, 170133, 4, 20.28952, 5]
+148
+Fetching ['Great Provider', 'Barenaked Ladies', 'spotify:track:4gVzNM55BTYqMgE2Q2WHa2'] ....Fetched!
+['Great Provider', 'Barenaked Ladies', 'spotify:track:4gVzNM55BTYqMgE2Q2WHa2', 0.583, 0.576, 7, -12.711, 1, 0.0343, 0.0516, 0.00829, 0.107, 0.658, 92.888, 274907, 4, 33.96549, 13]
+156
+Fetching ['Local Boy In The Photograph', 'Stereophonics', 'spotify:track:6YzDOgtHkmtr70v9SD1gAp'] ....Fetched!
+['Local Boy In The Photograph', 'Stereophonics', 'spotify:track:6YzDOgtHkmtr70v9SD1gAp', 0.376, 0.95, 7, -4.453, 1, 0.0753, 0.000866, 0, 0.156, 0.375, 130.668, 201907, 4, 65.39921, 7]
+160
+Fetching ['Leader Of The Pack', 'The Shangri-Las', 'spotify:track:6O5PIO5pAWxdoxvaUFQ02G'] ....Fetched!
+['Leader Of The Pack', 'The Shangri-Las', 'spotify:track:6O5PIO5pAWxdoxvaUFQ02G', 0.423, 0.55, 0, -8.738, 1, 0.0975, 0.708, 0, 0.682, 0.313, 119.702, 171333, 4, 58.70309, 8]
+150
+Fetching ["Don't Cry", 'Steppenwolf', 'spotify:track:2CygQneLeZJ0xXcQCWCmNu'] ....Fetched!
+["Don't Cry", 'Steppenwolf', 'spotify:track:2CygQneLeZJ0xXcQCWCmNu', 0.452, 0.665, 7, -14.77, 1, 0.0653, 0.133, 0.0982, 0.62, 0.53, 136.241, 186893, 4, 33.72954, 9]
+141
+Fetching ['Stranger Than Fiction', 'Bad Religion', 'spotify:track:3Hye5J1bbPyhGBWeoUv9ZF'] ....Fetched!
+['Stranger Than Fiction', 'Bad Religion', 'spotify:track:3Hye5J1bbPyhGBWeoUv9ZF', 0.345, 0.956, 11, -7.262, 1, 0.0444, 0.0597, 0.000422, 0.332, 0.86, 165.562, 140160, 4, 73.85075, 5]
+159
+Fetching ['Shout', 'Lulu And The Luvvers', 'spotify:track:0fRtV3nteuYNhpYrOEWKaD'] ....Fetched!
+['Shout', 'Lulu And The Luvvers', 'spotify:track:0fRtV3nteuYNhpYrOEWKaD', 0.465, 0.728, 9, -11.116, 1, 0.0377, 0.534, 0.000252, 0.37, 0.87, 143.744, 173827, 4, 33.63694, 11]
+150
+Fetching ['Sehnsucht', 'Rammstein', 'spotify:track:3oWFQPp5lL5x907hCcCRa9'] ....Fetched!
+['Sehnsucht', 'Rammstein', 'spotify:track:3oWFQPp5lL5x907hCcCRa9', 0.6, 0.954, 11, -5.463, 0, 0.0555, 0.0086, 0.624, 0.0775, 0.665, 140.125, 244427, 4, 66.48733, 7]
+141
+Fetching ['Wax Ecstatic (To Sell Angelina)', 'Sponge', 'spotify:track:0SKiQidbB2lEY7us6yDt2m'] ....Fetched!
+['Wax Ecstatic (To Sell Angelina)', 'Sponge', 'spotify:track:0SKiQidbB2lEY7us6yDt2m', 0.464, 0.95, 8, -5.165, 1, 0.0523, 1.64e-05, 0.00268, 0.906, 0.434, 136.781, 248613, 4, 30.46365, 10]
+164
+Fetching ["I've Got Dreams to Remember", 'Otis Redding', 'spotify:track:4Ym0HjYfgEaUgjI3WuDqMK'] ....Fetched!
+["I've Got Dreams to Remember", 'Otis Redding', 'spotify:track:4Ym0HjYfgEaUgjI3WuDqMK', 0.389, 0.277, 9, -13.15, 1, 0.0279, 0.495, 0, 0.138, 0.402, 141.75, 195867, 3, 21.69381, 10]
+157
+Fetching ["I Can't Stay Mad at You", 'Skeeter Davis', 'spotify:track:0ijOfCj9PHvhnrX6WXrQns'] ....Fetched!
+["I Can't Stay Mad at You", 'Skeeter Davis', 'spotify:track:0ijOfCj9PHvhnrX6WXrQns', 0.552, 0.666, 1, -8.507, 1, 0.0309, 0.657, 3.19e-06, 0.132, 0.914, 120.292, 126600, 4, 81.53421, 5]
+161
+Fetching ['Gonna Make You', 'The Troggs', 'spotify:track:6Myz7niPRTII2eXaa27T5N'] ....Fetched!
+['Gonna Make You', 'The Troggs', 'spotify:track:6Myz7niPRTII2eXaa27T5N', 0.676, 0.752, 7, -9.785, 1, 0.0482, 0.0246, 0.0835, 0.389, 0.601, 105.402, 167507, 4, 18.63479, 8]
+148
+Fetching ['Do You Want to Know a Secret?', 'Billy J. Kramer', 'spotify:track:5CgLuHE3B4mKTI2yIDXaXR'] ....Fetched!
+['Do You Want to Know a Secret?', 'Billy J. Kramer', 'spotify:track:5CgLuHE3B4mKTI2yIDXaXR', 0.533, 0.538, 4, -9.829, 1, 0.0312, 0.763, 0, 0.394, 0.741, 137.495, 123667, 4, 43.34693, 7]
+162
+Fetching ['First Cool Hive', 'Moby', 'spotify:track:2nJKZYsbwMUVGWarhXA8wo'] ....Fetched!
+['First Cool Hive', 'Moby', 'spotify:track:2nJKZYsbwMUVGWarhXA8wo', 0.546, 0.758, 6, -9.664, 0, 0.0379, 0.000753, 0.525, 0.89, 0.294, 100.96, 316440, 4, 52.27407, 14]
+143
+Fetching ['Midnight Train to Georgia', 'Gladys Knight & The Pips', 'spotify:track:2B1LNMj2w3KUsxODMo2Ysg'] ....Fetched!
+['Midnight Train to Georgia', 'Gladys Knight & The Pips', 'spotify:track:2B1LNMj2w3KUsxODMo2Ysg', 0.573, 0.481, 10, -9.058, 0, 0.0392, 0.105, 0, 0.0973, 0.488, 90.894, 280133, 4, 34.67175, 14]
+169
+Fetching ['Roll Back The Meaning', 'Donald Fagen And Walter Becker', 'spotify:track:7sZ0aGhmWNbAMjsnUwbrZp'] ....Fetched!
+['Roll Back The Meaning', 'Donald Fagen And Walter Becker', 'spotify:track:7sZ0aGhmWNbAMjsnUwbrZp', 0.667, 0.502, 9, -16.484, 1, 0.0392, 0.691, 0.0043, 0.0958, 0.646, 136.061, 227068, 4, 28.95721, 12]
+177
+Fetching ['Come-On-A-My House', 'Della Reese', 'spotify:track:6qQJBjuWNFyziEPkAGLesG'] ....Fetched!
+['Come-On-A-My House', 'Della Reese', 'spotify:track:6qQJBjuWNFyziEPkAGLesG', 0.696, 0.443, 5, -10.926, 0, 0.0776, 0.305, 0, 0.278, 0.732, 140.854, 169573, 4, 29.44265, 9]
+148
+Fetching ['Life in Vain', 'Daniel Johnston', 'spotify:track:0G0355QSDEAcsKdV3i0a0V'] ....Fetched!
+['Life in Vain', 'Daniel Johnston', 'spotify:track:0G0355QSDEAcsKdV3i0a0V', 0.375, 0.389, 7, -9.411, 1, 0.0324, 0.341, 9.58e-06, 0.0984, 0.4, 77.523, 201781, 4, 60.01298, 5]
+150
+Fetching ["Get Out Of My Mix/Dolby's Cube", 'Thomas Dolby', 'spotify:track:0bVMo7dpzLExyVPiCjHnSI'] ....Fetched!
+["Get Out Of My Mix/Dolby's Cube", 'Thomas Dolby', 'spotify:track:0bVMo7dpzLExyVPiCjHnSI', 0.805, 0.538, 1, -11.152, 1, 0.0918, 0.0039, 0.143, 0.537, 0.746, 104.602, 479067, 4, 27.9637, 23]
+166
+Fetching ['Pretty Little Angel Eyes', 'Curtis Lee', 'spotify:track:4NQXfVdjEdbYNK7J6x3hOK'] ....Fetched!
+['Pretty Little Angel Eyes', 'Curtis Lee', 'spotify:track:4NQXfVdjEdbYNK7J6x3hOK', 0.623, 0.569, 1, -8.144, 0, 0.053, 0.329, 0, 0.411, 0.96, 106.329, 165200, 4, 56.42536, 7]
+150
+Fetching ['3AM', 'Matchbox Twenty', 'spotify:track:5vYA1mW9g2Coh1HUFUSmlb'] ....Fetched!
+['3AM', 'Matchbox Twenty', 'spotify:track:5vYA1mW9g2Coh1HUFUSmlb', 0.521, 0.673, 8, -8.685, 1, 0.0284, 0.00573, 0, 0.12, 0.543, 108.031, 225947, 4, 70.46189, 8]
+137
+Fetching ['Willy Nilly', 'Rufus Thomas', 'spotify:track:7cK3Y0AiHpiXLTKJkPgtNR'] ....Fetched!
+['Willy Nilly', 'Rufus Thomas', 'spotify:track:7cK3Y0AiHpiXLTKJkPgtNR', 0.786, 0.572, 0, -7.806, 1, 0.0397, 0.557, 0.000414, 0.22, 0.92, 109.478, 157080, 4, 48.97024, 7]
+146
+Fetching ['Super Bon Bon', 'Soul Coughing', 'spotify:track:1njobA8NxcOtPIbLdrip0T'] ....Fetched!
+['Super Bon Bon', 'Soul Coughing', 'spotify:track:1njobA8NxcOtPIbLdrip0T', 0.689, 0.723, 1, -8.689, 1, 0.0312, 0.00058, 0.12, 0.12, 0.916, 98.583, 211040, 4, 40.05459, 10]
+148
+Fetching ["It's Tomorrow", 'Overwhelming Colorfast', 'spotify:track:0n4FFHALyZMcQNlqBZ0NOy'] ....Fetched!
+["It's Tomorrow", 'Overwhelming Colorfast', 'spotify:track:0n4FFHALyZMcQNlqBZ0NOy', 0.252, 0.882, 11, -10.754, 0, 0.0367, 7.27e-06, 0.0767, 0.0859, 0.912, 194.829, 134720, 4, 27.52775, 8]
+164
+Fetching ['All This and Nothing', 'Sponge', 'spotify:track:7KWPPhZUGD2SFsDMs8ke37'] ....Fetched!
+['All This and Nothing', 'Sponge', 'spotify:track:7KWPPhZUGD2SFsDMs8ke37', 0.608, 0.672, 11, -6.654, 1, 0.0251, 0.0793, 2.77e-05, 0.164, 0.353, 113.293, 258667, 4, 68.96293, 12]
+154
+Fetching ['Try A Little Tenderness', 'Otis Redding', 'spotify:track:50W9PJjr1Euo9FFoqw90eL'] ....Fetched!
+['Try A Little Tenderness', 'Otis Redding', 'spotify:track:50W9PJjr1Euo9FFoqw90eL', 0.569, 0.126, 9, -16.028, 0, 0.0537, 0.177, 3.54e-05, 0.478, 0.066, 103.073, 200626, 4, 20.80313, 10]
+162
+Fetching ['Swim', 'Madder Rose', 'spotify:track:5ICWet2ZRiyis4J9ocWVHF'] ....Fetched!
+['Swim', 'Madder Rose', 'spotify:track:5ICWet2ZRiyis4J9ocWVHF', 0.419, 0.672, 4, -7.867, 1, 0.0551, 0.141, 0, 0.282, 0.568, 167.192, 158693, 4, 37.78661, 7]
+133
+Fetching ["The Shoop Shoop Song (It's In His Kiss)", 'Betty Everett', 'spotify:track:3qoNRhQuqbAG4uXrPx2aSk'] ....Fetched!
+["The Shoop Shoop Song (It's In His Kiss)", 'Betty Everett', 'spotify:track:3qoNRhQuqbAG4uXrPx2aSk', 0.652, 0.456, 9, -9.673, 1, 0.0569, 0.737, 0, 0.235, 0.966, 121.983, 136117, 4, 52.16007, 7]
+170
+Fetching ['Mo Money Mo Problems (feat. Mase & Puff Daddy)', 'The Notorious B.I.G.', 'spotify:track:3kG2YgxjYnnPBlo7H08Xt3'] ....Fetched!
+['Mo Money Mo Problems (feat. Mase & Puff Daddy)', 'The Notorious B.I.G.', 'spotify:track:3kG2YgxjYnnPBlo7H08Xt3', 0.857, 0.867, 6, -4.952, 0, 0.0635, 0.0271, 0, 0.128, 0.918, 104.382, 253133, 4, 35.73814, 12]
+186
+Fetching ['The Good Mr. Square', 'The Pretty Things', 'spotify:track:3nCrlyM0qV0icTof1OH4OA'] ....Fetched!
+['The Good Mr. Square', 'The Pretty Things', 'spotify:track:3nCrlyM0qV0icTof1OH4OA', 0.584, 0.284, 7, -12.714, 1, 0.0409, 0.305, 0.000903, 0.162, 0.386, 139.087, 86693, 4, 50.41194, 5]
+161
+Fetching ['Dumas Walker', 'The Kentucky Headhunters', 'spotify:track:5MhVlzGZgcqQ1O0OEFTUxf'] ....Fetched!
+['Dumas Walker', 'The Kentucky Headhunters', 'spotify:track:5MhVlzGZgcqQ1O0OEFTUxf', 0.622, 0.638, 7, -11.245, 1, 0.0281, 0.359, 2.8e-06, 0.193, 0.966, 140.257, 171400, 4, 35.53526, 10]
+162
+Fetching ['Wandering Star', 'Portishead', 'spotify:track:7h14W1uQK7sjpVI1oVTobt'] ....Fetched!
+['Wandering Star', 'Portishead', 'spotify:track:7h14W1uQK7sjpVI1oVTobt', 0.639, 0.37, 6, -10.883, 1, 0.0723, 0.504, 0.587, 0.117, 0.707, 80.152, 293200, 4, 52.25941, 14]
+146
+Fetching ['Hellraiser', 'Ozzy Osbourne', 'spotify:track:4nvYDy427VvA1TcEkdgZII'] ....Fetched!
+['Hellraiser', 'Ozzy Osbourne', 'spotify:track:4nvYDy427VvA1TcEkdgZII', 0.397, 0.852, 4, -6.348, 1, 0.0344, 0.00024, 0.000282, 0.228, 0.506, 96.064, 292720, 4, 25.30026, 10]
+150
+Fetching ['Sheila', 'Tommy Roe', 'spotify:track:567I3MNucUhkqZX9diIrDU'] ....Fetched!
+['Sheila', 'Tommy Roe', 'spotify:track:567I3MNucUhkqZX9diIrDU', 0.375, 0.487, 4, -12.612, 1, 0.073, 0.18, 0.00011, 0.0873, 0.678, 136.991, 125960, 4, 35.60507, 6]
+139
+Fetching ['Fascination Street - Extended Mix', 'The Cure', 'spotify:track:2zyXxyPnEMp8sFDIBV49RT'] ....Fetched!
+['Fascination Street - Extended Mix', 'The Cure', 'spotify:track:2zyXxyPnEMp8sFDIBV49RT', 0.569, 0.793, 0, -12.61, 0, 0.0358, 0.00012, 0.596, 0.0501, 0.675, 99.833, 528533, 4, 51.3614, 22]
+165
+Fetching ['My Heart Belongs To Daddy', 'Della Reese', 'spotify:track:0CCc9OhPxmJzpD0DTPTJCh'] ....Fetched!
+['My Heart Belongs To Daddy', 'Della Reese', 'spotify:track:0CCc9OhPxmJzpD0DTPTJCh', 0.833, 0.341, 5, -12.568, 1, 0.115, 0.505, 0, 0.169, 0.961, 125.342, 161000, 4, 25.81152, 7]
+154
+Fetching ['Inch By Inch', 'The Strikers', 'spotify:track:2sBX9e6y1rIkLvVyvP7Hlx'] ....Fetched!
+['Inch By Inch', 'The Strikers', 'spotify:track:2sBX9e6y1rIkLvVyvP7Hlx', 0.853, 0.643, 1, -14.277, 0, 0.0493, 0.00364, 0.00277, 0.0802, 0.946, 121.184, 492800, 4, 32.3464, 20]
+152
+Fetching ['Seasons In The Abyss', 'Slayer', 'spotify:track:2jfYVyExxd0j61Qm5TZi6V'] ....Fetched!
+['Seasons In The Abyss', 'Slayer', 'spotify:track:2jfYVyExxd0j61Qm5TZi6V', 0.264, 0.969, 5, -4.177, 0, 0.162, 0.00347, 0.00123, 0.0885, 0.168, 151.939, 397827, 4, 56.60233, 21]
+153
+Fetching ['Nothing Compares 2 U', "SinÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â©ad O'Connor", 'spotify:track:3nvuPQTw2zuFAVuLsC9IYQ'] ....Fetched!
+['Nothing Compares 2 U', "SinÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â©ad O'Connor", 'spotify:track:3nvuPQTw2zuFAVuLsC9IYQ', 0.511, 0.574, 5, -7.016, 1, 0.0273, 0.0425, 2.33e-05, 0.105, 0.161, 119.917, 280040, 4, 44.19788, 11]
+177
+Fetching ['Eulogy', 'TOOL', 'spotify:track:0RVFjx2HwbHcl5SCSADpFP'] ....Fetched!
+['Eulogy', 'TOOL', 'spotify:track:0RVFjx2HwbHcl5SCSADpFP', 0.517, 0.646, 4, -9.059, 0, 0.137, 0.00556, 0.783, 0.0985, 0.361, 165.653, 505147, 4, 47.63576, 19]
+135
+Fetching ['Little Latin Lupe Lu', 'Mitch Ryder and The Detroit Wheels', 'spotify:track:38LsFyA0gKC68wcrBpKMm1'] ....Fetched!
+['Little Latin Lupe Lu', 'Mitch Ryder and The Detroit Wheels', 'spotify:track:38LsFyA0gKC68wcrBpKMm1', 0.587, 0.798, 9, -10.935, 1, 0.0374, 0.114, 9.31e-05, 0.557, 0.879, 146.254, 189259, 4, 23.78417, 9]
+180
+Fetching ['Show Me the Meaning of Being Lonely', 'Backstreet Boys', 'spotify:track:1mutOzfgO49cWVjXt0ofqd'] ....Fetched!
+['Show Me the Meaning of Being Lonely', 'Backstreet Boys', 'spotify:track:1mutOzfgO49cWVjXt0ofqd', 0.63, 0.625, 6, -5.088, 0, 0.0252, 0.231, 0, 0.0765, 0.683, 167.998, 234960, 4, 28.3789, 13]
+168
+Fetching ['Follow', "Eric's Trip", 'spotify:track:1cEaDj32tZOZOP6Vu5atMT'] ....Fetched!
+['Follow', "Eric's Trip", 'spotify:track:1cEaDj32tZOZOP6Vu5atMT', 0.221, 0.987, 1, -6.206, 0, 0.0502, 3.49e-05, 0.74, 0.105, 0.682, 162.818, 157067, 4, 73.69475, 6]
+141
+Fetching ['57 Waltz', 'Velocity Girl', 'spotify:track:53QPN4JkaPvkwUxPaZRD5d'] ....Fetched!
+['57 Waltz', 'Velocity Girl', 'spotify:track:53QPN4JkaPvkwUxPaZRD5d', 0.468, 0.917, 2, -8.27, 1, 0.0592, 0.0667, 0.681, 0.0988, 0.701, 122.246, 169733, 3, 18.69816, 8]
+144
+Fetching ["Kick Him When He's Down", 'The Offspring', 'spotify:track:2qDos6FLuDlN868vp0EY8z'] ....Fetched!
+["Kick Him When He's Down", 'The Offspring', 'spotify:track:2qDos6FLuDlN868vp0EY8z', 0.42, 0.868, 6, -4.752, 0, 0.0409, 0.00203, 5.23e-06, 0.182, 0.936, 189.517, 196373, 4, 45.30938, 9]
+162
+Fetching ['Geronimo', 'Daytonas', 'spotify:track:0jqpJtUTNoKuGHluDtY6nx'] ....Fetched!
+['Geronimo', 'Daytonas', 'spotify:track:0jqpJtUTNoKuGHluDtY6nx', 0.227, 0.829, 0, -7.212, 1, 0.0419, 0.141, 0.758, 0.128, 0.702, 172.273, 126373, 4, 79.1699, 5]
+137
+Fetching ["I'm Always Drunk In San Francisco (And I Don't Drink At All)", 'Nancy Wilson', 'spotify:track:75v6Iil3NwEyac1y3EBKi3'] ....Fetched!
+["I'm Always Drunk In San Francisco (And I Don't Drink At All)", 'Nancy Wilson', 'spotify:track:75v6Iil3NwEyac1y3EBKi3', 0.356, 0.23, 9, -13.643, 0, 0.0323, 0.822, 4.31e-06, 0.103, 0.368, 182.683, 151867, 3, 35.20374, 8]
+197
+Fetching ['In the Beauty of Holiness', 'Azanyah', 'spotify:track:1rWLKBubDBKdrGd7xK7983'] ....Fetched!
+['In the Beauty of Holiness', 'Azanyah', 'spotify:track:1rWLKBubDBKdrGd7xK7983', 0.237, 0.343, 3, -7.461, 1, 0.027, 0.516, 0.0121, 0.143, 0.136, 162.504, 377133, 3, 43.69055, 18]
+155
+Fetching ['Doctor Doctor', 'UFO', 'spotify:track:0k6WmaM1k6gegrjKY8vmtJ'] ....Fetched!
+['Doctor Doctor', 'UFO', 'spotify:track:0k6WmaM1k6gegrjKY8vmtJ', 0.384, 0.691, 5, -9.061, 1, 0.0328, 0.0167, 0, 0.19, 0.733, 140.501, 167573, 4, 35.4818, 8]
+133
+Fetching ["Can't Hide Love", 'Carmen McRae', 'spotify:track:6G0rZ2W59tmR0Ei1EM31nS'] ....Fetched!
+["Can't Hide Love", 'Carmen McRae', 'spotify:track:6G0rZ2W59tmR0Ei1EM31nS', 0.458, 0.424, 1, -10.803, 1, 0.0368, 0.447, 0.00552, 0.229, 0.546, 144.749, 236160, 4, 32.22331, 11]
+153
+Fetching ['Weisses Fleisch', 'Rammstein', 'spotify:track:0ydEdAQOjO1PuHCqpmTUx8'] ....Fetched!
+['Weisses Fleisch', 'Rammstein', 'spotify:track:0ydEdAQOjO1PuHCqpmTUx8', 0.63, 0.764, 10, -8.773, 1, 0.0376, 3e-05, 0.271, 0.0664, 0.657, 132.153, 215827, 4, 72.54686, 9]
+147
+Fetching ['I Close My Eyes And Count To Ten', 'Dusty Springfield', 'spotify:track:6HByQvIyI5vRnkp0vhgasR'] ....Fetched!
+['I Close My Eyes And Count To Ten', 'Dusty Springfield', 'spotify:track:6HByQvIyI5vRnkp0vhgasR', 0.505, 0.489, 10, -8.167, 0, 0.0277, 0.301, 0, 0.129, 0.498, 112.437, 191107, 4, 44.45897, 9]
+168
+Fetching ['Rusty Cage', 'Soundgarden', 'spotify:track:6hqIXyo6GxydAnoI8XeIrV'] ....Fetched!
+['Rusty Cage', 'Soundgarden', 'spotify:track:6hqIXyo6GxydAnoI8XeIrV', 0.307, 0.917, 9, -7.599, 1, 0.0977, 1.65e-05, 0.00044, 0.0566, 0.266, 101.879, 266200, 4, 38.05012, 7]
+149
+Fetching ['Walk on By', 'Sybil', 'spotify:track:2FDIwfqSI44hVE9D6RmLQQ'] ....Fetched!
+['Walk on By', 'Sybil', 'spotify:track:2FDIwfqSI44hVE9D6RmLQQ', 0.682, 0.722, 9, -7.599, 1, 0.0496, 0.013, 0.000816, 0.0338, 0.904, 95.753, 247267, 4, 30.4841, 13]
+140
+Fetching ['Landmine Spring', 'Quicksand', 'spotify:track:4kqAUoDhmGzFw8BCl2X5vA'] ....Fetched!
+['Landmine Spring', 'Quicksand', 'spotify:track:4kqAUoDhmGzFw8BCl2X5vA', 0.37, 0.726, 7, -8.16, 1, 0.0409, 0.00534, 0.462, 0.126, 0.398, 148.448, 220973, 4, 53.36453, 10]
+147
+Fetching ['Ride The Wave', 'Dig', 'spotify:track:0L2Fg5vcxds1ffjXDeGR4c'] ....Fetched!
+['Ride The Wave', 'Dig', 'spotify:track:0L2Fg5vcxds1ffjXDeGR4c', 0.123, 0.974, 7, -7.765, 1, 0.106, 0.303, 0.000137, 0.422, 0.195, 191.408, 221600, 4, 101.87279, 5]
+141
+Fetching ['Bony Moronie', 'The Creation', 'spotify:track:38ccACWqA4eOLswgv8nQS4'] ....Fetched!
+['Bony Moronie', 'The Creation', 'spotify:track:38ccACWqA4eOLswgv8nQS4', 0.419, 0.856, 4, -6.718, 1, 0.0403, 0.463, 0.000654, 0.228, 0.861, 139.077, 207760, 4, 21.61952, 14]
+150
+Fetching ['You Should Be Mine (The Woo Woo Song)', 'Jeffrey Osborne', 'spotify:track:0tSbnWmN3ggQU3SVFNr4Qp'] ....Fetched!
+['You Should Be Mine (The Woo Woo Song)', 'Jeffrey Osborne', 'spotify:track:0tSbnWmN3ggQU3SVFNr4Qp', 0.719, 0.665, 7, -9.606, 1, 0.0406, 0.457, 0.000301, 0.106, 0.848, 89.014, 259293, 4, 21.15857, 15]
+177
+Fetching ['Walks Alone', 'Cows', 'spotify:track:2DSGds3Sn3HlcF5YmSKMeO'] ....Fetched!
+['Walks Alone', 'Cows', 'spotify:track:2DSGds3Sn3HlcF5YmSKMeO', 0.466, 0.982, 2, -9.777, 1, 0.0615, 3.65e-05, 0.469, 0.355, 0.553, 115.221, 166640, 4, 29.5332, 8]
+139
+Fetching ['The City', 'Dismemberment Plan', 'spotify:track:2mWJVuJsQIFg0fnRYcD8zz'] ....Fetched!
+['The City', 'Dismemberment Plan', 'spotify:track:2mWJVuJsQIFg0fnRYcD8zz', 0.47, 0.849, 1, -5.558, 0, 0.0352, 0.00913, 0.0163, 0.106, 0.206, 130.588, 266800, 4, 25.87954, 12]
+151
+Fetching ['Bluebell', 'Babes In ToylandÃ\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\xa0', 'spotify:track:6GDzBDy7zHhRK1YIWmQnpe'] ....Fetched!
+['Bluebell', 'Babes In ToylandÃ\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\xa0', 'spotify:track:6GDzBDy7zHhRK1YIWmQnpe', 0.281, 0.708, 11, -11.833, 0, 0.082, 4.5e-05, 0.104, 0.0893, 0.677, 164.107, 142373, 4, 29.45698, 7]
+166
+Fetching ['Temple of Love - Extended Version 1983', 'Sisters of Mercy', 'spotify:track:6ADyVHLIyY1sOLmEANictY'] ....Fetched!
+['Temple of Love - Extended Version 1983', 'Sisters of Mercy', 'spotify:track:6ADyVHLIyY1sOLmEANictY', 0.483, 0.961, 11, -8.699, 0, 0.0815, 0.000167, 0.417, 0.236, 0.26, 171.009, 462629, 4, 67.9683, 17]
+179

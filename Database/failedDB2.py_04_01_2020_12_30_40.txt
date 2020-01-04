@@ -1,0 +1,2 @@
+Fetching ['Rock Around The Clock', 'Bill Haley & His Comets', 'spotify:track:34AmZ4PMz9iNZVp9AMIGZj'] ....Fetched!
+['Rock Around The Clock', 'Bill Haley & His Comets', 'spotify:track:34AmZ4PMz9iNZVp9AMIGZj', 0.609, 0.526, 9, -13.106, 1, 0.43, 0.139, 0, 0.0946, 0.93, 173.179, 137000, 4, 27.72122, 8]
