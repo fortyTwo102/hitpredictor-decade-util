@@ -1,0 +1,6 @@
+Fetching ['I Wake Up Crying', 'Chuck Jackson', 'spotify:track:3qV19dr5Jy0ORsHXq6peuY'] ....Fetched!
+['I Wake Up Crying', 'Chuck Jackson', 'spotify:track:3qV19dr5Jy0ORsHXq6peuY', 0.529, 0.265, 0, -11.117, 1, 0.0262, 0.668, 0, 0.109, 0.508, 75.134, 139773, 4, 36.67137, 6]
+147
+Fetching ['Shakey Ground', 'The Temptations', 'spotify:track:34k5Lg38yxuEpIYdeHudpo'] ....Error in fetching spotify:track:34k5Lg38yxuEpIYdeHudpo
+Fetched!
+['Shakey Ground', 'The Temptations', 'spotify:track:34k5Lg38yxuEpIYdeHudpo', 0.673, 0.729, 2, -10.476, 1, 0.0537, 0.0902, 0.0308, 0.0381, 0.945, 92.611, 198533, 4]
