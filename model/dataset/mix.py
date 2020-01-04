@@ -28,7 +28,8 @@ for decade in decades:
 			if 'sections' in row:
 				pass
 
-			else:
+			elif len(row) == 18:
+
 				row.append(1)
 				row = tuple(row)
 				billSet.add(row)
@@ -38,7 +39,8 @@ for decade in decades:
 			if 'sections' in row:
 				pass
 
-			else:
+			elif len(row) == 18:
+
 				row.append(0)
 				row = tuple(row)
 				flopSet.add(row)
@@ -50,7 +52,7 @@ for decade in decades:
 			song = list(song)
 			song = [str(x) for x in song]
 
-			print("\t".join(song[3:]), file=file)	
+			print('\t'.join(song[3:]), file=file)	
 
 	print(decade + 's is done!')		
 

@@ -1,0 +1,144 @@
+Decade  =  60s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Feature Importance  =  [0.09657431 0.04937419 0.03846832 0.0407444  0.07603132 0.0374142
+ 0.1857743  0.13054837 0.03097647 0.05411966 0.04191634 0.11149084
+ 0.04589695 0.02560546 0.03506482]
+
+
+Accuracy  =  70.34
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  70s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Feature Importance  =  [0.15557049 0.04066689 0.03319385 0.02904579 0.04932161 0.04484905
+ 0.08325354 0.2700617  0.03817073 0.04065658 0.04226785 0.07127464
+ 0.01431292 0.03424301 0.05311129]
+
+
+Accuracy  =  66.33
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  80s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Feature Importance  =  [0.06965053 0.03258272 0.02912137 0.03768962 0.02750765 0.07719256
+ 0.09744202 0.33153903 0.04511822 0.03552248 0.0275978  0.13485739
+ 0.         0.03059091 0.02358775]
+
+
+Accuracy  =  68.93
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  90s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Feature Importance  =  [0.14140408 0.04332387 0.02022576 0.0609528  0.         0.06232652
+ 0.06287191 0.22100395 0.02231857 0.05078689 0.04188279 0.23254941
+ 0.         0.02458123 0.01577221]
+
+
+Accuracy  =  78.29
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  00s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Feature Importance  =  [0.11346663 0.05383411 0.01451884 0.03519938 0.02883825 0.04012077
+ 0.14366941 0.39857855 0.01630083 0.02342478 0.01588064 0.04640459
+ 0.02804549 0.02015048 0.02156722]
+
+
+Accuracy  =  79.66
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  10s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Feature Importance  =  [0.07956345 0.06258792 0.00637146 0.03893404 0.01545147 0.02132991
+ 0.11842128 0.51490253 0.01919562 0.03283106 0.01913061 0.03614623
+ 0.01403068 0.00941185 0.01169191]
+
+
+Accuracy  =  88.41
+
+
+____________________________________________________________________________________________________
+
+
+

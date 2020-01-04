@@ -37,7 +37,7 @@ for decade in decades:
 	X = preprocessing.scale(X)
 
 
-	X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=1/3, random_state=9)
+	X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=1/3, random_state=5)
 
 
 	model = XGBClassifier()
