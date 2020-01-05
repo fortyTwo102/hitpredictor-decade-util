@@ -4,12 +4,30 @@ import matplotlib.pyplot as plot
 from sklearn.model_selection import train_test_split
 from xgboost import XGBClassifier
 from sklearn import metrics, preprocessing 
-
+from sklearn.neural_network import MLPClassifier
+from sklearn.linear_model import LogisticRegression
+# import skflow
 from datetime import datetime
+# import tensorflow.compat.v1 as tf
+# tf.disable_v2_behavior()
 
 now = datetime.now() 
-filename = 'logs/XGBOOST_' +now.strftime("_%d_%m_%Y_%H_%M_%S") + '.txt'
+filename = 'logs/LR_' + now.strftime("_%d_%m_%Y_%H_%M_%S") + '.txt'
 log = open(filename,'w+')
+
+def featureNorm(X):
+	mean = []
+	std = []
+
+	for i in range(X.shape[1]):
+		col = X[:,i]
+
+		mean.append(np.mean(col))
+		std.append(np.std(col))
+
+		X[:,i] = (col - np.mean(col))  / np.std(col)
+
+	return X	
 
 def logger(details):
 
@@ -36,15 +54,17 @@ for decade in decades:
 
 	X = preprocessing.scale(X)
 
+	# X = featureNorm(X)
+
 
 	X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=1/3, random_state=5)
 
 
-	model = XGBClassifier()
-	
+	# model = skflow.TensorFlowDNNClassifier(hidden_units = [10,20,10], n_classes=3)
+	model = LogisticRegression() # MLPClassifier(solver='lbfgs',alpha=1e-1,hidden_layer_sizes=(10,2), random_state=1)
 	details["Decade"] = decade + "s"
 	details["Model"] = model.fit(X_train, y_train)
-	details["Feature Importance"] = model.feature_importances_
+	# details["Feature Importance"] = model.feature_importances_
 	
 	try:	
 		details["Co-Efficient"] = model.coef_
@@ -54,9 +74,9 @@ for decade in decades:
 
 
 	y_pred = model.predict(X_test)
-	predictions = [round(value) for value in y_pred]
+	# predictions = [round(value) for value in y_pred]
 
-	accuracy = round(100*float(metrics.accuracy_score(y_test, predictions)),2)
+	accuracy = round(100*float(metrics.accuracy_score(y_test, y_pred)),2)
 	print(decade + "s Accuracy: ", accuracy)
 
 	details["Accuracy"] = accuracy

@@ -1,0 +1,132 @@
+Decade  =  60s
+
+
+Model  =  LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='warn', n_jobs=None, penalty='l2',
+                   random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+                   warm_start=False)
+
+
+Co-Efficient  =  [[ 0.13310823 -0.43214715  0.00670765  0.2248481   0.12816727 -0.0992432
+   0.46939207 -0.16471666  0.10098346  0.34128391 -0.09271602 -0.50015316
+  -0.0914648   0.04791103  0.14148588]]
+
+
+Accuracy  =  65.44
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  70s
+
+
+Model  =  LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='warn', n_jobs=None, penalty='l2',
+                   random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+                   warm_start=False)
+
+
+Co-Efficient  =  [[ 0.33021295 -0.18850921  0.00410205  0.19953894  0.1030823  -0.10075613
+   0.2219564  -0.41032911  0.06947155  0.11598935  0.06417891 -0.08926303
+   0.02754202 -0.10255096 -0.06529252]]
+
+
+Accuracy  =  65.25
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  80s
+
+
+Model  =  LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='warn', n_jobs=None, penalty='l2',
+                   random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+                   warm_start=False)
+
+
+Co-Efficient  =  [[ 0.32614779 -0.13919596  0.01225252  0.18926443  0.04843673 -0.28898949
+   0.12262353 -0.60683603  0.02531848 -0.1387414   0.06489368 -0.39908494
+   0.05335829 -0.02581993 -0.03157557]]
+
+
+Accuracy  =  67.8
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  90s
+
+
+Model  =  LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='warn', n_jobs=None, penalty='l2',
+                   random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+                   warm_start=False)
+
+
+Co-Efficient  =  [[ 1.08496406 -0.28234178  0.00510831  0.57756077 -0.064293   -0.01244633
+  -0.21149935 -0.62233819 -0.03616157 -0.5799897   0.08349238  0.10185158
+   0.07855714 -0.13190802  0.08557627]]
+
+
+Accuracy  =  70.89
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  00s
+
+
+Model  =  LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='warn', n_jobs=None, penalty='l2',
+                   random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+                   warm_start=False)
+
+
+Co-Efficient  =  [[ 0.916382   -0.76896694  0.0182431   0.74060756  0.21196717  0.21349793
+   0.06053964 -1.25580557  0.03940643  0.03144469  0.11247197 -0.00336039
+   0.0076879  -0.14432674 -0.02451736]]
+
+
+Accuracy  =  76.34
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  10s
+
+
+Model  =  LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='warn', n_jobs=None, penalty='l2',
+                   random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+                   warm_start=False)
+
+
+Co-Efficient  =  [[ 0.81812697 -1.43797125 -0.03478449  1.51584706  0.17935485  0.21940336
+  -0.09030409 -2.32413244  0.05316183  0.26333697  0.15004693 -0.48447315
+   0.10242065 -0.04498617  0.04357186]]
+
+
+Accuracy  =  85.46
+
+
+____________________________________________________________________________________________________
+
+
+
