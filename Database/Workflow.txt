@@ -10,4 +10,6 @@
 9. Fetch failed song details
 10. Fetch the unfound ones.
 11. Remove the unfound ones. 
-10. Final decade dataset DONE
+12. Mixed the two datasets, removed useless data.
+13. Final decade dataset DONE
+14. Removed tracks from the failed list that are of artist that have charted on billboards
