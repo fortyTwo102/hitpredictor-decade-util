@@ -23,9 +23,9 @@ def makeUniqueBucket(): # To remove duplicate tracks all over playlists
 
 	for decade in decades:
 
-		file = 'failedSongs' + decade + '.csv'
+		file = 'flopSongs' + decade + '.csv'
 
-		with open(file, encoding='utf-8') as fp:
+		with open(file, 'r', encoding='latin-1') as fp:
 
 			reader = csv.reader(fp)
 
@@ -63,7 +63,7 @@ def writeToFile(track, artist, uri, releaseDate, releaseDatePrec):
 
 
 
-	if releaseDateObj >= datetime(1960,1,1) and releaseDateObj <= datetime(1969,12,31):
+	if releaseDateObj >= datetime(1950,1,1) and releaseDateObj <= datetime(1969,12,31):
 		decade = '60'
 
 	elif releaseDateObj >= datetime(1970,1,1) and releaseDateObj <= datetime(1979,12,31):
@@ -85,12 +85,10 @@ def writeToFile(track, artist, uri, releaseDate, releaseDatePrec):
 		problemTracks(track, artist, uri)
 		return
 
-	if decade not in ('00','10'):
-		return
 
-	file = 'failedSongs' + decade + '.csv'
+	file = 'flopSongs' + decade + '.csv'
 
-	with open(file,'a', encoding='utf-8', newline='') as fp:
+	with open(file,'a', encoding='latin-1', newline='') as fp:
 
 		writer = csv.writer(fp)
 		writer.writerow([track, artist, uri])
@@ -115,8 +113,7 @@ def problemTracks(track, artist, uri):
 		writer = csv.writer(fp)
 		writer.writerow([track, artist, uri])
 
-'''playlists = [
-
+'''
 'spotify:playlist:5T38LTxcDS5eGIyDXWvCKL',
 'spotify:playlist:2wB2BSgekCDIWXFpvGuHkp',
 'spotify:playlist:2XaeKTfGkXbl7azxOGFT8B',
@@ -134,19 +131,19 @@ def problemTracks(track, artist, uri):
 'spotify:playlist:4VORkMBsPxCX6V9eIbNVYk',
 'spotify:playlist:6ee6LBovYNOIQfVsKmNZTS',
 'spotify:playlist:7bE2sQM5iaumauvqlAeP48',
-'spotify:playlist:5pQ8B5MD9lWDBU2J98EscC',
+'spotify:playlist:5pQ8B5MD9lWDBU2J98EscC','''
+
+playlists = [ 
+
 'spotify:playlist:2XaeKTfGkXbl7azxOGFT8B',
 'spotify:playlist:4hTSi1yGbvUzPanMIUvXAi',
 'spotify:playlist:1DmzPOzqsNjQQJEPSc9nHN',
-
-
-]'''
-
-playlists = [
-
 'spotify:playlist:4j53v3ELuxx4wMx5AgrP9Q',
+'spotify:playlist:0kvsvGWgtyxacQZ7KA23Kj',
+'spotify:playlist:5QusseFA3kBausg1ty9N2o',
 
 ]
+
 
 makeUniqueBucket()
 
@@ -173,6 +170,6 @@ for ID in playlists:
 			except:		
 				problemTracks(track, artist, uri)
 
-
+	print(ID + ' is done!')			
 
 log.close()
