@@ -125,7 +125,7 @@ def getTracksfromAlbum(album, _decade):
 
 
 
-decades = ['60','70','80','90','00','10']
+decades = ['00','10']
 
 
 for decade in decades:
@@ -169,8 +169,10 @@ for decade in decades:
 						trackName = track['name']
 						artistName = track['artists'][0]['name']
 						songURI = track['uri']
-
-						writer.writerow([trackName, artistName, songURI])
+						try:
+							writer.writerow([trackName, artistName, songURI])
+						except:
+							pass	
 
 					
 					

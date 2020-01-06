@@ -13,3 +13,7 @@
 12. Mixed the two datasets, removed useless data.
 13. Final decade dataset DONE
 14. Removed tracks from the failed list that are of artist that have charted on billboards
+15. Made a list of artists that have only appeared in the failed list
+16. Made a script to fetch all the albums of the decade that they're in. (track-artist-uri)
+17. Fetched the chosen songs among the list.
+18. New and Improved dataset.
