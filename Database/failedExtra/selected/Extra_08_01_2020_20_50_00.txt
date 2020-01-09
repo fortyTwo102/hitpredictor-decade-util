@@ -1,0 +1,10 @@
+Fetching ['﻿"Sulphur', ' Charcoal and Saltpetre"', 'Lord Vicar', 'spotify:track:4FeMiDzAeeYuCP3czMy74C'] ....Error in fetching Lord Vicar
+Fetched!
+['﻿"Sulphur', ' Charcoal and Saltpetre"', 'Lord Vicar']
+Fetching ['Descent', 'Lord Vicar', 'spotify:track:7ybW5rjoDUUiF6aHUcv4XH'] ....Fetched!
+['Descent', 'Lord Vicar', 'spotify:track:7ybW5rjoDUUiF6aHUcv4XH', 0.267, 0.65, 8, -5.927, 1, 0.0309, 0.000589, 0.375, 0.0792, 0.0692, 140.641, 488720, 4, 35.83358, 19]
+Fetching ['World Encircled', 'Lord Vicar', 'spotify:track:3zVDMA52yIJulLz8oZih28'] ....Fetched!
+['World Encircled', 'Lord Vicar', 'spotify:track:3zVDMA52yIJulLz8oZih28', 0.404, 0.754, 1, -6.144, 1, 0.0315, 5.93e-06, 0.304, 0.101, 0.0758, 63.748, 396373, 4, 31.5769, 11]
+Fetching ['Levitation', 'Lord Vicar', 'spotify:track:7IzDtwY3nWAdAE7OEB8AgF'] ....Error in fetching spotify:track:7IzDtwY3nWAdAE7OEB8AgF
+Fetched!
+['Levitation', 'Lord Vicar', 'spotify:track:7IzDtwY3nWAdAE7OEB8AgF', 0.272, 0.786, 6, -6.299, 1, 0.0383, 0.000199, 0.0573, 0.146, 0.182, 143.383, 297760, 4]

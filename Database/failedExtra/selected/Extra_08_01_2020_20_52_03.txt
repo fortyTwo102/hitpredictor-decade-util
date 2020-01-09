@@ -1,0 +1,62 @@
+Fetching ['﻿"Sulphur', ' Charcoal and Saltpetre"', 'Lord Vicar', 'spotify:track:4FeMiDzAeeYuCP3czMy74C'] ....Error in fetching Lord Vicar
+Fetched!
+['﻿"Sulphur', ' Charcoal and Saltpetre"', 'Lord Vicar']
+Fetching ['Descent', 'Lord Vicar', 'spotify:track:7ybW5rjoDUUiF6aHUcv4XH'] ....Fetched!
+['Descent', 'Lord Vicar', 'spotify:track:7ybW5rjoDUUiF6aHUcv4XH', 0.267, 0.65, 8, -5.927, 1, 0.0309, 0.000589, 0.375, 0.0792, 0.0692, 140.641, 488720, 4, 35.83358, 19]
+Fetching ['World Encircled', 'Lord Vicar', 'spotify:track:3zVDMA52yIJulLz8oZih28'] ....Fetched!
+['World Encircled', 'Lord Vicar', 'spotify:track:3zVDMA52yIJulLz8oZih28', 0.404, 0.754, 1, -6.144, 1, 0.0315, 5.93e-06, 0.304, 0.101, 0.0758, 63.748, 396373, 4, 31.5769, 11]
+Fetching ['Levitation', 'Lord Vicar', 'spotify:track:7IzDtwY3nWAdAE7OEB8AgF'] ....Fetched!
+['Levitation', 'Lord Vicar', 'spotify:track:7IzDtwY3nWAdAE7OEB8AgF', 0.272, 0.786, 6, -6.299, 1, 0.0383, 0.000199, 0.0573, 0.146, 0.182, 143.383, 297760, 4, 48.65021, 16]
+Fetching ['The Temple in the Bedrock', 'Lord Vicar', 'spotify:track:3zwco0Tu6jtn1r3XDa16lJ'] ....Fetched!
+['The Temple in the Bedrock', 'Lord Vicar', 'spotify:track:3zwco0Tu6jtn1r3XDa16lJ', 0.151, 0.773, 8, -7.034, 1, 0.0563, 0.00017, 0.395, 0.14, 0.0381, 81.854, 480027, 4, 142.45881, 16]
+Fetching ['Black Lines', 'Lord Vicar', 'spotify:track:3Kl9pe5Vy4EbYegUhEteke'] ....Fetched!
+['Black Lines', 'Lord Vicar', 'spotify:track:3Kl9pe5Vy4EbYegUhEteke', 0.274, 0.81, 6, -5.473, 1, 0.0332, 9.46e-05, 0.0261, 0.128, 0.236, 143.312, 412053, 4, 25.75209, 19]
+Fetching ['Impact', 'Lord Vicar', 'spotify:track:6Q4KVH6DeHAAuZpnQSXwlw'] ....Fetched!
+['Impact', 'Lord Vicar', 'spotify:track:6Q4KVH6DeHAAuZpnQSXwlw', 0.346, 0.792, 1, -5.798, 1, 0.0348, 0.000111, 0.398, 0.109, 0.232, 80.408, 178733, 3, 32.6299, 8]
+Fetching ['Nightmare', 'Lord Vicar', 'spotify:track:5H4oKkM4AwSFo2wpdZUpMz'] ....Fetched!
+['Nightmare', 'Lord Vicar', 'spotify:track:5H4oKkM4AwSFo2wpdZUpMz', 0.554, 0.202, 6, -17.709, 0, 0.0356, 0.271, 0.72, 0.116, 0.0959, 119.834, 242560, 4, 73.0742, 9]
+Fetching ['A Second Chance', 'Lord Vicar', 'spotify:track:4kYTIHqcERb6qguavKNry9'] ....Fetched!
+['A Second Chance', 'Lord Vicar', 'spotify:track:4kYTIHqcERb6qguavKNry9', 0.284, 0.739, 11, -6.75, 1, 0.0456, 9.95e-05, 0.154, 0.104, 0.125, 118.658, 642413, 4, 106.36355, 24]
+Fetching ['Birth of Wine', 'Lord Vicar', 'spotify:track:6pj8g8hEaQQ29NqNQXMEWa'] ....Fetched!
+['Birth of Wine', 'Lord Vicar', 'spotify:track:6pj8g8hEaQQ29NqNQXMEWa', 0.356, 0.508, 9, -8.985, 1, 0.0309, 0.00221, 0.0527, 0.252, 0.146, 129.242, 454787, 4, 39.08619, 17]
+Fetching ['The Green Man', 'Lord Vicar', 'spotify:track:4am4GQ1x1j5x0OfwAaVQ0c'] ....Fetched!
+['The Green Man', 'Lord Vicar', 'spotify:track:4am4GQ1x1j5x0OfwAaVQ0c', 0.274, 0.756, 6, -7.846, 1, 0.0348, 0.000425, 0.00461, 0.141, 0.385, 100.561, 247627, 4, 48.34515, 10]
+Fetching ['A Shadow of Myself', 'Lord Vicar', 'spotify:track:3gdLYIEXIBaihtyMVm06h3'] ....Fetched!
+['A Shadow of Myself', 'Lord Vicar', 'spotify:track:3gdLYIEXIBaihtyMVm06h3', 0.578, 0.0122, 4, -28.47, 1, 0.0343, 0.871, 0.948, 0.0955, 0.0333, 90.065, 162640, 3, 55.1703, 5]
+Fetching ['Breaking the Circle', 'Lord Vicar', 'spotify:track:0IyU7EvH90P5NChPRaocMk'] ....Fetched!
+['Breaking the Circle', 'Lord Vicar', 'spotify:track:0IyU7EvH90P5NChPRaocMk', 0.229, 0.67, 8, -8.403, 1, 0.0406, 0.000191, 0.0237, 0.0848, 0.211, 135.049, 379173, 4, 42.87714, 14]
+Fetching ['Accidents', 'Lord Vicar', 'spotify:track:70yk4qkO5bYd1xtFcDHQJ7'] ....Fetched!
+['Accidents', 'Lord Vicar', 'spotify:track:70yk4qkO5bYd1xtFcDHQJ7', 0.207, 0.775, 1, -7.854, 1, 0.0584, 0.000111, 0.000921, 0.338, 0.35, 96.111, 280893, 4, 61.96169, 11]
+Fetching ['A Woman out of Snow', 'Lord Vicar', 'spotify:track:0CIsp5xDJA67w0di40orPs'] ....Fetched!
+['A Woman out of Snow', 'Lord Vicar', 'spotify:track:0CIsp5xDJA67w0di40orPs', 0.28, 0.353, 8, -10.771, 0, 0.0284, 0.0318, 0.0952, 0.0984, 0.0867, 108.525, 336267, 4, 45.96507, 12]
+Fetching ['Leper, Leper', 'Lord Vicar', 'spotify:track:3NCYpRNVcu0qs5izdl5TZB'] ....Fetched!
+['Leper, Leper', 'Lord Vicar', 'spotify:track:3NCYpRNVcu0qs5izdl5TZB', 0.209, 0.535, 6, -9.348, 1, 0.0377, 0.000704, 0.00923, 0.0969, 0.0564, 81.742, 622947, 4, 51.47893, 27]
+Fetching ['Down the Nails', 'Lord Vicar', 'spotify:track:5e8O3znBNBQXUumTavWKiC'] ....Fetched!
+['Down the Nails', 'Lord Vicar', 'spotify:track:5e8O3znBNBQXUumTavWKiC', 0.364, 0.649, 8, -6.378, 1, 0.0356, 1.39e-05, 0.0413, 0.268, 0.152, 100.102, 480053, 4, 164.07857, 11]
+Fetching ['Pillars Under Water', 'Lord Vicar', 'spotify:track:0FFpPIO0QfyKPXCaD4ePcR'] ....Fetched!
+['Pillars Under Water', 'Lord Vicar', 'spotify:track:0FFpPIO0QfyKPXCaD4ePcR', 0.408, 0.86, 6, -5.052, 1, 0.0347, 0.00161, 2.51e-06, 0.0578, 0.521, 130.239, 306253, 4, 46.87053, 12]
+Fetching ['Born of a Jackal', 'Lord Vicar', 'spotify:track:5KLDaV4KJ0wkNP0h6BU23f'] ....Fetched!
+['Born of a Jackal', 'Lord Vicar', 'spotify:track:5KLDaV4KJ0wkNP0h6BU23f', 0.371, 0.686, 1, -6.363, 1, 0.0353, 0.000264, 0.0115, 0.0852, 0.288, 79.985, 440413, 4, 64.03401, 12]
+Fetching ['The Last of the Templars', 'Lord Vicar', 'spotify:track:2DWOARvdT7nynYZlXmGx72'] ....Fetched!
+['The Last of the Templars', 'Lord Vicar', 'spotify:track:2DWOARvdT7nynYZlXmGx72', 0.443, 0.743, 8, -6.653, 1, 0.0302, 0.000222, 0.0506, 0.0476, 0.12, 120.104, 531413, 4, 62.0715, 18]
+Fetching ['The Spartan', 'Lord Vicar', 'spotify:track:1kBKkZakTr2dkUopRuh4Vk'] ....Fetched!
+['The Spartan', 'Lord Vicar', 'spotify:track:1kBKkZakTr2dkUopRuh4Vk', 0.402, 0.671, 4, -7.182, 1, 0.0325, 0.000632, 0.0637, 0.0938, 0.0418, 110.851, 636067, 4, 66.26418, 18]
+Fetching ['A Man Called Horse', 'Lord Vicar', 'spotify:track:76uyQXDe1JVWvQSLmpSRir'] ....Fetched!
+['A Man Called Horse', 'Lord Vicar', 'spotify:track:76uyQXDe1JVWvQSLmpSRir', 0.475, 0.811, 8, -6.878, 1, 0.0308, 3.62e-05, 0.00395, 0.346, 0.206, 119.914, 606893, 4, 36.23926, 28]
+Fetching ['The Funeral Pyre', 'Lord Vicar', 'spotify:track:73M1Yy93V4traGFC5mezji'] ....Fetched!
+['The Funeral Pyre', 'Lord Vicar', 'spotify:track:73M1Yy93V4traGFC5mezji', 0.472, 0.538, 1, -8.447, 0, 0.0305, 0.00117, 0.029, 0.13, 0.154, 119.923, 865747, 4, 65.0932, 24]
+Fetching ['Signs of Osiris Slain', 'Lord Vicar', 'spotify:track:4LWYdbATWrIIxM8JuysyMc'] ....Fetched!
+['Signs of Osiris Slain', 'Lord Vicar', 'spotify:track:4LWYdbATWrIIxM8JuysyMc', 0.218, 0.864, 6, -5.392, 1, 0.0451, 5.13e-05, 0.0286, 0.11, 0.0945, 138.833, 387680, 4, 57.85785, 11]
+Fetching ['The Answer', 'Lord Vicar', 'spotify:track:3I91I6enF4M7kIBzJGYmQM'] ....Fetched!
+['The Answer', 'Lord Vicar', 'spotify:track:3I91I6enF4M7kIBzJGYmQM', 0.253, 0.927, 6, -4.555, 1, 0.0448, 4.03e-06, 0.00175, 0.3, 0.363, 126.807, 255187, 4, 59.11334, 6]
+Fetching ['Child Witness', 'Lord Vicar', 'spotify:track:3cNVQKB6eFUIgFtmqTlsyG'] ....Fetched!
+['Child Witness', 'Lord Vicar', 'spotify:track:3cNVQKB6eFUIgFtmqTlsyG', 0.222, 0.798, 1, -5.748, 0, 0.0618, 0.000655, 0.0109, 0.111, 0.236, 81.614, 561720, 4, 229.16144, 14]
+Fetching ['Between the Blue Temple and the North Tower', 'Lord Vicar', 'spotify:track:2H508zc8Qrov1VyuI1QroS'] ....Fetched!
+['Between the Blue Temple and the North Tower', 'Lord Vicar', 'spotify:track:2H508zc8Qrov1VyuI1QroS', 0.173, 0.838, 6, -4.731, 1, 0.0444, 3.65e-05, 0.00344, 0.0867, 0.254, 93.048, 572693, 4, 82.34826, 19]
+Fetching ['Sinking City', 'Lord Vicar', 'spotify:track:3gvUfdpBIWqSqyojkibIsc'] ....Fetched!
+['Sinking City', 'Lord Vicar', 'spotify:track:3gvUfdpBIWqSqyojkibIsc', 0.196, 0.934, 1, -3.417, 0, 0.055, 1.67e-05, 0.00318, 0.157, 0.337, 90.702, 401533, 4, 25.56638, 13]
+Fetching ['Endless November', 'Lord Vicar', 'spotify:track:1EBOUOvvupLpRw1RnnFi95'] ....Fetched!
+['Endless November', 'Lord Vicar', 'spotify:track:1EBOUOvvupLpRw1RnnFi95', 0.369, 0.322, 6, -10.396, 0, 0.0354, 0.671, 0.00806, 0.137, 0.0626, 136.825, 427427, 3, 19.14973, 17]
+Fetching ['Signs of Osiris Risen', 'Lord Vicar', 'spotify:track:41c7fqGNBkKlpFitwhhHDx'] ....Fetched!
+['Signs of Osiris Risen', 'Lord Vicar', 'spotify:track:41c7fqGNBkKlpFitwhhHDx', 0.278, 0.696, 6, -6.695, 0, 0.0347, 0.000138, 0.0359, 0.0874, 0.0578, 139.849, 896173, 4, 204.39148, 27]
+Fetching ['Fishbelly 86 Onions', 'All Them Witches', 'spotify:track:6LpUwWHCyzdhJugFeByaTO']

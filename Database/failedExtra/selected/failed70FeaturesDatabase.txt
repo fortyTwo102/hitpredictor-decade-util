@@ -1,0 +1,329 @@
+I Trust,The Byrds,spotify:track:6FCHYnVEvrOWfSIXQZEwgR,0.52,0.718,0,-9.04,1,0.0321,0.0497,0.00091,0.16,0.583,85.949,199427,4,51.23033,10
+Tunnel Of Love,The Byrds,spotify:track:3S20QC9EsuhX27vktFY6GG,0.531,0.576,0,-10.356,1,0.0275,0.0282,0.157,0.226,0.658,118.862,298560,3,35.17076,14
+Citizen Kane,The Byrds,spotify:track:1c4VZLoLYkwWORZxkEZ9NJ,0.434,0.447,0,-9.259,1,0.0759,0.414,0,0.118,0.5,157.396,155600,4,34.24384,10
+I Wanna Grow Up To Be A Politician,The Byrds,spotify:track:0Yw1cwwtbofWFSlCusq3DC,0.5,0.541,7,-10.546,1,0.0455,0.138,0,0.277,0.516,103.218,123400,4,58.40291,5
+Absolute Happiness,The Byrds,spotify:track:4xKWOCMuja9Lzbp5LkYUDL,0.472,0.213,7,-16.019,1,0.037,0.413,0.0597,0.109,0.16,137.121,158240,4,54.82787,6
+Green Apple Quick Step,The Byrds,spotify:track:6adRuIJKMafPlMXPtgtiGA,0.439,0.885,7,-8.191,1,0.0416,0.00282,0.969,0.32,0.862,133.182,109440,4,33.33809,5
+My Destiny,The Byrds,spotify:track:7JUsoC0dahwPW1LSv1RdCT,0.315,0.314,11,-15.026,1,0.0351,0.571,0.0626,0.273,0.169,114.925,217693,4,32.55868,9
+Kathleen's Song,The Byrds,spotify:track:4I9j8L2JCWjXz4bvyoORlz,0.307,0.286,2,-16.899,1,0.0302,0.928,0.255,0.225,0.379,107.167,159840,4,41.52705,7
+Jamaica Say You Will,The Byrds,spotify:track:6AK4Y68GwiklVspcarPw0e,0.345,0.459,7,-12.106,1,0.029,0.311,0.000164,0.115,0.284,138.513,207000,4,35.9551,9
+Just Like A Woman,The Byrds,spotify:track:3TBQJ0sZfrOVOkhixuUmUr,0.438,0.41,2,-11.873,1,0.0391,0.456,0,0.114,0.298,118.641,236000,3,37.42621,11
+Pale Blue - Alternate Version,The Byrds,spotify:track:2OGDnl502ZbDDBTpGxAGLc,0.415,0.164,7,-17.176,1,0.032,0.847,0.00025,0.168,0.486,79.523,153000,4,26.0693,10
+Think I'm Gonna Feel Better,The Byrds,spotify:track:5YJcS7wHuX11PeMcvqN9NS,0.527,0.546,0,-12.237,1,0.0427,0.00691,0.405,0.0874,0.644,139.162,154054,4,18.84275,9
+Lover of the Bayou - Live,The Byrds,spotify:track:21t88U9L0h86HB3JA60v8j,0.496,0.664,9,-11.904,0,0.0387,0.00118,0.00317,0.294,0.564,105.254,218867,4,29.73437,8
+Positively 4th Street - Live,The Byrds,spotify:track:0SQxruZkkbwvwBiT6GJkzC,0.389,0.543,7,-12.234,1,0.0391,0.0277,3.44e-06,0.372,0.702,117.553,183440,4,67.6353,8
+Nashville West - Live,The Byrds,spotify:track:3ExKYS6MZPpUJyX4CRCxJ0,0.304,0.854,7,-11.928,1,0.0328,0.0501,0.891,0.191,0.884,111.436,127000,4,31.68848,7
+So You Want to Be a Rock 'n' Roll Star - Live,The Byrds,spotify:track:5cvQ6aYxHEyjcQxhK6lAHU,0.347,0.832,2,-9.718,1,0.0855,0.00823,4.91e-06,0.773,0.671,146.287,158427,4,40.43929,7
+Mr. Tambourine Man - Live,The Byrds,spotify:track:3LyUZvSs8zecRN0VPaczaz,0.389,0.591,2,-11.863,1,0.0385,0.0938,0,0.596,0.571,127.741,133800,4,20.70662,7
+Mr. Spaceman - Live,The Byrds,spotify:track:4k1i8mlWOxe3CMRspg1mta,0.409,0.667,7,-10.809,1,0.0394,0.0111,2.82e-06,0.953,0.6,98.716,187133,3,65.74886,6
+Eight Miles High - Live,The Byrds,spotify:track:10ci2b2IqF1yRAI8FDCSxI,0.296,0.744,9,-12.265,0,0.0408,0.00235,0.861,0.54,0.711,139.324,962600,4,98.64293,34
+Chestnut Mare,The Byrds,spotify:track:14tdsr2ZBQwPqW7UwfowyB,0.407,0.517,2,-11.971,1,0.0397,0.126,0,0.117,0.282,121.539,308467,4,34.81619,12
+Truck Stop Girl,The Byrds,spotify:track:1i3qwxIOIqc7UyTQKdjtnf,0.677,0.461,8,-12.118,1,0.03,0.0964,7.31e-06,0.149,0.772,141.738,200133,4,24.40839,10
+All the Things,The Byrds,spotify:track:5kOCCOcyRsm3PMDx8TpL8w,0.627,0.47,7,-14.188,1,0.0302,0.0988,5.67e-06,0.0952,0.489,108.459,182773,4,18.62617,9
+Yesterday's Train,The Byrds,spotify:track:5zOe2oD8DATqqyMLZktYYn,0.39,0.32,9,-14.859,1,0.0282,0.283,0.018,0.291,0.431,83.582,210600,4,47.76072,10
+Hungry Planet,The Byrds,spotify:track:0bsYe9xFo2mnbx0y9PY1lQ,0.461,0.689,0,-11.593,0,0.0314,0.1,0.0644,0.0972,0.816,88.55,289667,4,55.83059,9
+Just a Season,The Byrds,spotify:track:3Dze7CLSaw3G9RmIHbrJXn,0.593,0.44,6,-11.874,0,0.0283,0.29,8.37e-05,0.111,0.695,117.876,230373,4,52.12383,11
+Take a Whiff on Me,The Byrds,spotify:track:2UKeVjIZPg1FfTnwhxCqbD,0.576,0.836,9,-11.094,1,0.0342,0.12,0,0.134,0.843,97.609,203907,4,22.94604,10
+You All Look Alike,The Byrds,spotify:track:5g97kpnkwnklaB7xvROGPu,0.444,0.57,2,-13.666,1,0.0396,0.58,0,0.343,0.573,86.543,183333,4,31.59264,9
+Welcome Back Home,The Byrds,spotify:track:2umb0eiAiVjxiz4Iur30Vm,0.375,0.685,7,-12.987,1,0.0295,0.0144,0.155,0.166,0.631,91.698,460067,4,41.47654,16
+All the Things,The Byrds,spotify:track:7GySlpnZqdZtA49oPFEuSX,0.568,0.63,7,-10.114,1,0.029,0.154,0,0.0857,0.62,106.372,296293,4,29.15465,14
+Yesterday's Train,The Byrds,spotify:track:2dzqQ0Umcr2alPMrCSuCNT,0.386,0.246,9,-13.434,1,0.0299,0.879,0.000968,0.0946,0.553,81.421,250093,4,62.75866,8
+Lover of the Bayou - Studio Version,The Byrds,spotify:track:2gMJeVHAfBQRYQ5XgSKwiN,0.396,0.742,2,-10.42,1,0.0379,0.153,5.42e-06,0.117,0.786,93.128,312533,4,41.6449,10
+Kathleen's Song,The Byrds,spotify:track:1YR7VgufmUwGRQip8eiAcj,0.388,0.153,2,-16.444,1,0.0392,0.891,3.55e-05,0.11,0.449,113.151,153840,4,56.1918,7
+White's Lightning - Part 2,The Byrds,spotify:track:63SDce4qg56JvPuVhdJCBh,0.536,0.806,2,-12.691,1,0.0359,0.179,0.779,0.062,0.87,97.219,140560,4,31.94762,9
+Willin',The Byrds,spotify:track:1mCVgEZT13m6ZDUdXhm5QR,0.492,0.35,7,-13.006,1,0.0279,0.296,0.00243,0.346,0.472,148.269,208040,3,26.3099,8
+You Ain't Goin' Nowhere,The Byrds,spotify:track:6W7qOULD3aOdqklC6dMsc7,0.471,0.709,7,-11.495,1,0.0854,0.408,0.000548,0.966,0.68,135.944,176333,4,66.00302,8
+Old Blue - Live,The Byrds,spotify:track:4qPdjan2Vw0h6ZMFhSQdCJ,0.464,0.699,2,-10.217,1,0.0346,0.0826,0.000694,0.847,0.745,90.689,209933,4,46.40753,11
+It's Alright Ma (I'm Only Bleeding) - Live,The Byrds,spotify:track:0p5YuOmWbk4tGmgA8F60iH,0.312,0.359,11,-17.307,0,0.04,0.429,0.00029,0.417,0.423,87.51,168533,4,40.20366,8
+Ballad Of Easy Rider - Live,The Byrds,spotify:track:0Z3x6Xn5GIrAwY0ZkJozgZ,0.471,0.381,4,-16.982,1,0.035,0.449,0.00345,0.697,0.495,100.544,141867,4,25.70153,8
+My Back Pages - Live,The Byrds,spotify:track:23xdpYvetTqrmMPUecCWJm,0.574,0.621,9,-11.978,1,0.073,0.512,1.41e-06,0.8,0.607,121.918,161133,4,38.87167,6
+Take a Whiff on Me - Live,The Byrds,spotify:track:2xMN9AfOFjOErYQsXfCFrG,0.555,0.604,9,-10.762,1,0.0354,0.557,0,0.811,0.902,97.94,165467,4,38.57342,8
+Jesus Is Just Alright - Live,The Byrds,spotify:track:7s1DSQFt4xeLUV3YvpBjvd,0.583,0.845,9,-8.685,0,0.0697,0.386,0,0.983,0.882,144.577,188960,4,22.79813,9
+This Wheel's on Fire - Live,The Byrds,spotify:track:6HRRoaU6pqTv59wMvXCCWI,0.423,0.637,4,-11.188,0,0.0579,0.445,7.27e-06,0.388,0.516,110.015,376107,4,50.95987,16
+Found a Child,Ballin' Jack,spotify:track:1N5rFpQSQcoUA3qgqOZR13,0.716,0.843,9,-8.105,1,0.0594,0.00686,0.0219,0.0568,0.789,119.885,168987,4,54.47604,7
+Spuer Highway,Ballin' Jack,spotify:track:4kHeIqBpCPkbQkczBhAswi,0.605,0.915,0,-7.105,1,0.405,0.517,8.02e-05,0.205,0.366,115.709,161933,4,52.05112,7
+Festival,Ballin' Jack,spotify:track:07lmbaTbhyI4Cm7oUxNQAz,0.511,0.569,11,-10.798,1,0.124,0.597,0.0481,0.125,0.626,100.368,269880,4,36.86938,13
+Telephone,Ballin' Jack,spotify:track:6z5Zndr0Hq9BuClSu4gtAP,0.62,0.803,9,-7.019,0,0.0827,0.0603,1.52e-05,0.138,0.568,114.032,128053,4,51.46689,7
+Only a Tear,Ballin' Jack,spotify:track:6cxMDHm8r6sWseYZmRgWRA,0.405,0.163,7,-15.775,1,0.0361,0.906,0,0.084,0.138,169.795,133360,4,19.75412,7
+Never Let Em Say,Ballin' Jack,spotify:track:1uzIuxz5NoZEVmnjWdLyek,0.547,0.788,10,-7.835,0,0.211,0.121,0.000763,0.154,0.748,107.308,163200,4,73.25493,6
+Street People,Ballin' Jack,spotify:track:3MGday0PnopgIXWTEQ5k3g,0.349,0.678,7,-7.775,1,0.0895,0.00334,2.16e-05,0.0848,0.619,155.706,121907,4,25.94936,6
+Carnival,Ballin' Jack,spotify:track:5Um2CDcKYsfZVhuDr6FbdN,0.408,0.432,0,-12.564,1,0.0931,0.577,0.0141,0.0472,0.261,88.041,372200,4,34.42421,15
+Ballin' the Jack,Ballin' Jack,spotify:track:3yWbB9o3xZW8rlPoo4WA60,0.667,0.811,2,-9.841,0,0.334,0.0364,0.699,0.198,0.752,119.543,113147,4,52.0626,5
+Hold On,Ballin' Jack,spotify:track:7aKufcgdPxG9MH5VfJuEvD,0.571,0.804,2,-9.396,1,0.149,0.126,0.014,0.0657,0.745,113.898,400200,4,51.36921,15
+McAlpine's Dream,Principal Edwards Magic Theatre,spotify:track:2RJifoMSsreDBXuFerMmyA,0.514,0.533,9,-12.742,0,0.149,0.0989,0.000357,0.114,0.583,150.699,372213,4,58.39868,12
+McAlpine Versus The Asmoto,Principal Edwards Magic Theatre,spotify:track:3dPZR5ZNUtkGBtrheysFqp,0.434,0.478,11,-12.072,1,0.327,0.69,0.733,0.14,0.169,182.868,350530,4,34.96772,16
+The Asmoto Running Band (Hou'Amih),Principal Edwards Magic Theatre,spotify:track:4QhKjcL1qqLS6lFKhn1g5u,0.386,0.305,6,-14.815,0,0.0384,0.198,2.63e-05,0.57,0.315,155.827,189613,4,30.0057,8
+Asmoto Celebration,Principal Edwards Magic Theatre,spotify:track:66jw9UqRZbnWfBqil1jZqW,0.548,0.449,4,-11.215,0,0.0513,0.0438,0.845,0.172,0.54,135.087,111800,4,25.63043,6
+Further Asmoto Celebration,Principal Edwards Magic Theatre,spotify:track:2YjomqpqfNRUQrIjVdcGla,0.39,0.781,4,-13.9,1,0.0683,0.845,3.55e-05,0.0721,0.233,67.93,77787,4
+Total Glycerol Esther,Principal Edwards Magic Theatre,spotify:track:0AWyyy6WHUqdCSgsaHGVRv,0.485,0.273,7,-15.86,1,0.232,0.031,0.00135,0.13,0.435,172.122,163413,4,27.02899,9
+Freef ('R) All,Principal Edwards Magic Theatre,spotify:track:21C5JhS7113VTcM3yZpPgq,0.389,0.206,9,-18.62,0,0.0312,0.776,0.00364,0.125,0.194,134.865,306267,4,17.27211,15
+Autumn Lady Dancing Song,Principal Edwards Magic Theatre,spotify:track:7Ie7NvJFdWCQDKYPwhVc0I,0.371,0.25,5,-20.447,1,0.0372,0.484,0.0451,0.12,0.172,95.009,410200,4,32.04569,18
+The Kettering Song,Principal Edwards Magic Theatre,spotify:track:3yywsx0sIJynzVEyDxDimX,0.366,0.315,4,-12.76,1,0.0331,0.215,0.00027,0.0818,0.605,95.671,226896,4,38.08039,10
+Weirdsong Of Breaking Through At Last,Principal Edwards Magic Theatre,spotify:track:6kqGeO8WKl2J1LmTUVFmzi,0.346,0.206,11,-14.06,0,0.029,0.782,2.21e-05,0.132,0.612,95.443,182227,4,60.77593,8
+Round,Manfred Galatik,spotify:track:1XMGAfIXnNccx6y2mCqJ3k,0.307,0.753,4,-13.188,0,0.262,0.0142,0.531,0.132,0.49,152.85,251893,4,31.98201,11
+Open,Frank Diez,spotify:track:3OTkbyJ9EhN6rrP9w9CBLI,0.208,0.377,9,-15.326,0,0.039,0.298,0.885,0.111,0.282,165.843,450667,4,24.78312,21
+Oh Man,Frank Diez,spotify:track:7JFA75j5OSomQjZ7wxtFyx,0.411,0.539,11,-13.58,0,0.135,0.00337,0.0668,0.0993,0.32,172.6,360907,4,34.99996,14
+Rice Pudding,Jeff Beck,spotify:track:3xCwoQucybM3JnR09KrZLk,0.29,0.617,8,-15.298,1,0.086,0.0244,0.564,0.0985,0.273,162.675,580333,4,69.7513,13
+People Talking,Frank Diez,spotify:track:2J1MlQCfk1BtT0VzbCHlKo,0.307,0.646,11,-13.457,0,0.319,0.00744,0.00484,0.0784,0.345,171.586,302093,4,43.9108,13
+Better by You, Better than Me,Gary Wright,spotify:track:4yEKeHa5qVNCv0fFSPzKuI,0.421,0.419,2,-14.986,1,0.131,0.207,0.0024,0.129,0.221,159.894,276107,4,76.18499,11
+Disco Man,Idris Muhammad,spotify:track:42pcvzI3EeJw2OQbwRQODs,0.704,0.686,2,-10.546,0,0.0929,0.0244,0.000155,0.0453,0.93,129.401,354933,4,82.52617,13
+See Saw,Idris Muhammad,spotify:track:4IERtMjPRYZ5WTG6tc9BzT,0.872,0.474,7,-11.233,0,0.0572,0.122,0.512,0.0736,0.948,118.109,333947,4,41.21981,13
+The Doc,Idris Muhammad,spotify:track:65Wju9AITo32buxHe7tEKS,0.682,0.601,9,-11.749,0,0.0393,0.0153,0.751,0.127,0.535,123.719,448920,4,31.72051,17
+You Ain't No Friend Of Mine,Idris Muhammad,spotify:track:3McUmtj7xqaoIbIo3FvRd6,0.598,0.676,7,-10.209,1,0.0981,0.0578,0.006,0.115,0.884,182.772,405600,4,27.54807,17
+Tell Me, Where Did We Go Wrong?,Idris Muhammad,spotify:track:36PhgUBqGtTtsHCDVz3b3N,0.613,0.528,0,-11.244,1,0.0445,0.109,0.000525,0.437,0.918,93.744,306440,4,93.8264,11
+Big Foot,Idris Muhammad,spotify:track:6eXlmzdMsFln3gQn5BWoFR,0.547,0.697,11,-11.293,1,0.109,0.709,0.903,0.0715,0.59,127.637,468000,4,94.6876,19
+Could Heaven Ever Be Like This,Idris Muhammad,spotify:track:1xkOg49ZxldiM1ioIudwUS,0.755,0.842,2,-7.293,0,0.129,0.388,0.541,0.105,0.798,123.203,516587,4,49.69808,20
+Camby Bolongo,Idris Muhammad,spotify:track:0KdzyvsBqX1HV3uLxGm2JV,0.894,0.521,4,-7.048,1,0.0847,0.5,0.772,0.068,0.91,126.805,273067,4,30.89154,14
+Turn This Mutha Out,Idris Muhammad,spotify:track:6JL5U64D9diHZb78ZISKOr,0.78,0.707,9,-7.951,0,0.0379,0.165,0.168,0.0975,0.932,114.765,409587,4,64.85508,13
+Tasty Cakes,Idris Muhammad,spotify:track:3wqPxk8rxEuL6zkVtxiQcz,0.699,0.803,0,-7.432,1,0.0667,0.192,0.000466,0.145,0.807,120.435,263440,4,64.51035,10
+Crap Apple,Idris Muhammad,spotify:track:4YOhKKf8uV00LY7pvRqxQd,0.892,0.659,10,-7.318,1,0.145,0.433,0.388,0.123,0.887,97.283,310600,4,40.19607,11
+Moon Hymn,Idris Muhammad,spotify:track:63Nr0q3IH032UPK2NMuGOh,0.333,0.412,7,-9.872,0,0.0264,0.21,0.741,0.0803,0.234,151.256,257907,4,34.66879,13
+Say What,Idris Muhammad,spotify:track:0iSn4xw5kpFHDdW5UtCgLz,0.853,0.656,7,-7.046,1,0.0743,0.742,0.715,0.0891,0.93,101.422,239480,4,83.29998,8
+House of the Rising Sun,Idris Muhammad,spotify:track:71hiblgY44Xeo11ajThYz6,0.702,0.75,9,-7.844,0,0.0407,0.0744,0.0322,0.0525,0.823,119.911,282093,4,40.69077,12
+Baia,Idris Muhammad,spotify:track:4FukApaVLLHnJZMu0TV2uA,0.739,0.763,7,-7.533,0,0.0302,0.323,0.139,0.0591,0.96,123.282,278600,4,63.27524,10
+Hard to Face the Music,Idris Muhammad,spotify:track:4epJMBJq4S1WMARIvmPFSd,0.763,0.885,2,-7.085,1,0.0454,0.234,0.878,0.0853,0.937,117.143,288840,4,42.24421,10
+Theme for New York City,Idris Muhammad,spotify:track:2UYbY5YX1KCUxopNSNcCuO,0.535,0.868,0,-7.586,1,0.0441,0.453,0.374,0.0974,0.719,127.986,205827,4,37.36671,10
+Sudan,Idris Muhammad,spotify:track:3XwIglRebPihgcmiEB7c3B,0.376,0.864,0,-7.403,1,0.0477,0.173,0.606,0.0541,0.844,149.668,652400,4,24.679,24
+Hey Pocky a-Way,Idris Muhammad,spotify:track:62HvmLwiQ6CcF6TvUlg0OE,0.558,0.727,7,-7.156,1,0.109,0.297,5.46e-05,0.0604,0.802,163.419,365800,4,23.51353,15
+Pipe Stem,Idris Muhammad,spotify:track:1TYsEjMjaBUxA4vSWgXEUU,0.723,0.664,2,-6.635,1,0.0291,0.407,0.867,0.0796,0.875,128.004,326800,4,24.52217,14
+I Know You Don't Want Me No More,Idris Muhammad,spotify:track:7eCU8GyheqpriW7jgw1vq3,0.758,0.924,0,-7.642,1,0.0413,0.208,0.662,0.125,0.96,118.091,281427,4,36.53369,12
+Power of Soul,Idris Muhammad,spotify:track:5YnyA2XqNiD0Rcrma0R0IU,0.476,0.755,11,-7.328,0,0.0515,0.00857,0.614,0.0902,0.617,163.139,424160,4,32.53985,18
+Piece of Mind,Idris Muhammad,spotify:track:5TP9byf9FFaFxdd92tFyFp,0.462,0.571,2,-10.858,0,0.0327,0.0419,0.0995,0.0675,0.575,81.858,561627,4,50.03238,28
+The Saddest Thing,Idris Muhammad,spotify:track:6Whm5YwYOvYFnzkG30RwYX,0.561,0.462,9,-12.944,1,0.0285,0.481,0.944,0.117,0.317,123.392,426600,4,45.77772,15
+Loran's Dance,Idris Muhammad,spotify:track:21MdP1zGqerRKUmfvsoWQJ,0.526,0.574,10,-9.268,0,0.0432,0.0609,0.465,0.111,0.51,156.632,639600,4,36.47591,25
+Power of Soul,Idris Muhammad,spotify:track:4oA5wuVnDZY6jrY4NP78xu,0.476,0.755,11,-7.328,0,0.0515,0.00857,0.614,0.0902,0.617,163.139,424160,4,32.53985,18
+Piece of Mind,Idris Muhammad,spotify:track:72wP2qnBz48qHEutvvnpfY,0.462,0.571,2,-10.858,0,0.0327,0.0419,0.0995,0.0675,0.575,81.858,561627,4,50.03238,28
+The Saddest Thing,Idris Muhammad,spotify:track:5jNNJ65KV7sfX5hpGG3vR1,0.561,0.462,9,-12.944,1,0.0285,0.481,0.944,0.117,0.317,123.392,426600,4,45.77772,15
+Loran's Dance,Idris Muhammad,spotify:track:1a8VGp9Ossi9NJ6yIiLRYi,0.526,0.574,10,-9.268,0,0.0432,0.0609,0.465,0.111,0.51,156.632,639600,4,36.47591,25
+Clear View,Ruphus,spotify:track:188aPfQoBl01qWQUb2QNsr,0.327,0.788,7,-9.257,1,0.0425,0.0569,0.00803,0.121,0.626,115.958,366827,4,35.08165,16
+Snowy Days,Ruphus,spotify:track:3XSgRygdbwuK0zLU6KEXAV,0.421,0.39,4,-9.733,1,0.0282,0.668,0.0102,0.116,0.0686,119.462,405333,3,33.73541,23
+Greener Grass Elsewhere,Ruphus,spotify:track:6oYOkXEUkSPfDPEQOQv7LN,0.612,0.591,7,-7.53,1,0.04,0.114,0.0174,0.199,0.58,136.858,328440,4,35.62324,13
+Dear Friend,Ruphus,spotify:track:1al06rKKZrjAJSkOvrubOY,0.416,0.354,2,-8.215,1,0.0283,0.67,0.0228,0.0832,0.169,111.856,638253,4,42.27075,23
+When The Tides Comes In,Ruphus,spotify:track:6r5PBCjq0bpyk8kiVwyppZ,0.387,0.847,7,-6.353,1,0.0395,0.0469,0.667,0.159,0.648,129.682,326893,4,36.84881,13
+Fashion Of Today,Ruphus,spotify:track:3ZxGgbBrKwsYbCQroV5Hmx,0.729,0.743,8,-8.354,0,0.0512,0.115,0.00209,0.0613,0.709,115.397,277920,4,45.81337,12
+Echoes Of The Time - Bonus track,Ruphus,spotify:track:487EXKgeH3dHgNVXE6PlnA,0.591,0.724,7,-11.173,1,0.0296,0.084,0.00114,0.114,0.63,105.991,280333,4,42.62861,10
+Sawmill Intro - Bonus track,Ruphus,spotify:track:1ry6drVoYHzu8t33IdmPkh,0.687,0.687,2,-10.338,1,0.0421,0.0656,0.238,0.047,0.819,131.412,140280,4,50.45697,5
+Fashion Part 2 - Bonus track,Ruphus,spotify:track:1Kw1zpclUBWnZFfzMkjKHo,0.637,0.835,8,-8.753,0,0.0406,0.108,0.725,0.0438,0.532,116.419,278227,4,63.06902,11
+Foodlover's Diet,Ruphus,spotify:track:3wBQkCB9iwmLRJyEojRVDG,0.715,0.62,9,-5.528,0,0.0601,0.445,0.00888,0.132,0.961,117.58,233198,4,53.94171,10
+Frysja,Ruphus,spotify:track:10vPGnxBBvyVNFx7b5unXi,0.506,0.486,7,-8.227,1,0.0302,0.209,0.481,0.114,0.557,144.112,247425,4,32.06463,14
+Early Riser,Ruphus,spotify:track:3NS40uStHwgLdRmy6fjafO,0.537,0.795,5,-7.317,1,0.0743,0.164,0.0163,0.289,0.632,100.184,250505,4,71.75027,11
+Flying Colours,Ruphus,spotify:track:5fcNj5cT9CdUBwHVY1pzCn,0.364,0.812,0,-7.332,1,0.0814,0.396,0.0846,0.0928,0.561,96.755,370732,4,56.24323,10
+The Rivulet,Ruphus,spotify:track:7sP3YjFzyZzTZsGwYFnP4m,0.538,0.434,7,-7.836,0,0.0349,0.276,0.000191,0.174,0.388,77.265,277532,4,50.49606,13
+Joy,Ruphus,spotify:track:3b9XWlrAVpzHP7S2iqyGgn,0.554,0.733,2,-6.939,1,0.0583,0.417,5.03e-05,0.666,0.593,94.57,261785,4,35.34709,12
+Moody Moments,Ruphus,spotify:track:7180hAYRjLBsMKkmpx8KeU,0.603,0.565,7,-7.423,1,0.0496,0.463,0.314,0.103,0.47,135.41,566625,4,33.88511,19
+Inner Voice,Ruphus,spotify:track:7fkVxAkYKiuihGdNAgZDKK,0.515,0.889,2,-6.122,1,0.102,0.289,0.542,0.981,0.699,136.569,267598,4,42.2331,11
+Inner Voice,Ruphus,spotify:track:7qurqFbIaAdZ8APzNIfn8b,0.484,0.897,2,-6.513,1,0.0433,0.0288,0.263,0.809,0.749,136.032,251947,4,34.63061,12
+Come IntoView,Ruphus,spotify:track:1LjqImRHlyKImazDsUQicq,0.607,0.651,6,-8.84,0,0.0714,0.113,0.0115,0.177,0.629,96.179,401560,4,46.96833,21
+No Deal,Ruphus,spotify:track:4l1VaCqz17vQexMlSnKGsc,0.549,0.556,5,-9.493,1,0.044,0.065,0.0785,0.0664,0.901,98.477,434867,4,59.20766,14
+Too Late,Ruphus,spotify:track:38y1oZQJfZdyDm6xy9XbFg,0.39,0.461,0,-8.823,1,0.0299,0.231,0.0488,0.0637,0.365,76.077,317120,4,36.65721,12
+Within These Walls,Ruphus,spotify:track:2O5wophAvyN1N3iGbf0T92,0.546,0.798,2,-7.066,1,0.047,0.241,0.00122,0.109,0.488,132.941,387067,4,29.42888,20
+Left Behind,Ruphus,spotify:track:1vGc92qgxXQpXRotwHEQVm,0.503,0.565,2,-9.818,0,0.0398,0.331,0.0566,0.133,0.469,84.331,374107,4,48.71255,18
+Second Corner - Bonus Track - Live,Ruphus,spotify:track:68zZMjQQhkGDiQdYkvgEcs,0.256,0.867,4,-8.95,0,0.133,0.053,0.0245,0.685,0.554,163.814,396867,4,40.08828,23
+No Deal - Bonus Track - Live,Ruphus,spotify:track:1uI0fnk4Qm2eMD0E7yO5uw,0.551,0.741,5,-9.513,1,0.0417,0.251,0.51,0.164,0.945,103.048,463667,4,105.59486,15
+Sha Ba Wah,Ruphus,spotify:track:6jXkPsy8Vj76ZUM1lFcO3H,0.425,0.724,9,-8.105,1,0.0353,0.0535,0.719,0.288,0.78,163.003,452933,4,46.70075,21
+Nordlys,Ruphus,spotify:track:1SywTiYuLRhN4o2nyZwIG0,0.309,0.295,0,-16.549,1,0.0409,0.949,0.906,0.135,0.169,84.784,105480,3,24.1546,7
+Corner,Ruphus,spotify:track:5GMXbOg0KWlnpAxAsYF8lZ,0.491,0.534,0,-10.372,1,0.0291,0.0141,0.58,0.0913,0.64,126.879,261280,4,52.64864,11
+Second Corner,Ruphus,spotify:track:5H1HdnwocRU3gpl9eYjoow,0.319,0.883,7,-6.677,1,0.0533,0.00191,0.00871,0.068,0.684,157.291,396627,4,37.04747,22
+Let Your Light Shine,Ruphus,spotify:track:10cT3Kg8G02QifbobhZVLF,0.315,0.508,9,-9.747,1,0.0328,0.301,0.0421,0.0965,0.462,161.678,497533,3,32.14931,20
+Grasse,Ruphus,spotify:track:4FIxxH3vgE7IfAHvfap8cs,0.46,0.146,4,-16.355,0,0.0364,0.95,0.895,0.0773,0.151,107.906,111800,4,31.32576,7
+Brain Boogie,Ruphus,spotify:track:07fiyTHENGys6ivrT3km6Y,0.468,0.581,7,-7.957,0,0.0491,0.173,0.035,0.22,0.81,102.188,595067,4,42.55278,21
+Love Is My Light,Ruphus,spotify:track:3JNgNn3IW1rRTDxObMKdhb,0.391,0.556,7,-8.388,1,0.0405,0.000645,0.00479,0.067,0.411,134.875,376093,3,25.63752,16
+Easy Lovers, Heavy Moaners,Ruphus,spotify:track:7oDxL7oegNDP4MNAtjYDTX,0.513,0.464,7,-8.852,1,0.024,0.00456,6.15e-06,0.19,0.386,100.955,281173,4,45.20126,14
+Fallen Wonders,Ruphus,spotify:track:5iYcxHJet8JcSc7JktuzjF,0.449,0.668,0,-7.858,1,0.0313,0.000133,0.0187,0.0796,0.531,114.773,354093,4,36.8095,19
+Pictures Of A Day,Ruphus,spotify:track:23lZfdQx48ooEL2kAbpXy5,0.287,0.481,2,-11.243,1,0.0409,0.0611,0.744,0.102,0.175,90.269,511040,4,37.46828,22
+Back Side,Ruphus,spotify:track:4eKpodOOOliA77KGbeRDej,0.317,0.529,4,-9.897,0,0.0323,0.000438,0.0344,0.111,0.327,129.686,492400,4,28.61411,25
+Coloured Dreams,Ruphus,spotify:track:3hMiPMhq6ENhUTYRA0tt3x,0.377,0.872,5,-11.445,1,0.194,0.0226,0.000393,0.535,0.745,165.855,247000,4,24.82667,13
+Scientific Ways,Ruphus,spotify:track:0ssxpTOmHcqWvt5l118WWv,0.417,0.49,9,-13.065,1,0.0521,0.259,0.000177,0.0823,0.615,89.315,362333,4,44.61426,15
+Still Alive,Ruphus,spotify:track:075bIC8VoPHM4MeBbtBkeM,0.365,0.698,2,-11.234,1,0.0781,0.00239,0.01,0.509,0.653,155.17,277973,3,37.30321,14
+The Man Who Started It All,Ruphus,spotify:track:3nc6qQslZQsoaXdOMoVyv8,0.339,0.647,4,-11.224,0,0.05,0.00225,0.0366,0.187,0.226,133.138,331093,4,41.75484,14
+Trapped In A Game,Ruphus,spotify:track:3FVhjnLrs3gVJbry29R9ei,0.316,0.44,1,-13.241,0,0.0518,0.237,7.66e-06,0.0873,0.155,130.5,369067,4,33.81033,14
+New Born Day,Ruphus,spotify:track:5EujxTtQKG7f2J8Gj2zgYH,0.528,0.668,0,-11.616,0,0.316,0.0623,0.0995,0.115,0.799,101.125,344600,4,39.59298,13
+Day After Tomorrow,Ruphus,spotify:track:7bgW1jVCXpwUvh5A9xjX5D,0.443,0.428,0,-12.339,0,0.0464,0.276,0.00748,0.116,0.507,123.462,532067,4,24.21681,25
+Flying Dutchman Fantasy - Bonus Track from single -73,Ruphus,spotify:track:0kHWBQNvfB27HN2cBJqSdO,0.307,0.884,2,-10.792,1,0.225,0.000293,0.0002,0.155,0.614,131.936,190973,4,50.80685,9
+Opening Theme - Bonus Track from single -73,Ruphus,spotify:track:5bsoh2h3Izr9CgWg0bIjmD,0.318,0.753,0,-10.054,1,0.0338,0.014,0.837,0.383,0.644,209.31,200000,4,29.10525,14
+Opening '77 - Live,Return To Forever,spotify:track:28xdPps9CR22ZasBFrODTh,0.321,0.366,9,-15.301,0,0.0579,0.766,0.734,0.235,0.303,71.131,429907,4,23.26707,20
+The Endless Night - Live,Return To Forever,spotify:track:7Lwmhzh3C8Db4PQT9lyWcv,0.397,0.622,2,-11.668,0,0.0695,0.394,0.414,0.72,0.51,151.301,1230080,4,44.76126,56
+Chick Corea: Spoken Intro of the Musicians - Live,Return To Forever,spotify:track:2QdUmUly37y7u0XrWuUbvc,0.374,0.862,6,-23.434,1,0.729,0.792,0.00179,0.92,0.0271,108.401,223813,3,53.40877,11
+The Musician - Live,Return To Forever,spotify:track:4I8ihz8dKrn4LhurRACD2c,0.432,0.562,5,-13.356,0,0.0496,0.574,0.627,0.692,0.597,140.407,844547,4,31.20742,41
+Stanley Clarke: Spoken Intro to Hello Again / So Long Mickey Mouse - Live,Return To Forever,spotify:track:3ChVcqLuCgKB9w6s6TWP5z,0.426,0.184,7,-34.116,1,0.865,0.73,0,0.387,0.365,129.283,98920,5,22.20017,7
+Hello Again - Live,Return To Forever,spotify:track:5BrSeNEvFwXEGLGkFrGpop,0.5,0.347,8,-14.98,0,0.0384,0.586,0.106,0.161,0.35,138.299,362560,4,56.4826,17
+So Long Mickey Mouse - Live,Return To Forever,spotify:track:7JPgRB3i1ZqU5wJz3F7fUD,0.382,0.673,9,-12.471,1,0.126,0.431,0.375,0.675,0.447,152.591,651707,4,46.51565,33
+Musicmagic - Live,Return To Forever,spotify:track:3y38g3k1TEsmhZtVi1wBPj,0.489,0.412,8,-15.021,1,0.0775,0.525,0.695,0.987,0.17,119.914,1645173,4,57.65587,56
+Come Rain or Come Shine - Live,Return To Forever,spotify:track:1U8eKSzfTh8pGMfp5SRPUJ,0.352,0.149,3,-19.131,1,0.0441,0.906,0.000485,0.339,0.156,109.13,235973,1,74.73415,12
+Stanley Clarke: Spoken Intro to Serenade - Live,Return To Forever,spotify:track:3PGAT2lyV7pDg6DGmIZZUx,0.316,0.16,6,-25.883,1,0.465,0.739,0,0.842,0.224,164.829,58653,3,40.0665,3
+Serenade - Live,Return To Forever,spotify:track:4EJlDoDN9zV1frJguh9eOi,0.464,0.339,10,-17.906,1,0.0556,0.848,0.814,0.685,0.274,124.937,836973,4,30.25498,24
+Chick Corea: Spoken Intro to the Moorish Warrior and Spanish Princess - Live,Return To Forever,spotify:track:5pptOnMcHK1M3gnklLB7Sk,0.362,0.228,9,-34.644,1,0.475,0.78,0.000679,0.0862,0.205,174.387,65813,4
+The Moorish Warrior and Spanish Princess - Live,Return To Forever,spotify:track:7GaP9vl11C3DjseljfzE05,0.384,0.161,9,-24.089,0,0.056,0.942,0.886,0.693,0.191,81.81,1096400,4,33.64713,44
+Stanley's Introduction - Live,Return To Forever,spotify:track:3u5p2sPfEUvfRYOZkzzBPH,0.427,0.27,1,-27.453,1,0.853,0.824,0.000581,0.982,0.17,117.339,121880,4,42.84086,6
+Chick's Piano Solo - Live,Return To Forever,spotify:track:0sUmJrEMgINkUDAPSu2VKI,0.365,0.0971,5,-23.256,0,0.0368,0.837,0.627,0.129,0.219,102.934,879467,4,31.92801,50
+Spanish Fantasy - Live,Return To Forever,spotify:track:1teUZlMhtoeMKqMeEYho8f,0.394,0.684,3,-12.913,1,0.0802,0.205,0.598,0.699,0.34,104.745,681453,3,72.18645,24
+On Green Dolphin Street - Live,Return To Forever,spotify:track:0Ucn2jQHU62k6gU6RoZVk3,0.383,0.0773,0,-29.871,1,0.0417,0.953,0.869,0.314,0.212,95.715,570680,4,35.19925,21
+Opening '77 - Live,Return To Forever,spotify:track:3D8XzFRJHrkgLjRo9Ymufe,0.396,0.396,9,-14.167,0,0.0512,0.731,0.424,0.326,0.354,69.956,430693,4,24.65599,20
+The Endless Night - Live,Return To Forever,spotify:track:2PFSqCj2qfr6tIMwEGkWpX,0.379,0.666,2,-11.252,0,0.0727,0.291,0.0945,0.696,0.508,154.81,1223533,4,43.19633,60
+The Musician - Live,Return To Forever,spotify:track:57oFh4bFcPGGR8355V8z52,0.347,0.718,10,-11.555,0,0.0693,0.394,0.261,0.973,0.505,145.42,418267,4,41.7432,23
+Stanley's Introduction - Live,Return To Forever,spotify:track:1GaMTqdu1qLu9kSZvvOqSk,0.383,0.15,6,-30.65,1,0.898,0.615,0,0.148,0.405,85.353,83507,1,37.57973,5
+Hello Again - Live,Return To Forever,spotify:track:1gwUfQPQfWCCp9h1CvB4R1,0.481,0.392,8,-13.863,0,0.0382,0.472,0.0163,0.128,0.412,138.459,362293,4,56.75498,16
+So Long Mickey Mouse - Live,Return To Forever,spotify:track:231h2fa6Zbi3kJKqfnClma,0.321,0.781,9,-11.089,1,0.118,0.167,0.0512,0.952,0.525,151.631,402573,4,48.70976,20
+Musicmagic - Live,Return To Forever,spotify:track:67c5kDxGcFB2kLIPIrktNR,0.484,0.441,5,-14.302,1,0.0812,0.47,0.467,0.7,0.189,120.785,1646227,4,59.54512,67
+Come Rain or Come Shine - Live,Return To Forever,spotify:track:4C1uyGKQrBDtD5yxRmvU14,0.351,0.16,0,-18.435,0,0.0448,0.872,3.63e-05,0.345,0.149,107.886,235933,4,19.32689,15
+Serenade - Live,Return To Forever,spotify:track:6oExM1FzlSpatW6i9sKPo3,0.463,0.389,10,-16.668,1,0.0733,0.806,0.415,0.95,0.269,123.21,893267,4,41.56883,28
+The Moorish Warrior And Spanish Princess - Live,Chick Corea,spotify:track:4dyyigEuCaOBKLercxomHN,0.438,0.182,9,-23.141,0,0.0589,0.937,0.765,0.723,0.2,97.643,1160227,4,47.41656,53
+Stanley's Introduction - Live,Return To Forever,spotify:track:6ePYuyfwgtH8PL0eGkkSUh,0.431,0.306,1,-25.995,1,0.888,0.83,0.000102,0.963,0.147,112.874,121840,4,41.29159,5
+Spanish Fantasy - Live,Return To Forever,spotify:track:0TJtuvhaVUDCq6R9VgBj1l,0.371,0.373,0,-15.395,0,0.0375,0.447,0.47,0.753,0.275,103.427,1486227,4,94.10769,61
+Chick's Closing Introductions - Live,Return To Forever,spotify:track:1cVV2Xa8Epj9usE8mLWb9e,0.253,0.965,6,-16.008,1,0.699,0.908,0.186,0.987,0.0274,139.107,68733,4,44.51544,4
+On Green Dolphin Street - Live,Return To Forever,spotify:track:06pLkriRmegRWaqjkJaFFe,0.401,0.0911,0,-28.005,1,0.0408,0.953,0.85,0.371,0.223,97.214,575333,4,18.67657,25
+Opening '77 - Live,Return To Forever,spotify:track:4gLAVDgXIysMZSCG5GJzdb,0.412,0.526,9,-8.989,0,0.0386,0.729,0.506,0.362,0.327,135.083,430067,4,22.66549,26
+The Endless Night - Live,Return To Forever,spotify:track:4egAOMGyJAylZoVDweiECZ,0.392,0.82,2,-6.038,0,0.0837,0.249,0.229,0.717,0.492,150.058,1224493,4,43.92564,55
+The Musician - Live,Return To Forever,spotify:track:0c253M4yKQ2VkkW6Wu75k1,0.353,0.87,10,-6.513,0,0.075,0.325,0.5,0.674,0.465,143.065,423440,4,41.32546,22
+Stanley's Introduction - Live,Return To Forever,spotify:track:3Q85W6oOsYqoi2br28fB8H,0.558,0.249,11,-24.783,0,0.933,0.697,0,0.424,0.275,52.27,77560,4,47.97805,4
+Hello Again - Live,Return To Forever,spotify:track:5Ufoa6FACEkakZ4ONldJjd,0.484,0.537,8,-8.681,0,0.0391,0.516,0.0344,0.111,0.411,138.114,362267,4,57.34025,18
+So Long Mickey Mouse - Live,Return To Forever,spotify:track:6xlt4Ri08RnpppvaVcgvNS,0.316,0.884,9,-5.922,1,0.129,0.247,0.224,0.937,0.5,151.892,402600,4,28.3551,18
+Musicmagic - Live,Return To Forever,spotify:track:4pTxKJ0Sq6CIyUtzCEWXrN,0.493,0.584,5,-9.094,1,0.0729,0.525,0.606,0.702,0.167,120.383,1646973,4,75.98397,55
+Come Rain or Come Shine - Live,Return To Forever,spotify:track:1Ts6Dx3PDTrahQt5bNQfbu,0.378,0.274,5,-14.237,0,0.0846,0.851,5.46e-05,0.615,0.194,107.14,294000,4,37.74056,14
+Serenade - Live,Return To Forever,spotify:track:0S24ZuHRefUl7p9ojtSbbZ,0.472,0.52,10,-11.674,1,0.0669,0.833,0.717,0.139,0.239,121.169,900627,4,75.83512,23
+The Moorish Warrior And Spanish Princess - Live,Chick Corea,spotify:track:1WymIflCOPhKEcrOPQMZuT,0.396,0.273,9,-17.68,0,0.0844,0.942,0.9,0.699,0.203,73.163,1134733,3,34.35491,51
+Stanley's Introduction - Live,Return To Forever,spotify:track:2C9BYl862cTiajyKoBCxu1,0.402,0.39,1,-20.331,1,0.896,0.872,0.00165,0.73,0.253,93.426,81573,3,74.7812,3
+Spanish Fantasy - Live,Return To Forever,spotify:track:1NWhVRJ1F6pShxio7IWAmN,0.394,0.5,0,-10.115,0,0.0359,0.502,0.543,0.756,0.285,103.542,1486227,3,33.16811,68
+Chick's Closing Introductions - Live,Return To Forever,spotify:track:2W3U0Dcp2qzzUt2e4Cilyo,0.309,0.957,6,-13.357,1,0.844,0.774,0.0379,0.989,0.0295,139.601,107333,4,74.2875,4
+On Green Dolphin Street - Live,Return To Forever,spotify:track:4wJRenqDZVQ3jVzMHjPsYN,0.424,0.134,0,-22.612,1,0.0382,0.961,0.92,0.114,0.204,94.45,538507,4,52.18754,25
+The Musician,Return To Forever,spotify:track:05lzvmP92xzCe8pdnqI4dX,0.475,0.402,5,-13.136,0,0.0457,0.34,0.294,0.0993,0.527,129.154,432227,4,32.27988,17
+Hello Again,Return To Forever,spotify:track:3Y8RtRID7lTqUmthL96Bkv,0.546,0.373,0,-11.909,1,0.0314,0.351,0.747,0.0846,0.385,133.782,228813,4,51.81348,12
+Musicmagic,Return To Forever,spotify:track:15aLTmE8qtE4wb4Gvz2IWN,0.478,0.38,0,-14.328,0,0.044,0.606,0.136,0.107,0.216,111.211,663027,4,35.28434,22
+So Long Mickey Mouse,Return To Forever,spotify:track:7hwSQGW16sHiRQn1yP0O29,0.386,0.482,9,-12.688,1,0.056,0.328,0.113,0.108,0.456,75.48,369107,4,84.30648,15
+Do You Ever,Return To Forever,spotify:track:2GntGsbldWw6NzxivrAbpL,0.397,0.207,9,-15.997,0,0.042,0.897,0.000366,0.0915,0.263,78.164,239093,3,31.08921,10
+The Endless Night,Return To Forever,spotify:track:5TdF3h8rOaBCoKHxLcbW2x,0.398,0.419,9,-13.31,0,0.038,0.21,0.0188,0.0994,0.437,148.808,592053,4,39.81258,25
+Medieval Overture - Instrumental,Return To Forever,spotify:track:35SN1cm9oqB9aKT6lCS7Zc,0.44,0.774,7,-9.523,1,0.0514,0.145,0.36,0.0595,0.245,106.879,313867,3,59.71745,10
+Sorceress - Instrumental,Return To Forever,spotify:track:0LSWGrMtnc8613JtXAlKcK,0.422,0.624,10,-11.162,0,0.0409,0.0336,0.435,0.206,0.719,119.037,453693,4,63.60947,16
+The Romantic Warrior - Instrumental,Return To Forever,spotify:track:2zURvG0FGS7YN8VTP3FIvm,0.383,0.607,7,-12.103,1,0.0358,0.17,0.777,0.113,0.435,144.245,651733,4,27.02322,21
+Majestic Dance - Instrumental,Return To Forever,spotify:track:1Svgfwp3Pqjj63ZPqwANN5,0.332,0.704,9,-9.005,1,0.0592,0.158,0.308,0.194,0.764,150.913,300507,4,56.55223,12
+The Magician - Instrumental,Return To Forever,spotify:track:7EATa8HRh7LTaC6PkfO5o5,0.358,0.505,9,-10.051,1,0.0603,0.391,0.682,0.0788,0.163,151.877,328893,4,46.47504,15
+Duel of the Jester and the Tyrant - (Pt. 1 & Pt. 2) [Instrumental],Return To Forever,spotify:track:1H08LHskzcM3gAgdZNFUMG,0.333,0.552,4,-11.249,0,0.0432,0.119,0.378,0.096,0.555,83.653,686400,4,45.04865,25
+Medieval Overture - Instrumental,Return To Forever,spotify:track:1wt87z7ipHD4uhCJLA2p4N,0.44,0.774,7,-9.523,1,0.0514,0.145,0.36,0.0595,0.245,106.879,313867,3,59.71745,10
+Sorceress - Instrumental,Return To Forever,spotify:track:5JrWS26keJ7AqXydk6g6ls,0.422,0.624,10,-11.162,0,0.0409,0.0336,0.435,0.206,0.719,119.037,453693,4,63.60947,16
+The Romantic Warrior - Instrumental,Return To Forever,spotify:track:1dzET7BBRv2apibgAwkLls,0.383,0.607,7,-12.103,1,0.0358,0.17,0.777,0.113,0.435,144.245,651733,4,27.02322,21
+Majestic Dance - Instrumental,Return To Forever,spotify:track:42KtqM0of4wssY8oyT3LKl,0.332,0.704,9,-9.005,1,0.0592,0.158,0.308,0.194,0.764,150.913,300507,4,56.55223,12
+The Magician - Instrumental,Return To Forever,spotify:track:6jdnKXCiAM18THZruhy2Xf,0.358,0.505,9,-10.051,1,0.0603,0.391,0.682,0.0788,0.163,151.877,328893,4,46.47504,15
+Duel of the Jester and the Tyrant - (Pt. 1 & Pt. 2) [Instrumental],Return To Forever,spotify:track:65y64lw0QPgrJ4OferccKh,0.333,0.552,4,-11.249,0,0.0432,0.119,0.378,0.096,0.555,83.653,686400,4,45.04865,25
+Band Intros (Remastered) - Live,Return To Forever,spotify:track:25yvsvhhW9fCUrrNfErjRE,0.566,0.972,11,-14.252,1,0.929,0.88,0.00163,0.366,0.0344,108.399,75600,4,50.874,4
+Dayride (Remastered) - Live,Return To Forever,spotify:track:5SqAi7OkVjO8tk3OiFcNYP,0.402,0.687,6,-11.793,1,0.0821,0.699,0.933,0.198,0.375,141.898,206947,4,36.88209,7
+Beyond The 7th Galaxy (Remastered) - Live,Return To Forever,spotify:track:5nDseRERuSryG1ziRhzVfX,0.287,0.714,6,-12.608,1,0.109,0.709,0.859,0.27,0.536,151.091,197787,4,30.37999,11
+The Shadow Of Lo (Remastered) - Live,Return To Forever,spotify:track:3tc5vFgjDkUvO4rNfrYryL,0.311,0.672,4,-11.683,1,0.0811,0.71,0.466,0.691,0.276,92.048,551067,4,40.39861,13
+No Mystery (Remastered) - Live,Return To Forever,spotify:track:3LCkdbGjt7HHfWiF6PZPmM,0.339,0.578,5,-12.026,1,0.0421,0.697,0.694,0.123,0.255,150.993,358107,4,34.49296,16
+Vulcan Worlds (Remastered) - Live,Return To Forever,spotify:track:6VJnXlaE63V7PjA5EfKd6x,0.32,0.661,10,-12.707,1,0.0825,0.736,0.747,0.715,0.393,80.886,932253,4,35.12016,30
+Celebration Suite (Remastered) - Live,Return To Forever,spotify:track:2CLPxSm5Ge7oIdQT1gRk94,0.27,0.614,5,-13.035,1,0.0782,0.678,0.827,0.733,0.184,97.62,936667,4,44.61992,31
+Dayride,Return To Forever,spotify:track:0sh3ksrBKS9MfrfJxuZR5c,0.45,0.94,10,-10.494,1,0.0599,0.0385,0.726,0.101,0.687,124.654,205267,4,18.96929,7
+Jungle Waterfall,Return To Forever,spotify:track:1Lf34hkP7aggA2P1AMchqg,0.631,0.844,5,-11.455,0,0.0529,0.0162,0.00749,0.237,0.509,117.127,183507,4,29.7481,11
+Flight Of The Newborn,Return To Forever,spotify:track:3tayt4nvGbbhinFDcRVqMx,0.465,0.733,9,-12.578,0,0.0507,0.0469,0.196,0.0596,0.643,101.335,443000,4,69.91639,20
+Sofistifunk,Return To Forever,spotify:track:5VBAax8ZiyEESN0IOKVdHC,0.699,0.941,9,-9.527,0,0.0491,0.301,0.741,0.0391,0.96,108.938,231760,4,17.20328,10
+Excerpt From The First Movement Of Heavy Metal,Return To Forever,spotify:track:6EnLaRy7TsrzIcuATjS5vS,0.362,0.646,11,-11.739,1,0.0351,0.0723,0.914,0.0971,0.286,140.905,165240,4,46.05878,8
+No Mystery,Return To Forever,spotify:track:2Cpm2iBPBjHKKBbFpOK3C9,0.4,0.258,11,-16.577,0,0.0301,0.855,0.907,0.112,0.248,137.487,370126,4,37.40562,16
+Interplay,Return To Forever,spotify:track:3YpmO2OIs1ZmePKJdfCIdc,0.452,0.143,9,-20.272,0,0.0438,0.894,0.899,0.0701,0.327,97.381,135507,3,62.10856,6
+Celebration Suite, Pt. 1,Return To Forever,spotify:track:3sGpVkaCHV2LsTd9gYyQ2V,0.243,0.806,5,-11.257,1,0.0892,0.0458,0.837,0.281,0.271,76.726,507133,4,28.42663,21
+Celebration Suite, Pt. 2,Return To Forever,spotify:track:2qx7ogB37k0KU9R2d2w4bL,0.19,0.676,8,-10.928,0,0.0613,0.101,0.863,0.0572,0.162,88.519,332092,4,19.80397,8
+Vulcan Worlds,Return To Forever,spotify:track:73J7OKw178I0K5JCHnBp4s,0.34,0.903,2,-9.669,1,0.057,0.0359,0.735,0.14,0.399,138.898,472280,4,29.48663,19
+Where Have I Loved You Before,Return To Forever,spotify:track:31pJz43MNLKlv8UaJ06Flw,0.357,0.134,6,-21.49,0,0.0412,0.97,0.675,0.36,0.257,105.186,61773,5,39.38194,4
+The Shadow Of Lo,Return To Forever,spotify:track:0SwjbQm2kxPScZSwgMiKEr,0.32,0.636,5,-11.211,0,0.0534,0.711,0.0805,0.659,0.365,158.01,450787,4,57.73934,12
+Where Have I Danced With You Before,Return To Forever,spotify:track:4dRO59yxAOl3XpouUwW9Kt,0.468,0.158,11,-21.987,0,0.052,0.924,0.892,0.17,0.672,120.619,74627,4,24.45994,4
+Beyond The Seventh Galaxy,Return To Forever,spotify:track:2Lv9QDlUJprpFubtKJZWAU,0.338,0.871,0,-11.047,1,0.051,0.0365,0.0425,0.127,0.306,135.701,194680,4,27.10676,8
+Earth Juice,Return To Forever,spotify:track:0HbFx4r50LQkPZfAMAyB9N,0.506,0.782,11,-10.174,0,0.0408,0.0765,0.533,0.155,0.836,114.201,226880,4,31.47287,7
+Where Have I Known You Before,Return To Forever,spotify:track:3sfkTYFCbRhJaIaO0Or0Za,0.4,0.162,4,-19.891,0,0.057,0.947,0.855,0.213,0.294,141.595,140147,3,27.29741,7
+Song To The Pharoah Kings,Return To Forever,spotify:track:2IA2dYPbwRqgWk62SFaTE8,0.32,0.852,7,-11.111,1,0.0885,0.066,0.681,0.296,0.277,133.579,862667,4,44.03584,26
+Sonnet #65,Pearls Before Swine,spotify:track:2dYrxz7kRQKClQFBqFRH2d,0.592,0.387,9,-15.537,0,0.0675,0.195,1.49e-06,0.135,0.34,77.689,49200,4
+Once Upon a Time,Pearls Before Swine,spotify:track:6jKYpM8yJbfbALQNQ0AotZ,0.436,0.362,5,-13.465,1,0.0316,0.399,6.65e-06,0.0857,0.608,150.218,160120,3,37.7942,10
+Raindrops,Pearls Before Swine,spotify:track:6LS9H4ijj9y3J1RqQrVAKO,0.297,0.135,9,-19.372,0,0.0353,0.797,0.00115,0.109,0.447,129.475,125933,5,40.41383,7
+City of Gold,Pearls Before Swine,spotify:track:1kJYERxkve2EbtDXWZqJfy,0.569,0.246,2,-13.935,1,0.0298,0.557,1.2e-06,0.213,0.361,115.688,189067,3,19.66921,9
+Nancy,Pearls Before Swine,spotify:track:7DlvvEwcGp5ViAYf0OX5Ta,0.484,0.215,9,-18.587,1,0.0319,0.559,0.0366,0.0763,0.19,104.626,290373,3,37.38978,15
+Seasons in the Sun,Pearls Before Swine,spotify:track:2opw04U6IytefUFgIQI7M0,0.612,0.438,5,-13.199,1,0.0487,0.713,0,0.0766,0.629,83.177,204507,4,32.8389,6
+My Father,Pearls Before Swine,spotify:track:1HRrlhk7ia2Ys4aBW3ypK1,0.291,0.0886,7,-17.047,0,0.0388,0.914,0,0.0931,0.271,178.644,142053,3,36.24357,8
+The Man,Pearls Before Swine,spotify:track:581gEUIK3vDYRMesdjhcVN,0.436,0.587,0,-10.281,1,0.0785,0.58,1.54e-05,0.108,0.896,88.629,150120,4,25.51479,8
+Casablanca,Pearls Before Swine,spotify:track:4ELosu0FHvhUfjjXvCiWyW,0.438,0.369,7,-13.381,0,0.0349,0.561,1.74e-05,0.12,0.421,74.495,153187,4,30.72734,9
+Wedding,Pearls Before Swine,spotify:track:1EajWZ9I3rplynNxqQMLDr,0.514,0.252,0,-15.636,1,0.0371,0.828,0.00772,0.111,0.0899,151.502,102400,4,29.2823,6
+Did You Dream of Unicorns,Pearls Before Swine,spotify:track:0cTAgsA2P70oUrLVg8Hs7z,0.492,0.257,7,-14.995,0,0.034,0.611,0,0.113,0.216,71.808,169707,4,25.72648,8
+The Jeweler,Pearls Before Swine,spotify:track:6WcWRhWa7Z9IcXbt6dUpZR,0.412,0.297,7,-14.133,1,0.0283,0.902,0.0964,0.0994,0.22,80.817,168040,4,33.81252,10
+From the Movie of the Same Name,Pearls Before Swine,spotify:track:3tcoN7muJjMzelKftZev0a,0.426,0.332,7,-13.897,1,0.0313,0.931,0.906,0.1,0.637,80.76,141307,4,50.74736,9
+Rocket Man,Pearls Before Swine,spotify:track:06zmeAklZlBSBVhu4TGD31,0.43,0.179,0,-17.019,1,0.0334,0.963,0.599,0.11,0.113,93.532,186413,4,19.74939,13
+God Save the Child,Pearls Before Swine,spotify:track:4AsgzsiCm86QHY7U76H4jO,0.533,0.47,11,-11.497,1,0.035,0.665,0.000449,0.0653,0.474,80.679,188240,4,41.43562,10
+Song About a Rose,Pearls Before Swine,spotify:track:4e1LL208JzYownrdF23q0A,0.54,0.296,8,-14.7,0,0.0311,0.933,0.0382,0.0689,0.393,84.2,141773,4,44.98329,7
+Tell Me Why,Pearls Before Swine,spotify:track:56QLgPh8Qeo9V0L1DJLJMZ,0.437,0.251,5,-16.466,1,0.0335,0.937,0.126,0.0967,0.405,86.028,223813,4,51.45743,11
+Margery,Pearls Before Swine,spotify:track:31aaggi49r6NZBkZwW6pGB,0.508,0.273,7,-14.48,1,0.0291,0.592,0.0029,0.119,0.387,101.676,183467,4,29.94248,10
+The Old Man,Pearls Before Swine,spotify:track:7Ij307OpaVbIxeoCivNUsk,0.275,0.142,2,-19.573,0,0.036,0.919,0.502,0.127,0.309,152.793,196467,4,34.51866,12
+Riegal,Pearls Before Swine,spotify:track:0KSQkoXALTqO1Gj6s7niG8,0.629,0.274,9,-16.723,0,0.0312,0.888,0.0827,0.081,0.497,109.005,193000,4,28.19048,8
+When the War Began,Pearls Before Swine,spotify:track:0kvZpf9gOMHSgx4B5kLZRt,0.575,0.228,3,-16.123,1,0.0283,0.943,0.72,0.0936,0.264,97.272,307480,4,38.04333,15
+All Gates Open,CAN,spotify:track:4OwSAFNLHCAib9RD6KDC67,0.723,0.525,0,-9.465,1,0.0402,0.0191,0.741,0.357,0.647,133.719,499200,4,37.49515,16
+Safe,CAN,spotify:track:1xcGE6kPx5KVtCU9S3eQts,0.599,0.88,4,-8.974,0,0.0618,0.0139,0.395,0.0874,0.538,102.439,516200,4,28.94718,24
+Sunday Jam,CAN,spotify:track:6bbwaoibNd3xlP2iXIezMh,0.539,0.804,2,-8.481,0,0.0333,0.1,0.579,0.0571,0.883,117.056,270347,4,51.43181,9
+Sodom,CAN,spotify:track:0Y4CoJ0k7CBZ2Dg1jJ8eDy,0.491,0.547,7,-9.412,1,0.027,0.285,0.439,0.0904,0.0685,100.243,344533,4,62.25927,14
+Aspectacle,CAN,spotify:track:3PV9vdQhNfmKSL7h07X6Nc,0.807,0.796,11,-10.511,0,0.0686,0.0383,0.146,0.322,0.802,122.924,352213,4,63.78321,10
+EFS No. 99 (Can Can),CAN,spotify:track:7iEs5pEptoqfw6c4EbdvtD,0.439,0.921,0,-6.194,1,0.04,0.00785,0.849,0.126,0.963,155.042,192973,4,19.86169,13
+Ping Pong,CAN,spotify:track:0OHMLD6rch3VmYnYSHENp8,0.497,0.224,7,-29.604,1,0.0604,0.0592,0.633,0.0719,0.611,71.328,22200,3
+Can Be,CAN,spotify:track:4XChe4fgHQo6cCRYpbpeJ5,0.469,0.766,0,-6.677,1,0.0604,0.0013,0.919,0.264,0.898,155.023,173560,4,37.95446,6
+All Gates Open,CAN,spotify:track:55Yl0e9tECqsi6cJ1PA3ni,0.722,0.529,0,-9.478,1,0.0401,0.0216,0.728,0.356,0.685,133.711,499200,4,37.49686,16
+Safe,CAN,spotify:track:3DFukEeiKGVdqoethEqzZ9,0.602,0.878,4,-8.971,0,0.0613,0.0151,0.407,0.095,0.552,102.324,516200,4,28.94587,24
+Sunday Jam,CAN,spotify:track:5bT1i69x7ligvS1lF4zuLR,0.53,0.803,2,-8.496,0,0.0332,0.0953,0.52,0.0568,0.886,117.039,270347,4,51.43026,8
+Sodom,CAN,spotify:track:5uzw1bc32fIo7QCg3iIFwY,0.493,0.55,7,-9.445,1,0.0271,0.31,0.146,0.123,0.0636,100.218,344533,4,62.25933,12
+Aspectacle,CAN,spotify:track:7sBs8yrbc7hkcsqY1VThDR,0.815,0.79,11,-10.525,0,0.0683,0.0404,0.117,0.321,0.809,122.954,352213,4,63.78391,12
+Efs No. 99 Can Can,CAN,spotify:track:2OIPBE1uZiOpklMrTbnjNA,0.436,0.927,0,-6.208,1,0.0394,0.00795,0.894,0.117,0.963,155.048,192973,4,19.46958,13
+Ping Pong,CAN,spotify:track:2hSoOTPwTzXLgtyy8mbpun,0.63,0.228,0,-29.752,1,0.0555,0.069,0.539,0.071,0.639,75.582,22200,3
+Can Be,CAN,spotify:track:3EMIdSj9ATCl75BycFWa5U,0.469,0.753,0,-6.624,1,0.0602,0.000921,0.907,0.262,0.915,155.028,173560,4,26.74497,7
+All Gates Open,CAN,spotify:track:0Vi0ZnIN11Ni2JD4QH2M5i,0.722,0.522,0,-9.482,1,0.0402,0.0203,0.792,0.36,0.655,133.208,497120,4,37.51072,17
+Safe,CAN,spotify:track:0IzA3ALL4hnnpklky45iQX,0.595,0.879,4,-8.979,0,0.057,0.0128,0.478,0.0753,0.571,102.339,518280,4,31.03943,26
+Sunday Jam,CAN,spotify:track:189hkcrho8d7T1tdU7kCGl,0.538,0.804,2,-8.497,0,0.033,0.103,0.464,0.0844,0.898,117.048,267026,4,51.44471,8
+Sodom,CAN,spotify:track:45bSFHXqjDMqAq4Y8Za5jM,0.382,0.56,7,-9.419,1,0.029,0.297,0.536,0.188,0.0606,100.22,344053,4,66.18828,15
+Aspectacle,CAN,spotify:track:3c6C6jLIipHyunJXVs22dW,0.809,0.798,11,-10.482,0,0.0676,0.0377,0.133,0.304,0.81,122.957,349293,4,63.75989,12
+EFS No. 99 "Can Can",CAN,spotify:track:2PK6zePfzAb4cmcNlvgNfd,0.436,0.936,0,-6.162,1,0.0377,0.00672,0.868,0.0728,0.962,155.03,192960,4,22.58978,13
+Ping Pong,CAN,spotify:track:76MAhMQqIcPMUAcMRYlRkh,0.627,0.24,7,-29.655,0,0.0497,0.057,0.778,0.303,0.508,75.675,25320,3
+Can Be,CAN,spotify:track:3HojipVdU12ZR9iu6fcWFj,0.464,0.759,0,-6.65,1,0.0586,0.000958,0.935,0.273,0.903,154.945,173560,4,37.97134,6
+All Gates Open,CAN,spotify:track:6k329AyTkZXTlABEpKAjix,0.722,0.522,0,-9.482,1,0.0402,0.0203,0.792,0.36,0.655,133.208,497120,4,37.51072,17
+Safe,CAN,spotify:track:0TF9bDjNr1axBN4HoJLQtY,0.595,0.879,4,-8.979,0,0.057,0.0128,0.478,0.0753,0.571,102.339,518280,4,31.03943,26
+Sunday Jam,CAN,spotify:track:1IqjhbzDM4wXKnqFOk3zyn,0.538,0.804,2,-8.497,0,0.033,0.103,0.464,0.0844,0.898,117.048,267026,4,51.44471,8
+Sodom,CAN,spotify:track:7pFNTXph35HngmVoqxCHN7,0.382,0.56,7,-9.419,1,0.029,0.297,0.536,0.188,0.0606,100.22,344053,4,66.18828,15
+Aspectacle,CAN,spotify:track:6IBOGmNPa9kWErZuO6FZ9z,0.81,0.794,11,-10.51,0,0.0678,0.0372,0.0993,0.284,0.789,122.975,352906,4,67.5983,11
+EFS No. 99 "Can Can",CAN,spotify:track:2dkyFqYFw1Qg3269v314QQ,0.436,0.936,0,-6.162,1,0.0377,0.00672,0.868,0.0728,0.962,155.03,192960,4,22.58978,13
+Ping Pong,CAN,spotify:track:4jhFq64GKn6PwSLFjBWMo2,0.627,0.24,7,-29.655,0,0.0497,0.057,0.778,0.303,0.508,75.675,25320,3
+Can Be,CAN,spotify:track:1Z5rBhV0jn10KHIhFrECF0,0.464,0.759,0,-6.65,1,0.0586,0.000958,0.935,0.273,0.903,154.945,173560,4,37.97134,6
+All Gates Open,CAN,spotify:track:1fNVjQ8E3CNhTS5pvJGocD,0.722,0.53,0,-9.478,1,0.0402,0.0213,0.72,0.355,0.677,133.704,499200,4,37.49683,17
+Safe,CAN,spotify:track:3ybEdQWHNmHpShsy6UUzix,0.599,0.879,4,-8.965,0,0.0608,0.0151,0.388,0.087,0.55,102.319,516200,4,29.54432,24
+Sunday Jam,CAN,spotify:track:4bogXZLK2loAPtssknAyy9,0.532,0.802,2,-8.494,0,0.0332,0.0916,0.489,0.0571,0.9,117.048,270347,4,51.43105,8
+Sodom,CAN,spotify:track:3IzyubXnz2f5MUYjzPlxRy,0.492,0.551,7,-9.439,1,0.0271,0.309,0.177,0.095,0.0624,100.252,344533,4,62.25926,12
+A Spectacle,CAN,spotify:track:2Pkuu0BTyEV2GkrJkkgCRI,0.813,0.789,11,-10.525,0,0.0685,0.0389,0.139,0.324,0.815,122.95,352213,4,23.27609,13
+EFS No. 99 "CAN CAN",CAN,spotify:track:2SXnvcwHh015mWjX0fUvEM,0.436,0.927,0,-6.2,1,0.0394,0.00838,0.896,0.108,0.963,155.035,192973,4,31.4808,12
+Ping Pong,CAN,spotify:track:5ccr65zNiPmjsW7WZsdmAn,0.63,0.229,7,-29.758,0,0.0572,0.0849,0.508,0.0707,0.688,75.664,22200,3
+Can Be,CAN,spotify:track:4bB7XJNCPYpxYBPtusroQt,0.467,0.755,0,-6.648,1,0.0613,0.000998,0.912,0.262,0.92,155.018,173560,4,26.74585,7
+Serpentine,CAN,spotify:track:41ZojaYq5OFgULKSt2kMMv,0.504,0.823,0,-9.13,1,0.0433,0.646,0.726,0.0889,0.797,131.159,248680,4,37.74331,10
+Pauper's Daughter and I,CAN,spotify:track:7mQ4wC0x0sMF2yV2prJk6C,0.515,0.635,9,-7.547,1,0.0594,0.283,0.00281,0.101,0.832,129.958,361800,4,58.3331,13
+November,CAN,spotify:track:2JfIgUCxvpqXiQuU8rKd80,0.26,0.82,10,-9.707,1,0.0442,0.51,0.899,0.159,0.774,129.121,468880,4,58.73791,21
+Seven Days Awake,CAN,spotify:track:2cHcNpnwqMIqAYJ4Rr8FdF,0.308,0.764,9,-6.749,0,0.0575,0.467,0.741,0.114,0.642,88.74,316160,4,44.75926,12
+Give Me No Roses,CAN,spotify:track:4giqDLUmI5eJTrRLrdd71B,0.739,0.7,0,-9.848,1,0.0313,0.585,0.000979,0.157,0.96,120.234,326787,4,52.54135,12
+Like Inobe God,CAN,spotify:track:6sW007XNOcJxH8OzT5HF9V,0.489,0.742,10,-8.884,1,0.035,0.758,0.00833,0.216,0.935,103.565,378053,4,20.3439,19
+One More Day,CAN,spotify:track:2YxborDBk5jSduVjGLbE7o,0.479,0.822,8,-13.708,1,0.059,0.0215,0.905,0.29,0.861,86.204,119409,4,28.26695,6
+Serpentine,CAN,spotify:track:7GvTYfPQY5Q2Pl557003N7,0.504,0.823,0,-9.13,1,0.0429,0.642,0.73,0.0935,0.789,131.2,248680,4,37.74375,10
+Pauper's Daughter and I,CAN,spotify:track:13mRY9UtFTSeT8O5TH1RWI,0.515,0.636,9,-7.547,1,0.0615,0.287,0.0026,0.103,0.829,130.005,361800,4,42.62909,14
+November,CAN,spotify:track:4wyMSFGhXFNTk2oHhJ9zLN,0.364,0.821,10,-9.707,1,0.0418,0.511,0.904,0.159,0.777,130.618,468880,4,35.20489,21
+Seven Days Awake,CAN,spotify:track:20vA2kPJ786cXYrXpR3aNt,0.32,0.763,9,-6.744,0,0.0542,0.462,0.755,0.115,0.654,89.683,316160,4,33.72946,13
+Give Me No " Roses ",CAN,spotify:track:5RkSg2KRjb3ogb2Dk89SLR,0.739,0.701,0,-9.848,1,0.0312,0.586,0.000916,0.156,0.96,120.306,326787,4,52.54089,12
+Like Inobe God,CAN,spotify:track:04zfliJQuRsfFODIYa5uyn,0.487,0.742,10,-8.87,1,0.0351,0.759,0.00796,0.216,0.93,103.626,378053,4,21.803,19
+One More Day,CAN,spotify:track:14U1GagVEKEoEWchyektvN,0.462,0.822,8,-13.785,1,0.0572,0.0219,0.906,0.283,0.854,86.122,119409,4,28.27124,6
+All Gates Open,CAN,spotify:track:55x6CbnRR5dh9OX2Kbgj44,0.675,0.404,0,-15.228,1,0.0398,0.138,0.826,0.391,0.675,133.94,451600,4,38.31386,17
+Safe,CAN,spotify:track:1LGFl6IadPfDFV19DgT8Oq,0.57,0.741,9,-14.772,0,0.0651,0.122,0.832,0.122,0.66,102.36,508000,4,28.89653,23
+Sunday Jam,CAN,spotify:track:12CeRSbrmSqCZwYBDW3dEw,0.504,0.609,2,-13.731,0,0.0351,0.237,0.91,0.0699,0.888,117.106,260933,4,51.03686,10
+Sodom,CAN,spotify:track:6F02hGNGVhF9vMwn2RAwwY,0.466,0.402,7,-13.853,1,0.0286,0.644,0.854,0.115,0.04,100.148,326133,4,33.15728,15
+Aspectacle,CAN,spotify:track:15nUnF0zGjWR0GHvKg6ZRp,0.753,0.721,9,-15.044,1,0.0588,0.0539,0.723,0.264,0.88,122.97,345267,4,23.70407,13
+Ping Pong,CAN,spotify:track:6A3JWAPFPIB3CyFKYuI4jv,0.527,0.179,7,-33.383,1,0.043,0.546,0.872,0.109,0.521,81.835,21760,3
+EFS No. 99 Can-Can,CAN,spotify:track:1TgxyAL1ozAkxXgZGNvN7m,0.416,0.784,0,-10.934,1,0.0343,0.00511,0.637,0.135,0.961,155.063,190733,4,17.67165,13
+Can Be,CAN,spotify:track:6K8uy2Ubl93i29P4KjeYry,0.445,0.623,0,-12.527,1,0.044,0.00761,0.943,0.169,0.935,155.084,174773,4,38.5926,6
+Serpentine,CAN,spotify:track:6QjSQgrRCNcWk4ntdiQf5W,0.343,0.807,9,-9.363,0,0.0479,0.55,0.624,0.105,0.824,131.885,244067,4,36.64538,10
+Pauper's Daughter And I,CAN,spotify:track:0u1Enh7wGMLDO5aogXg9rJ,0.51,0.631,9,-8.323,1,0.0716,0.407,0.0074,0.108,0.805,130.855,357733,4,40.77732,13
+November,CAN,spotify:track:7sSCN7F9WQom9hQK8eclSW,0.439,0.85,10,-8.799,1,0.046,0.372,0.835,0.129,0.791,131.121,459293,4,43.32593,22
+Seven Days Awake,CAN,spotify:track:4qYN9iqlwDZOeLsFMav6zc,0.213,0.811,9,-8.53,0,0.0741,0.358,0.769,0.126,0.662,89.309,314200,4,48.21912,15
+Give Me No Roses,CAN,spotify:track:5PJuJVcF2aerJ5ZBnkN561,0.74,0.668,0,-11.29,1,0.0352,0.542,0.00033,0.35,0.945,120.882,321800,4,25.42564,11
+Like Inobe God,CAN,spotify:track:5ndCZNRRqtOGNbzyKxrCXM,0.484,0.808,10,-8.482,1,0.0372,0.73,0.00174,0.114,0.935,104.024,350373,4,59.68693,14
+One More Day,CAN,spotify:track:2hdhKdXqvqUe0HuxiZn76M,0.354,0.844,10,-13.491,1,0.0528,0.0189,0.852,0.0922,0.862,96.502,98800,4,61.32548,5
+Serpentine,CAN,spotify:track:2ZV4ZJrIO6LxmDSfBIMQZf,0.504,0.823,9,-9.13,0,0.0436,0.641,0.723,0.0872,0.787,131.195,248680,4,37.74323,10
+Pauper's Daughter And I,CAN,spotify:track:4MJolb55P4KptEtSOedHTZ,0.515,0.637,9,-7.547,1,0.0616,0.284,0.00302,0.101,0.843,130.0,361800,4,58.3337,12
+November,CAN,spotify:track:42R4A8JAXfzBGbaNDqPT2v,0.365,0.824,10,-9.703,1,0.042,0.501,0.899,0.159,0.769,130.639,468880,4,35.20421,21
+Seven Days Awake,CAN,spotify:track:4JKeYM6VJxIMVQpWkwPpAM,0.298,0.763,9,-6.748,0,0.0549,0.464,0.742,0.115,0.653,89.812,316160,4,33.7297,14
+Give Me No "Roses",CAN,spotify:track:1l3g7MYxu3qelcRa2y0O46,0.739,0.697,0,-9.847,1,0.0313,0.576,0.00106,0.157,0.961,120.3,326787,4,86.58453,11
+Like Inobe God,CAN,spotify:track:5ZBW05EnziYWkoAOKbjOln,0.49,0.742,10,-8.875,1,0.0348,0.757,0.0085,0.217,0.94,103.564,378053,4,20.34381,19
+One More Day,CAN,spotify:track:6RPsickzhylYmgf4DBUf9S,0.477,0.824,8,-13.717,1,0.0591,0.0226,0.909,0.29,0.849,86.116,119409,4,28.26685,6
+Close Circuit Connection,Fingerprintz,spotify:track:6Z9o60DeBetcY49jaTx1LG,0.235,0.813,0,-7.94,1,0.13,0.00563,0.0802,0.284,0.487,173.894,179487,4,25.60817,8
+Fingerprince,Fingerprintz,spotify:track:6AdvHw0bBkcq0FafR4JAdb,0.566,0.721,6,-9.661,0,0.0485,0.0307,0.019,0.135,0.732,126.527,186823,4,26.54229,8

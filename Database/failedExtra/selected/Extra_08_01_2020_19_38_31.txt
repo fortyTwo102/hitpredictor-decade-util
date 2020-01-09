@@ -1,0 +1,35 @@
+Fetching ['﻿Quanto costa morire', 'Francesco De Masi', 'spotify:track:6EWgQkbpK6QOPqGCdMFYCX'] ....Fetched!
+['﻿Quanto costa morire', 'Francesco De Masi', 'spotify:track:6EWgQkbpK6QOPqGCdMFYCX', 0.516, 0.433, 4, -15.145, 0, 0.035, 0.269, 0, 0.43, 0.741, 103.009, 152927, 4, 32.26773, 10]
+Fetching ['Una colt bruciata', 'Francesco De Masi', 'spotify:track:3qJZ8AkwxkQW1Sn4SqGWn3'] ....Fetched!
+['Una colt bruciata', 'Francesco De Masi', 'spotify:track:3qJZ8AkwxkQW1Sn4SqGWn3', 0.286, 0.12, 2, -22.112, 0, 0.0387, 0.681, 0.902, 0.126, 0.105, 118.177, 159475, 4, 31.45925, 6]
+Fetching ['Deserto in controluce', 'Francesco De Masi', 'spotify:track:3peWupJvwAqGyPpDri9JVh'] ....Fetched!
+['Deserto in controluce', 'Francesco De Masi', 'spotify:track:3peWupJvwAqGyPpDri9JVh', 0.173, 0.241, 0, -19.523, 1, 0.033, 0.848, 0.965, 0.114, 0.0806, 69.344, 48763, 4, 39.87319, 3]
+Fetching ['Una ballata per i disertori', 'Francesco De Masi', 'spotify:track:7GkZjSv1BXK9aNIJybghV4'] ....Fetched!
+['Una ballata per i disertori', 'Francesco De Masi', 'spotify:track:7GkZjSv1BXK9aNIJybghV4', 0.219, 0.0568, 0, -20.735, 1, 0.0325, 0.753, 0.975, 0.114, 0.11, 89.996, 55450, 1, 44.72526, 3]
+Fetching ["C'e' sempre una vita", 'Francesco De Masi', 'spotify:track:5e9czFFb45l4y7kIQbn0gR'] ....Fetched!
+["C'e' sempre una vita", 'Francesco De Masi', 'spotify:track:5e9czFFb45l4y7kIQbn0gR', 0.132, 0.026, 0, -32.598, 1, 0.0291, 0.956, 0.771, 0.115, 0.127, 81.2, 136813, 4, 26.1801, 6]
+Fetching ['Anche la morte ha un volto', 'Francesco De Masi', 'spotify:track:540ArPhV0Xw2OpRT8c8TM3'] ....Fetched!
+['Anche la morte ha un volto', 'Francesco De Masi', 'spotify:track:540ArPhV0Xw2OpRT8c8TM3', 0.0839, 0.0434, 8, -28.082, 1, 0.0385, 0.973, 0.903, 0.102, 0.053, 81.691, 154646, 1, 62.7583, 8]
+Fetching ['Boomerang', 'Francesco De Masi', 'spotify:track:1XgSpn8VjVakxnaVALzSGN'] ....Fetched!
+['Boomerang', 'Francesco De Masi', 'spotify:track:1XgSpn8VjVakxnaVALzSGN', 0.0839, 0.0434, 8, -28.082, 1, 0.0385, 0.973, 0.903, 0.102, 0.053, 81.691, 154646, 1, 62.7583, 8]
+Fetching ['Vendetta coraggio e amore', 'Francesco De Masi', 'spotify:track:3MwAH9CJqyES8Wi7Dwa11W'] ....Error in fetching spotify:track:3MwAH9CJqyES8Wi7Dwa11W
+Fetched!
+['Vendetta coraggio e amore', 'Francesco De Masi', 'spotify:track:3MwAH9CJqyES8Wi7Dwa11W', 0.391, 0.152, 1, -26.421, 1, 0.0454, 0.96, 0.658, 0.12, 0, 125.009, 21642, 4]
+Fetching ['Spara forte', 'Francesco De Masi', 'spotify:track:4XFwRbiA1c3SyPty2Th6mD'] ....Error in fetching spotify:track:4XFwRbiA1c3SyPty2Th6mD
+Fetched!
+['Spara forte', 'Francesco De Masi', 'spotify:track:4XFwRbiA1c3SyPty2Th6mD', 0.269, 0.359, 0, -17.005, 0, 0.04, 0.00963, 0.835, 0.159, 0.0392, 112.901, 25729, 4]
+Fetching ['Find a Man', 'Francesco De Masi', 'spotify:track:6beVYer4kHxsUX16Jpjs6X'] ....Fetched!
+['Find a Man', 'Francesco De Masi', 'spotify:track:6beVYer4kHxsUX16Jpjs6X', 0.426, 0.729, 10, -7.818, 1, 0.0686, 0.4, 7.74e-06, 0.151, 0.62, 109.192, 147440, 4, 28.95557, 9]
+Fetching ['Suspence al villaggio', 'Francesco De Masi', 'spotify:track:33ZRLpnN5ARvvbg30Cxsx3'] ....Fetched!
+['Suspence al villaggio', 'Francesco De Masi', 'spotify:track:33ZRLpnN5ARvvbg30Cxsx3', 0.517, 0.768, 2, -13.066, 1, 0.0749, 0.0103, 0.859, 0.111, 0.155, 105.68, 82000, 3, 69.79683, 3]
+Fetching ['In memoria', 'Francesco De Masi', 'spotify:track:1iHpzKYqKyhrSaoyOBsPie'] ....Fetched!
+['In memoria', 'Francesco De Masi', 'spotify:track:1iHpzKYqKyhrSaoyOBsPie', 0.119, 0.0811, 8, -19.872, 1, 0.0388, 0.988, 0.88, 0.0903, 0.0451, 59.958, 224453, 4, 55.03916, 10]
+Fetching ['Ranch "el senor"', 'Francesco De Masi', 'spotify:track:4La7Y0NgLXBAn06ujSetxm'] ....Error in fetching spotify:track:4La7Y0NgLXBAn06ujSetxm
+Fetched!
+['Ranch "el senor"', 'Francesco De Masi', 'spotify:track:4La7Y0NgLXBAn06ujSetxm', 0.45, 0.133, 9, -16.264, 0, 0.0302, 0.949, 0.892, 0.116, 0.118, 60.123, 106960, 4]
+Fetching ['Mamma oh mamma', 'Francesco De Masi', 'spotify:track:23OVF6q40mrU6T3BzBdnDl'] ....Fetched!
+['Mamma oh mamma', 'Francesco De Masi', 'spotify:track:23OVF6q40mrU6T3BzBdnDl', 0.197, 0.207, 5, -17.331, 1, 0.0411, 0.964, 0.865, 0.233, 0.0373, 125.86, 70200, 3, 45.37668, 3]
+Fetching ['Emily e Johnny', 'Francesco De Masi', 'spotify:track:0ypn6cDvhO8CjM6oLUGcNC'] ....Fetched!
+['Emily e Johnny', 'Francesco De Masi', 'spotify:track:0ypn6cDvhO8CjM6oLUGcNC', 0.196, 0.262, 6, -13.934, 0, 0.0306, 0.796, 0.828, 0.106, 0.0564, 92.062, 156173, 3, 29.63959, 7]
+Fetching ['La medaglia', 'Francesco De Masi', 'spotify:track:1ediiTkeXL7SVgEzyUc2z4'] ....Fetched!
+['La medaglia', 'Francesco De Masi', 'spotify:track:1ediiTkeXL7SVgEzyUc2z4', 0.222, 0.153, 0, -17.693, 1, 0.0399, 0.908, 0.738, 0.147, 0.0606, 91.31, 117573, 3, 41.11602, 6]

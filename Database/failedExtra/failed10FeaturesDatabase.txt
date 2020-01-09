@@ -1,0 +1,4 @@
+Track,Artist,URI,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,chorusHit,sections
+﻿"Sulphur, Charcoal and Saltpetre",Lord Vicar
+Descent,Lord Vicar,spotify:track:7ybW5rjoDUUiF6aHUcv4XH,0.267,0.65,8,-5.927,1,0.0309,0.000589,0.375,0.0792,0.0692,140.641,488720,4,35.83358,19
+World Encircled,Lord Vicar,spotify:track:3zVDMA52yIJulLz8oZih28,0.404,0.754,1,-6.144,1,0.0315,5.93e-06,0.304,0.101,0.0758,63.748,396373,4,31.5769,11

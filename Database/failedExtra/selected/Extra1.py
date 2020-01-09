@@ -10,11 +10,9 @@ from datetime import datetime
 uniqueBucket = set() # To remove duplicate tracks all over playlists
 
 now = datetime.now() 
-filename = __file__ + now.strftime("_%d_%m_%Y_%H_%M_%S") + '.txt'
+filename = 'Extra1' + now.strftime("_%d_%m_%Y_%H_%M_%S") + '.txt'
 print("date and time =", filename)	
 log = open(filename,'w+')
-
-Extra = open('findUnfetchedOP.csv', 'w', encoding = 'utf-8')
 
 
 def getSongURI(trackName,artistName):
@@ -112,26 +110,31 @@ def getSongFeatures(trackID):
 		
 	return data
 
-decades = ['10']#,'70','80','90','00','10']
+decades = ['70']#[,'70','80','90','00','10']
 
 
 for decade in decades:
 
-	count = 0
+	count = 526
 
-	filename1 = 'findUnfetched.csv'
-	filename2 = 'unFetchedFeaturesDatabase.csv'
+	filename1 = 'track-artist-uri-' + decade + '-cleaned.csv'
+	filename2 = 'failed' + decade + 'FeaturesDatabase.txt'
 
-	with open(filename1, encoding='utf-8') as fp1, open(filename2,'a',newline="", encoding='utf-8') as fp2:
+	with open(filename1, encoding='latin-1') as fp1, open(filename2,'a',newline="", encoding='latin-1') as fp2:
 
 		reader = csv.reader(fp1)
-		writer = csv.writer(fp2)
+		#writer = csv.writer(fp2)
 
 		header = ['Track','Artist','URI','danceability','energy','key',\
 		'loudness','mode','speechiness','acousticness','instrumentalness',\
 		'liveness','valence','tempo','duration_ms','time_signature','chorusHit','sections']
 
 		#print(writer.writerow(header), file=log)
+
+		#print(",".join(header), file=fp2)
+
+		for _ in range(count):
+			next(reader)
 
 		for row in reader:
 
@@ -162,16 +165,15 @@ for decade in decades:
 				
 				fetchedDetails = [str(x) for x in fetchedDetails]
 
-				print(",".join(fetchedDetails), file=findUnfetchedOP)
+				print(",".join(fetchedDetails), file=fp2)
 
-				print(writer.writerow(fetchedDetails), file=log)
+				#print(writer.writerow(fetchedDetails), file=log)
 
 			else:
 			
 				print(row, "Not Found!", file=log)	
 			
 log.close()
-extra.close()
 print("Extras are DONE!")			
 
 
