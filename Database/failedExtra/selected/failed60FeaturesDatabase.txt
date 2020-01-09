@@ -2383,3 +2383,196 @@ The All Golden,Van Dyke Parks,spotify:track:1NBgBf7GBirqUtazLg75FB,0.26,0.599,6,
 Van Dyke Parks,Van Dyke Parks,spotify:track:4WzA3mjO1ANNV9xWOl2YBJ,0.218,0.619,0,-20.656,1,0.131,0.412,0.0036,0.222,0.0629,120.817,58427,3,22.13153,4
 Public Domain,Van Dyke Parks,spotify:track:6b3xIH5kU9icrHpheDP2fu,0.385,0.231,0,-18.544,1,0.0378,0.847,0.0018,0.619,0.413,129.391,153533,3,39.81286,9
 Donovan's Colours,Van Dyke Parks,spotify:track:0FXomhOvRDHGlL2qTxouLD,0.289,0.451,7,-14.781,1,0.0334,0.847,0.872,0.303,0.59,90.825,221573,4,25.75341,11
+The Attic,Van Dyke Parks,spotify:track:0Wf65wgKEtjIDaODWALLge,0.319,0.339,4,-14.585,1,0.0431,0.851,0.000128,0.295,0.49,161.871,179667,4,29.82873,10
+Down Laurel Canyon,Van Dyke Parks,spotify:track:2YbfQf8C5xa0LYmCZ8FoIJ,0.482,0.419,9,-13.546,1,0.0401,0.797,0,0.633,0.731,136.0,79227,4,47.62602,4
+By the People,Van Dyke Parks,spotify:track:0wnQrPYhGQm5VHmJXoxmbT,0.245,0.301,2,-15.627,1,0.0471,0.891,0.000638,0.652,0.109,63.428,352893,4,33.96592,18
+Pot Pourri,Van Dyke Parks,spotify:track:21s547xZ006QpNmLqhpC42,0.338,0.00661,3,-37.2,1,0.0398,0.897,0.00881,0.111,0.15,79.2,67507,1,54.4442,3
+Vine Street,Van Dyke Parks,spotify:track:6jOpd1Rv2yclqWdNuUkd6v,0.244,0.268,7,-17.141,1,0.0386,0.771,0.000294,0.211,0.222,90.448,219987,4,71.83917,9
+Palm Desert,Van Dyke Parks,spotify:track:7Jy7oMYIikuN44jXqR6L6a,0.366,0.411,10,-11.771,1,0.033,0.769,2.68e-05,0.159,0.376,116.311,190733,4,38.74317,9
+Widow's Walk,Van Dyke Parks,spotify:track:6lbRrO98DmbOhjvu735qD5,0.331,0.364,2,-12.359,0,0.0307,0.736,5.27e-06,0.298,0.372,90.08,192773,4,36.44931,11
+Up Laurel Canyon,Van Dyke Parks,spotify:track:7z1mIJ7UHUPLotYl9bV7u0,0.58,0.58,4,-10.75,1,0.0558,0.855,0,0.177,0.668,136.158,30333,4
+The All Golden,Van Dyke Parks,spotify:track:4nIreyxRjK5JONE3qNRgxj,0.265,0.598,11,-12.252,0,0.0575,0.801,5.37e-05,0.245,0.32,90.092,226400,4,62.39842,10
+Van Dyke Parks,Van Dyke Parks,spotify:track:2OAOhRg9YHlv1xLjW8Nboj,0.212,0.606,0,-20.652,1,0.0925,0.411,0.00406,0.213,0.0686,89.879,58427,4,40.96801,3
+Public Domain,Van Dyke Parks,spotify:track:19mRpTehvd8Rl14uWH4yOA,0.317,0.232,0,-18.544,1,0.0394,0.849,0.00267,0.619,0.414,89.02,153533,4,16.56196,10
+Donovan's Colours,Van Dyke Parks,spotify:track:3IbrYc5Vfgha6GbCn4gDD3,0.353,0.448,7,-14.782,1,0.0366,0.846,0.869,0.299,0.561,114.118,221573,4,31.09167,12
+The Attic,Van Dyke Parks,spotify:track:4BvHvIsXSCMuu6l3MIffY0,0.336,0.34,4,-14.585,1,0.0434,0.85,0.000128,0.293,0.494,161.765,179667,4,29.82916,10
+Overture: Over The Rainbow/Never Will I Marry/What Now, My Love/Liza (All The Clouds'll Roll Away)/The Travelin' Life/Smile/The Man That Got Away - Live At The London Palladium/1964,Judy Garland,spotify:track:2C1xirIAgyY8Pus1e6ij7c,0.157,0.677,8,-12.57,1,0.124,0.795,0.824,0.757,0.227,86.554,192347,4,20.10399,10
+Once In A Lifetime - Live At The London Palladium/1964,Judy Garland,spotify:track:2OyuNrDEaoTsfcTC8E7Is3,0.161,0.444,1,-13.415,1,0.0636,0.855,8.54e-06,0.766,0.355,70.603,172267,3,28.73001,9
+Just In Time - Live At The London Palladium/1964,Judy Garland,spotify:track:75HDX5iG5jwGBPtrzKiioq,0.315,0.388,8,-15.329,1,0.15,0.813,0,0.928,0.203,100.636,272867,4,49.92081,11
+The Travelin' Life - Live At The London Palladium/1964,Liza Minnelli,spotify:track:7x43bybKWrBxNbCa1sv50A,0.41,0.576,6,-12.354,0,0.178,0.874,0,0.847,0.483,102.914,172800,4,60.07058,9
+Gypsy In My Soul - Live At The London Palladium/1964,Liza Minnelli,spotify:track:6hcdIVq6JM2VscsDASdSlv,0.278,0.348,0,-14.003,1,0.0837,0.855,1.03e-06,0.975,0.503,94.502,185480,4,65.85723,8
+Hello, Dolly! - Live At The London Palladium/1964,Judy Garland,spotify:track:3yTfJ30itTgWvZwTMpv3cc,0.266,0.685,5,-12.708,1,0.247,0.786,0,0.972,0.325,99.038,156549,4,45.82613,6
+Together (Wherever We Go) - Live At The London Palladium/1964,Judy Garland,spotify:track:2y8FUgN5jSswSgjJaQlBGD,0.406,0.892,0,-12.821,1,0.643,0.823,0,0.968,0.703,129.078,71507,4,52.80326,3
+Medley: We Could Make Such Beautiful Music/Bob White (Whatcha Gonna Swing Tonight?) - Live At The London Palladium/1964,Judy Garland,spotify:track:47b8RXYHFpDlBU88dsTkTf,0.334,0.481,7,-12.693,1,0.172,0.904,0,0.79,0.268,121.271,105067,4,30.48011,6
+Medley: Hooray For Love/ After You've Gone/By Myself/ 'S Wonderful/ How About You/Lover, Come Back To Me/You And The Night And The Music/It All Depends On You - Live At The London Palladium/1964,Judy Garland,spotify:track:1nAaOFF2NJQ34IrTpP0GYR,0.342,0.687,0,-10.969,0,0.214,0.799,0,0.973,0.425,101.436,280067,4,69.50858,12
+Who's Sorry Now? - Live At The London Palladium/1964,Liza Minnelli,spotify:track:2GGSkLwvf7gmPQOK8HwCZY,0.206,0.499,4,-13.719,1,0.0994,0.822,0,0.921,0.355,83.393,201373,4,21.51183,9
+Smile - Live At The London Palladium/1964,Judy Garland,spotify:track:2cJqoLHpe680E891p3nfwU,0.239,0.18,10,-17.262,1,0.0532,0.907,0,0.786,0.126,166.947,188973,5,42.96633,9
+How Could You Believe Me When I Said I Love You When You Know I've Been A Liar All My Life - Live At The London Palladium/1964,Liza Minnelli,spotify:track:2qGBx3vzA42SJ3IRSy79WW,0.443,0.876,0,-11.44,1,0.458,0.772,0,0.978,0.229,133.783,208893,4,82.9055,7
+What Now My Love - Live At The London Palladium/1964,Judy Garland,spotify:track:6YCl0V2IVHSHx8Ds6mxckR,0.254,0.589,5,-11.707,1,0.0733,0.816,1.77e-06,0.979,0.339,141.039,231760,3,52.10076,11
+Make Someone Happy - Live At The London Palladium/1964,Judy Garland,spotify:track:5lkPpzItdpgK2HYQeKQSBd,0.205,0.356,0,-16.218,0,0.0777,0.813,0,0.935,0.271,85.933,143293,4,69.46642,4
+Pass That Peace Pipe - Live At The London Palladium/1964,Liza Minnelli,spotify:track:0jCnPkJZjQR3Zb1JkFP1U9,0.605,0.797,3,-11.241,0,0.426,0.732,0,0.945,0.244,106.994,146280,4,118.2042,4
+The Man That Got Away - Live At The London Palladium/1964,Judy Garland,spotify:track:4pNRUVwB8XTVYPCIDGYxIX,0.247,0.358,0,-13.289,1,0.0484,0.842,0,0.957,0.187,113.094,256348,4,44.26908,12
+The Music That Makes Me Dance - Live At The London Palladium/1964,Judy Garland,spotify:track:3ys43CxK8jXhXrLRMIKg4r,0.255,0.308,7,-15.827,1,0.0593,0.679,0,0.989,0.294,85.404,165651,5,29.64021,7
+Medley: When The Saints Go Marching In/Brotherhood Of Man - Live At The London Palladium/1964,Judy Garland,spotify:track:4YiiPiCFZPJZa6OULmrWrb,0.483,0.791,7,-10.352,1,0.132,0.699,0,0.986,0.657,107.523,72240,4,67.88366,3
+He's Got The Whole World In His Hands - Live At The London Palladium/1964,Judy Garland,spotify:track:0v8uHmDYAsnR6Vj2h5m82x,0.53,0.597,11,-11.597,1,0.0825,0.808,0,0.986,0.474,109.29,114507,4,43.33929,5
+Never Will I Marry - Live At The London Palladium/1964,Judy Garland,spotify:track:7oNGslFm9xRdmmV52uFrkb,0.16,0.562,4,-12.437,1,0.0899,0.592,0,0.986,0.278,79.61,219627,4,16.88248,9
+Encores: Swanee/Chicago/Over The Rainbow/San Francisco - Live At The London Palladium/1964,Judy Garland,spotify:track:0DCetHSKIupxeF3X1bTMge,0.263,0.832,0,-10.315,0,0.261,0.701,0,0.973,0.468,148.822,144547,4,28.8021,9
+Chicago - Live At The London Palladium/1964,Judy Garland,spotify:track:40e9ZOH2XUR513lcTvkWD0,0.321,0.643,0,-11.794,1,0.127,0.756,0,0.92,0.449,97.557,227509,4,19.73058,10
+Over The Rainbow - Live At The London Palladium/1964,Judy Garland,spotify:track:6isNy9zorXBBYutX3d4Hte,0.214,0.345,8,-14.988,1,0.0672,0.842,9.2e-06,0.952,0.23,129.422,242627,5,36.50924,12
+San Francisco - Live At The London Palladium/1964,Judy Garland,spotify:track:5te0hFIX2CNANAhT6DvgFB,0.322,0.595,7,-12.307,1,0.148,0.77,0,0.461,0.365,99.574,249227,4,29.28568,11
+Yes, Indeed - Live,Judy Garland,spotify:track:2r24YcRidxAL4RmMwODSaA,0.422,0.607,8,-6.817,1,0.402,0.806,0,0.916,0.628,179.422,235093,4,43.08019,13
+"Judy Sings Lena Sings Judy" Medley - Live,Judy Garland,spotify:track:4QhTbA4ckL1ZoR7LzaKafN,0.364,0.634,5,-8.316,0,0.382,0.793,0,0.809,0.348,77.208,317133,4,39.30363,12
+Porgy And Bess Medley - Live,Judy Garland,spotify:track:6tBuLQ31qSnyN4p0GV0Grb,0.223,0.284,2,-12.255,1,0.0665,0.941,0,0.743,0.249,158.666,302733,5,34.79754,14
+Let Me Entertain You / Two Lost Souls - Live,Judy Garland,spotify:track:1Qn8GP0pp0T2NakL3ITOOO,0.497,0.277,7,-10.256,0,0.162,0.609,0.000178,0.702,0.304,109.026,321133,4,26.86826,18
+Consider Yourself - Live,Judy Garland,spotify:track:2aqxD2TJOcYR4BW0wkxMIg,0.592,0.743,9,-10.495,0,0.936,0.768,0,0.684,0.811,110.81,146200,4,86.95777,5
+You're So Right For Me - Live,Judy Garland,spotify:track:6rHquGXIzGSw2Bb8ewJ0GG,0.41,0.592,2,-10.396,0,0.537,0.587,0,0.725,0.533,93.95,269267,3,30.42883,12
+Glenn Miller Medley - Live,Judy Garland,spotify:track:6g8ZxmOyAio4uHJa2vwqc6,0.378,0.682,5,-7.964,0,0.555,0.925,1.07e-06,0.682,0.47,72.673,394333,4,14.03378,12
+I've Got My Love To Keep Me Warm / Don't Dream Of Anybody But Me / April In Paris - Live,Judy Garland,spotify:track:2UyjealnrjKEukv9osHeyW,0.37,0.738,0,-7.619,0,0.242,0.688,2.33e-06,0.956,0.498,129.01,346573,4,128.4097,8
+"Hooray For Love" Medley - Live,Judy Garland,spotify:track:2yIK9GgvS0MOENRTPiAdeu,0.5,0.361,7,-9.665,0,0.119,0.626,0,0.922,0.512,124.871,293067,4,26.27319,13
+This Could Be the Start of Something,Judy Garland,spotify:track:5lDd3Nwe6MC1RSHtRw8FhC,0.493,0.486,3,-10.451,1,0.0528,0.67,0,0.318,0.8,109.493,131227,4,38.1139,3
+I Love You,Judy Garland,spotify:track:7n4FBE92xO164X3d4bNK6W,0.208,0.452,10,-11.609,1,0.0365,0.706,8.46e-06,0.969,0.283,99.051,181493,4,20.14739,9
+Medley: Swing Low, Sweet Chariot / He's Got the Whole World In His Hands,Judy Garland,spotify:track:7gJA1Rpvq6pkrTumWCKWL0,0.374,0.42,9,-12.334,1,0.0837,0.697,0,0.943,0.479,100.121,170907,4,78.02385,5
+Poor Butterfly,Judy Garland,spotify:track:4rugNdIpUmb6bhypu3CbVU,0.303,0.259,0,-15.515,1,0.0535,0.893,0.000677,0.979,0.201,164.13,248160,3,132.43542,9
+Steppin' Out With My Baby,Judy Garland,spotify:track:42hAMCk1kC3POHhBz1B493,0.444,0.672,8,-8.798,1,0.405,0.77,0,0.967,0.952,203.88,88533,4,30.78014,6
+When the Sun Comes Out,Judy Garland,spotify:track:5NQU6tbFMbSSHrxuwuQ2n6,0.235,0.415,5,-12.586,1,0.0731,0.88,4.28e-06,0.937,0.468,36.041,209667,4,30.02407,10
+Make Someone Happy,Judy Garland,spotify:track:1DraMcxnJgflz1VHoakTVF,0.203,0.322,6,-12.024,0,0.0438,0.84,2.59e-06,0.771,0.131,95.674,133853,4,22.60246,7
+Time After Time,Judy Garland,spotify:track:2hWBAy3dWu3COzT4y9Wf5m,0.258,0.306,6,-13.085,1,0.0401,0.829,0.00492,0.931,0.467,181.813,164320,4,33.24524,9
+A Lot of Livin' to Do,Judy Garland,spotify:track:1FPLYEN4jCib019URYUyzH,0.424,0.52,0,-10.963,1,0.267,0.724,0,0.646,0.722,141.158,165013,3,26.48001,8
+Don't Ever Leave Me,Judy Garland,spotify:track:4dukHxrkjTx22gFSNvRwvz,0.35,0.143,8,-14.114,1,0.0517,0.982,0.00505,0.825,0.352,102.576,83493,1,49.82474,4
+Lorna,Judy Garland,spotify:track:0uptwv03Hlv4nWFb9VSux2,0.191,0.238,0,-10.913,0,0.0288,0.805,0,0.817,0.135,93.132,169600,1,36.22889,10
+It's a Good Day,Judy Garland,spotify:track:1LVhWirIHAPY6Wd1SIV3to,0.426,0.575,4,-10.223,1,0.415,0.641,0,0.657,0.383,153.396,131587,4,60.22602,6
+World War I Medley: There's a Long Trail A-Winding / Keep the Home Fires Burning / Till the Boys Come Home / Give My Regards to Broadway / Dear Little Boy of Mine / My Buddy / Oh! How I Hate to Get Up in the Morning / Over There / You're a Grand Old Flag,Judy Garland,spotify:track:07emZtfM6L426IFUcthse4,0.345,0.414,10,-12.13,1,0.142,0.846,0,0.688,0.325,138.467,675093,4,64.94994,20
+America the Beautiful,Judy Garland,spotify:track:7LTIVaZRBr6FZM1yv8ebMt,0.252,0.374,10,-9.653,1,0.0337,0.865,0,0.96,0.313,84.052,192920,3,44.62365,7
+Seventy-Six Trombones,Judy Garland,spotify:track:5osI2dhhSoUeOJPrACMvhr,0.55,0.687,2,-6.368,0,0.148,0.765,0.000259,0.84,0.888,129.796,210040,4,21.40031,11
+Suppertime,Judy Garland,spotify:track:3Rf8UDyGfQ1nFahYHW7oDw,0.168,0.365,5,-11.993,1,0.0362,0.702,0.00242,0.971,0.197,162.059,200587,5,39.16362,10
+I'm On My Way,Judy Garland,spotify:track:5dLTJREMAvRGDKq9sJSe2p,0.296,0.543,3,-9.248,1,0.151,0.921,0,0.933,0.497,112.805,175493,4,30.25337,9
+Great Day,Judy Garland,spotify:track:4Vc3gIS8hI2UgLZHwrFRom,0.311,0.826,7,-8.866,1,0.261,0.72,0,0.464,0.334,106.587,245587,3,44.77975,7
+I Could Go On Singin' (Till The Cows Come Home),Judy Garland,spotify:track:42a5iaQKTJJLOQye1rHRlP,0.308,0.41,7,-11.559,0,0.0381,0.92,0.00263,0.0726,0.267,85.078,144267,4,23.75357,7
+Overture Medley,Mort Lindsay And Orchestra,spotify:track:2NUjKLnYoBhaE96Ogd55Bm,0.34,0.436,10,-9.194,1,0.0365,0.828,0.362,0.0781,0.232,78.821,139933,4,64.27601,5
+Hello Bluebird,Judy Garland,spotify:track:1FMCxSQBiH1GeFWiDLylH9,0.309,0.351,0,-9.805,0,0.057,0.899,3.03e-06,0.681,0.273,90.295,251427,4,67.79938,11
+I Am The Monarch Of The Sea,Judy Garland,spotify:track:7JboUDEq6D1abGzBHFxoR9,0.528,0.425,5,-14.394,1,0.422,0.939,0,0.924,0.776,84.309,101733,4,33.10591,6
+It Never Was You,Judy Garland,spotify:track:3LkJfEdfJfCiNIXoYA05eH,0.295,0.0779,10,-19.523,1,0.0461,0.982,1.33e-05,0.119,0.0641,94.271,222467,3,30.37101,13
+By Myself - 1995 Digital Remaster,Judy Garland,spotify:track:59HhcuQwHwg3X6XVQ5D0uy,0.418,0.323,7,-13.841,0,0.0574,0.887,0.00168,0.918,0.249,118.885,273133,4,34.40911,11
+Helicopter Ride,Mort Lindsay And Orchestra,spotify:track:0IG2PWx3xtqLYHdpk7MZHl,0.407,0.431,1,-11.569,1,0.0268,0.725,0.831,0.207,0.267,80.238,120040,4,49.36557,7
+Interlude - Matt's Dilemma,Mort Lindsay And Orchestra,spotify:track:2Wfr5vRfbSPOPq0b9Foh6K,0.131,0.295,11,-15.707,1,0.0413,0.864,1.59e-06,0.112,0.106,177.602,74400,3,37.00738,4
+I Could Go On Singing (Till The Cows Come Home),Judy Garland,spotify:track:4L6ESJK5pTUL8Apb84M3E3,0.314,0.318,10,-14.105,1,0.0432,0.907,6.65e-05,0.278,0.23,86.6,300160,4,21.86785,14
+I Left My Heart In San Francisco - Live,Judy Garland,spotify:track:76yEHxA6pBQ8ACjzpXI5jN,0.331,0.626,0,-8.164,1,0.147,0.965,0.0395,0.768,0.48,137.201,73000,4,27.57906,5
+Shenandoah - Live,Judy Garland,spotify:track:3x7NkRYWYoBjzdQPkJvID0,0.205,0.279,7,-12.974,1,0.0844,0.943,0.000468,0.855,0.285,168.451,228040,3,43.18889,10
+Lost In The Stars - Live,Judy Garland,spotify:track:5cXLGtjsCeSyZ7xX4m1Lw2,0.189,0.33,1,-9.043,1,0.037,0.962,1.62e-05,0.748,0.108,86.947,233493,3,60.94111,10
+The Last Dance - Live,Judy Garland,spotify:track:1ZTJCXynSOVLzQp25Qe1md,0.272,0.505,4,-8.609,0,0.0467,0.692,8.18e-05,0.948,0.231,80.129,261307,4,29.33348,12
+You're So Right For Me With Mickey Rooney - Live,Judy Garland,spotify:track:0eOvjLslezyaQJPiZYTymN,0.468,0.592,5,-10.375,1,0.457,0.567,0,0.712,0.541,83.65,269267,4,47.63116,12
+Judy Sings Lena Sings Judy: Honeysuckle Rose / Meet Me In St. Louis / Zing Went The Strings Of My Heart / it's All RIght With Me / The Trolley Song - Live,Judy Garland,spotify:track:2Relsvp11sX26OdSdFr2H3,0.338,0.635,8,-8.331,1,0.367,0.783,0,0.83,0.349,45.756,317133,4,58.83798,11
+What'll I Do - Live,Judy Garland,spotify:track:50o9x5eG0I0jJ8NCZJ6LSW,0.295,0.141,7,-15.73,1,0.0647,0.989,0.000314,0.76,0.264,170.995,103333,1,66.57849,4
+When Your Lover Has Gone - Live,Judy Garland,spotify:track:5C7SJumTtYYfliUBSIeV2X,0.296,0.261,0,-13.328,0,0.0773,0.93,0.000117,0.961,0.0994,124.212,200267,4,48.45543,8
+Yes, Indeed - Live,Judy Garland,spotify:track:5xGJnlUjva82XYEeQXYAXR,0.427,0.599,8,-6.797,1,0.408,0.819,0,0.909,0.658,178.987,235093,4,43.20309,12
+That Old Feeling - Live,Judy Garland,spotify:track:1qts25rV6MIoPdGx4OZhdF,0.13,0.374,9,-9.477,0,0.0332,0.848,0.000137,0.961,0.101,83.108,160333,4,19.95911,7
+Overture: The Trolley Song/Over The Rainbow/The Man That Got Away (Medley) - Live At Carnegie Hall/1961,Judy Garland,spotify:track:0QCemU4qZCEpbOfkW8hMEg,0.222,0.439,5,-17.338,0,0.132,0.271,0.0347,0.701,0.314,74.888,346600,4,23.99341,15
+When You're Smiling (The Whole World Smiles With You) - Live At Carnegie Hall/1961,Judy Garland,spotify:track:2qSwhlJEVzAlphXC79x9Oh,0.318,0.266,7,-12.685,0,0.0459,0.701,0,0.73,0.418,82.151,204667,4,29.25626,8
+Medley: Almost Like Being In Love/This Can't Be Love - Live At Carnegie Hall/1961,Judy Garland,spotify:track:6aZUA16q5R7Kz8jr55aghG,0.401,0.493,1,-12.384,1,0.541,0.743,0,0.675,0.362,80.647,388893,4,17.57227,14
+Do It Again - Live At Carnegie Hall/1961,Judy Garland,spotify:track:3GvZZtzLiaR6y5LDDqmATU,0.21,0.194,5,-21.766,1,0.0643,0.92,5.18e-06,0.519,0.176,89.091,378996,3,59.90855,18
+You Go To My Head - Live At Carnegie Hall/1961,Judy Garland,spotify:track:2SZhhuVo1qQ89sXBuUdG3Y,0.553,0.527,10,-11.741,1,0.128,0.514,0,0.679,0.665,131.713,156333,4,37.62264,9
+Alone Together - Live At Carnegie Hall/1961,Judy Garland,spotify:track:1wklGpzn3imtERdVytlZoK,0.215,0.212,0,-16.793,0,0.0866,0.818,2.09e-06,0.636,0.115,66.37,347733,4,33.99547,19
+Who Cares? (As Long As You Care For Me) - Live At Carnegie Hall/1961,Judy Garland,spotify:track:2lH82zdelHQOO2IO9zkVQl,0.445,0.65,10,-13.938,0,0.672,0.787,0,0.201,0.133,63.177,126627,4,96.09223,4
+Puttin' On The Ritz - Live At Carnegie Hall/1961,Judy Garland,spotify:track:0Ad2wuJtriPihe9PqCu8J8,0.458,0.693,9,-12.47,0,0.473,0.696,0,0.61,0.498,99.886,137509,4,110.27712,3
+How Long Has This Been Going On? - Live At Carnegie Hall/1961,Judy Garland,spotify:track:3xM7tsqIpOa1QNbko8divU,0.312,0.122,10,-20.196,0,0.0658,0.962,5.29e-05,0.73,0.215,85.993,247896,3,24.81847,9
+Just You, Just Me - Live At Carnegie Hall/1961,Judy Garland,spotify:track:2LIYG9DO70jOlnn7bUoeGC,0.385,0.487,7,-16.659,1,0.648,0.53,0,0.408,0.266,96.874,119000,4,87.94888,4
+The Man That Got Away - Live At Carnegie Hall/1961,Judy Garland,spotify:track:3wylx23g5Ndcn8fQou35OA,0.188,0.255,0,-13.791,1,0.0444,0.816,0,0.772,0.166,182.292,303133,3,41.68506,15
+San Francisco - Live At Carnegie Hall/1961,Judy Garland,spotify:track:1VbBuBkbFjilC9WpRG70PP,0.413,0.601,7,-12.339,1,0.496,0.8,0,0.404,0.353,137.661,283867,1,31.32781,12
+That's Entertainment! - Live At Carnegie Hall/1961,Judy Garland,spotify:track:6pSmWRdpeifrnnRjfHonvq,0.49,0.432,0,-15.782,1,0.891,0.783,0,0.675,0.353,142.825,409827,4,49.07944,17
+I Can't Give You Anything But Love - Live At Carnegie Hall/1961,Judy Garland,spotify:track:4aRmBvYuajSjcPXG1ZI3eY,0.209,0.0877,10,-22.194,1,0.0406,0.923,4.02e-05,0.287,0.0754,86.743,403907,3,47.66339,20
+Come Rain Or Come Shine - Live At Carnegie Hall/1961,Judy Garland,spotify:track:71LUcsJzqi0l8fuiF1djam,0.349,0.447,7,-16.634,1,0.484,0.829,0,0.709,0.262,79.335,465893,4,167.97367,14
+You're Nearer - Live At Carnegie Hall/1961,Judy Garland,spotify:track:6hGryAWXd2OgTUcMindbnQ,0.234,0.131,5,-19.633,1,0.059,0.974,4.39e-06,0.743,0.132,88.642,134307,4,63.47225,6
+A Foggy Day - Live At Carnegie Hall/1961,Judy Garland,spotify:track:1k0qZIOpNzQlTANdp8t0e3,0.318,0.2,10,-21.529,1,0.11,0.971,0,0.405,0.115,99.174,216200,4,43.36478,10
+If Love Were All - Live At Carnegie Hall/1961,Judy Garland,spotify:track:4bV8l24AWDUpVU4T9f5zDh,0.317,0.119,7,-17.098,1,0.054,0.948,1.06e-06,0.72,0.169,97.893,138360,3,27.88923,9
+Zing! Went The Strings Of My Heart - Live At Carnegie Hall/1961,Judy Garland,spotify:track:6ELxgQmI8bJBmzEFunNeD8,0.303,0.87,7,-12.276,1,0.355,0.455,0,0.431,0.274,153.837,244831,4,32.42218,12
+Stormy Weather - Live At Carnegie Hall/1961,Judy Garland,spotify:track:4R7yimZGpj51OS0hOVkJDU,0.245,0.15,7,-16.942,1,0.0426,0.856,0,0.85,0.153,91.358,370962,4,78.54298,11
+Medley: You Made Me Love You/For Me And My Gal/The Trolley Song - Live At Carnegie Hall/1961,Judy Garland,spotify:track:28npdNEZeSytd6ePRNac55,0.385,0.456,0,-11.795,1,0.0917,0.687,0,0.958,0.523,71.809,236400,4,20.38302,9
+Rock-A-Bye Your Baby With A Dixie Melody - Live At Carnegie Hall/1961,Judy Garland,spotify:track:68Nmtua90yLz6CWTAc24uO,0.176,0.427,7,-12.723,1,0.0573,0.646,0,0.946,0.292,73.496,327893,4,26.52103,14
+Over The Rainbow - Live At Carnegie Hall/1961,Judy Garland,spotify:track:5Ko87OlLUgSM9U8Jc4dKl0,0.137,0.124,8,-19.063,1,0.0377,0.875,0.000246,0.704,0.142,72.574,341867,4,41.36033,14
+Swanee - Live At Carnegie Hall/1961,Judy Garland,spotify:track:02xXeR7ZRf8rCqSbVPD8ak,0.252,0.615,7,-15.256,1,0.203,0.407,0.000136,0.908,0.229,143.805,456000,4,44.50568,18
+After You've Gone Medley - Live From Carnegie Hall/Remaster,Judy Garland,spotify:track:4kfD8fwY8mx3kbzF3nuPkl,0.294,0.335,7,-15.632,1,0.0409,0.403,0,0.736,0.41,86.102,270800,4,89.01525,10
+Chicago - Live At Carnegie Hall/1961,Judy Garland,spotify:track:0KEoHqAHCnUGT06q2jJ9bn,0.366,0.392,7,-13.184,1,0.0453,0.298,0,0.518,0.456,137.359,291667,4,63.20755,12
+Judy Garland Interviewed by Nikko van Fleet,na Not Applicable,spotify:track:3wpLJVpxPirWJ47EJ6ahgV,0.612,0.103,2,-23.019,1,0.918,0.98,0,0.377,0.552,87.908,171133,3,39.49286,7
+Male Dialogue,na Not Applicable,spotify:track:60NWHrKospI0OBKZkqzg7O,0.622,0.147,2,-21.7,1,0.859,0.946,0,0.331,0.755,169.219,35600,4
+Egyptian Tomb,Mighty Baby,spotify:track:0bTnjIERZRAozZXDwbO8Qg,0.365,0.697,0,-12.028,0,0.0373,0.0217,0.067,0.206,0.731,132.306,328600,4,45.30534,10
+A Friend You Know but Never See,Mighty Baby,spotify:track:0CQryO9MyLC1sDXizQ3yEJ,0.422,0.784,0,-13.802,1,0.0715,0.0102,0.251,0.266,0.378,141.212,267493,4,56.76678,10
+I've Been Down So Long That It Looks Like Up to Me,Mighty Baby,spotify:track:6raIv4GEH750Dyxa3JeItq,0.312,0.504,7,-13.991,1,0.0312,0.492,0.0176,0.0867,0.632,142.213,309040,3,17.97818,15
+Same Way from the Sun,Mighty Baby,spotify:track:7uRDN6jCX5Q9fCOM2V9Ckv,0.184,0.916,2,-13.855,1,0.0994,0.166,0.66,0.16,0.15,96.115,340427,4,59.92563,8
+House Without Windows,Mighty Baby,spotify:track:0pjnoDIxT234ZzElKdveul,0.224,0.664,2,-14.384,1,0.0523,0.000798,0.372,0.109,0.604,179.278,373173,4,83.20842,11
+Trials of a City,Mighty Baby,spotify:track:5ceUJ1mURZANzWIMGEHdo1,0.281,0.725,7,-13.627,1,0.0571,0.173,0.058,0.319,0.416,138.784,361333,4,30.06151,16
+I'm from the Country,Mighty Baby,spotify:track:7aiBRrTJq8ObM0dl47G8dI,0.217,0.556,8,-14.465,1,0.0364,0.0824,2.98e-05,0.0901,0.646,174.299,292827,3,22.98116,15
+At a Point Between Fate and Destiny,Mighty Baby,spotify:track:2ZKOFAKWGNjdVnZAETK6YB,0.2,0.236,8,-17.813,1,0.0332,0.0572,0.339,0.332,0.146,129.3,287267,3,35.4313,11
+Only Dreaming,The Action,spotify:track:3Y5bVwP0RJPpGjxpOh63NV,0.468,0.649,2,-15.229,1,0.0533,0.0831,0.319,0.0922,0.779,140.044,199640,4,30.1281,11
+Dustbin Full of Rubbish,The Action,spotify:track:5VcG1hqHYbboQMXNYeGxoL,0.5,0.767,7,-14.039,1,0.0357,0.0203,0.0563,0.103,0.646,138.023,170600,4,25.08994,8
+Understanding Love,The Action,spotify:track:4P7opmQhUevLWHITZXUGWx,0.601,0.766,2,-11.592,1,0.0328,0.118,0.0423,0.0895,0.736,135.826,233493,4,44.40552,9
+My Favourite Day,The Action,spotify:track:3uDJezC2i4Rf6nBLDEh8RR,0.185,0.191,2,-15.413,1,0.0338,0.66,0.549,0.112,0.129,94.551,237467,4,32.59852,12
+A Saying for Today,The Action,spotify:track:4Gw7H52I7tZQ714ZGK4Grf,0.255,0.558,5,-13.746,1,0.0555,0.169,0.0322,0.573,0.529,142.798,208640,4,42.13699,9
+Egyptian Tomb,Mighty Baby,spotify:track:7oKRl9duJtWAu50UtcBZAR,0.366,0.692,0,-12.03,0,0.0371,0.0231,0.0545,0.202,0.732,132.464,328600,4,45.3045,12
+A Friend You Know But Never See,Mighty Baby,spotify:track:6F04Tkieilclfp1PGtGedp,0.421,0.784,0,-13.803,1,0.0708,0.00993,0.24,0.26,0.381,141.215,267493,4,56.76817,10
+I've Been Down So Long That It Looks Like Up To Me,Mighty Baby,spotify:track:4WgdEUuHOdPMrcDBGvTMUE,0.31,0.503,7,-13.99,1,0.0315,0.482,0.0201,0.0867,0.633,142.229,309040,3,18.19527,14
+Same Way From The Sun,Mighty Baby,spotify:track:04UKv6dZKDuIBfaHXJPEDQ,0.171,0.918,2,-13.858,1,0.102,0.159,0.664,0.175,0.142,92.384,340427,4,57.88894,8
+House Without Windows,Mighty Baby,spotify:track:1HXAV4GCwXpcevHUjZ3B5a,0.223,0.664,2,-14.384,1,0.053,0.000804,0.37,0.107,0.612,179.581,373173,4,83.12382,12
+Trials Of A City,Mighty Baby,spotify:track:1UGt3tch67tL9AqiolBcCy,0.283,0.727,7,-13.627,1,0.0554,0.177,0.0547,0.322,0.41,138.849,361333,4,29.91487,16
+I'm From The Country,Mighty Baby,spotify:track:5wom59mCwRIYtkeU10h9Uk,0.218,0.557,8,-14.464,1,0.0362,0.0838,2.94e-05,0.0926,0.638,174.127,292827,3,24.87046,16
+At A Point Between Fate And Destiny,Mighty Baby,spotify:track:5oxEM2LLnf4I2KcvFOhX86,0.198,0.238,5,-17.814,0,0.035,0.0576,0.338,0.334,0.152,130.004,287267,3,35.43101,11
+Only Dreaming,The Action,spotify:track:2DjrHLSSq7x911d4PivOuH,0.468,0.652,2,-15.229,1,0.053,0.0848,0.32,0.0927,0.755,140.031,199640,4,30.12723,10
+My Very Own Angel,The Free Design,spotify:track:7IeMA3i6Agml1xwnl8TLrP,0.397,0.339,9,-11.388,1,0.0307,0.912,0.273,0.0887,0.325,112.62,184347,4,24.01837,9
+Now Is The Time,The Free Design,spotify:track:3CCavOI8sGwQqMRSHgNrOh,0.391,0.666,9,-6.493,1,0.0539,0.669,2e-05,0.274,0.718,160.874,136600,4,17.58444,9
+If I Were A Carpenter,The Free Design,spotify:track:6IxSoxjRmg9GoUME5fRvPp,0.526,0.267,0,-13.63,1,0.0257,0.91,0.00811,0.113,0.377,96.739,231147,4,43.85571,12
+You Be You And I'll Be Me,The Free Design,spotify:track:5VWEGu6xQUgtyGjCHTYyDy,0.503,0.435,9,-8.216,1,0.122,0.734,0,0.0927,0.737,153.524,162387,4,20.21366,10
+Girls Alone,The Free Design,spotify:track:5wZSpxwpt6Gb5yPN6Yddrr,0.27,0.343,5,-10.372,1,0.0282,0.863,0.0231,0.203,0.182,91.992,240973,4,29.6296,11
+2002 - A Hit Song,The Free Design,spotify:track:55Dj7XF3MQ1TkdIc4hVj8F,0.624,0.632,5,-7.877,0,0.0527,0.287,0,0.101,0.843,139.801,160493,4,30.83517,9
+Summertime,The Free Design,spotify:track:5DLpEFXCm2ORTa6kljdh34,0.465,0.596,7,-8.829,0,0.0395,0.0656,0.0213,0.391,0.699,107.447,223053,3,24.73167,9
+Where Do I Go,The Free Design,spotify:track:0SoD9K6sq50Vq3EF44QEdX,0.494,0.283,3,-9.481,1,0.0303,0.835,0,0.139,0.61,108.583,136853,4,32.32607,8
+Hurry Sundown,The Free Design,spotify:track:075Kq6sYIMJdPs4GTKWbtr,0.479,0.442,0,-9.419,1,0.0274,0.616,1.34e-05,0.0877,0.585,131.282,191800,4,57.0268,9
+Memories,The Free Design,spotify:track:6XEKZE6riSizz7by7RxfHp,0.183,0.271,0,-11.959,0,0.0366,0.92,0.14,0.109,0.321,172.862,222800,4,28.4084,10
+Dorian Benediction,The Free Design,spotify:track:63luLDnCeo0MYkwFVXvLUS,0.233,0.36,0,-12.279,1,0.0311,0.728,0.911,0.126,0.315,140.807,274693,4,22.06668,14
+Nature Boy - Bonus Track,Ellen Dedrick,spotify:track:3Pl8j8VBNFzBswJXsRpRYo,0.392,0.349,4,-8.978,0,0.0284,0.759,0.000767,0.0733,0.387,91.36,162787,4,30.06568,10
+Settlement Boy - Bonus Track,Ellen Dedrick,spotify:track:7eWuhiJRPUVLFH75XNw4by,0.251,0.382,11,-9.208,0,0.0341,0.745,0.000294,0.161,0.349,174.614,200733,4,41.08954,12
+You Could Be Born Again,The Free Design,spotify:track:6tE1loRx0m5trby076JesN,0.524,0.402,4,-9.208,1,0.0292,0.84,1.5e-06,0.0954,0.641,132.332,162520,4,27.20345,9
+A Leaf Has Veins,The Free Design,spotify:track:2GXVa0UZsXMX1MNtvV39tM,0.531,0.305,5,-12.976,1,0.0452,0.901,0.504,0.161,0.554,122.181,152600,4,29.69102,7
+California Dreamin',The Free Design,spotify:track:5r9sgBVZRtGpz17KnZib0V,0.496,0.666,2,-6.12,0,0.0336,0.255,0,0.063,0.693,139.288,147973,4,30.93919,6
+The Windows of the World,The Free Design,spotify:track:10okfCT2sDBFGgixpfdL22,0.486,0.219,3,-14.328,1,0.0351,0.949,0.0011,0.333,0.303,96.778,155400,4,58.39362,6
+Eleanor Rigby,The Free Design,spotify:track:6bxMgADWwXYBtFgiqfHtRY,0.554,0.253,4,-13.907,0,0.0322,0.889,0.0488,0.197,0.582,125.856,166693,4,28.8934,11
+Quartet No. 6 in D Minor,The Free Design,spotify:track:5gfuz20ZqpszP9OQWQF8xK,0.514,0.54,2,-10.857,1,0.0364,0.566,0,0.284,0.533,115.435,161707,3,72.63907,5
+I Like the Sunrise,The Free Design,spotify:track:0UtWVQ6ZoseHcdE2bwjR3z,0.163,0.314,1,-10.674,1,0.0339,0.886,0.00302,0.0911,0.143,74.062,218280,4,18.99602,13
+I Found Love,The Free Design,spotify:track:2XG9hmBocecB6rt0oPMzbe,0.673,0.375,10,-8.738,1,0.0306,0.843,1.54e-06,0.0748,0.685,107.519,164867,4,36.42941,9
+Daniel Dolphin,The Free Design,spotify:track:3NIyaAelcuGUiAcPoLrStv,0.53,0.333,6,-10.393,0,0.0261,0.58,0,0.0916,0.585,108.58,209733,4,18.22008,12
+Happy Together,The Free Design,spotify:track:53upj3q01FIuhPM8gtF1FH,0.708,0.445,4,-7.933,0,0.0327,0.753,0,0.113,0.661,124.553,176933,4,27.96774,10
+Ivy On A Windy Day,The Free Design,spotify:track:4oaq3Z95AgTrp2hdMzBEru,0.336,0.317,4,-13.846,1,0.0416,0.913,2.06e-05,0.102,0.349,129.22,161707,3,59.70726,7
+An Elegy,The Free Design,spotify:track:1NHOBFkljT255IWO5nG8V7,0.293,0.323,6,-12.125,1,0.0307,0.685,0.0028,0.163,0.117,149.916,205880,5,38.50548,8
+Close Your Mouth (It's Christmas) - Bonus Track,The Free Design,spotify:track:38MYxdhyLm1JhGaIxB9r5y,0.673,0.518,4,-7.489,0,0.0469,0.706,8.58e-06,0.282,0.78,114.448,127333,4,24.16561,7
+Christmas Is The Day - Bonus Track,The Free Design,spotify:track:1lJrLaAr1AwNztvcbQ4rn2,0.305,0.269,7,-11.395,1,0.0274,0.877,0.00169,0.0619,0.137,81.036,215680,4,50.40098,10
+Kites Are Fun,The Free Design,spotify:track:3kYaZC6fTVhA1JNlSviOqU,0.539,0.503,9,-9.407,1,0.0319,0.517,0.000389,0.125,0.608,139.514,162187,4,35.02626,11
+Make The Madness Stop,The Free Design,spotify:track:1eoOnpiLOgHzFowI3YrBRV,0.534,0.337,4,-9.159,1,0.0309,0.712,0,0.271,0.257,131.238,188133,4,30.85326,9
+When Love Is Young,The Free Design,spotify:track:31A4iLHpYV4n3VTVtlpmwP,0.197,0.217,0,-12.159,1,0.0318,0.851,0.000172,0.106,0.32,199.204,174053,4,26.80165,11
+The Proper Ornaments,The Free Design,spotify:track:1HMNgd3XwQZVlm1BPYdObX,0.559,0.495,9,-8.286,0,0.0266,0.635,0,0.0922,0.585,130.808,168627,3,19.14917,9
+My Brother Woody,The Free Design,spotify:track:6FIDfkJkCdJwjwsnKXPCO9,0.656,0.421,9,-12.169,1,0.0313,0.542,0.00191,0.0939,0.835,125.56,155160,4,30.96756,8
+59th Street Bridge Song - Feelin' Groovy,The Free Design,spotify:track:7pyveBf9YYGgCy4rPvU7oI,0.531,0.296,4,-10.48,1,0.0281,0.837,7.61e-05,0.148,0.636,95.543,172333,4,67.94218,6
+Don't Turn Away,The Free Design,spotify:track:3VXn53e6ZDByv7HZnfgkyA,0.413,0.222,7,-14.554,1,0.0306,0.819,0.486,0.119,0.123,98.547,238840,4,58.41223,11
+Umbrellas,The Free Design,spotify:track:63oIIZc89vSwS1YNsdzOae,0.587,0.446,4,-8.548,0,0.0284,0.604,3.5e-05,0.084,0.8,126.208,148067,4,58.22548,5
+Michelle,The Free Design,spotify:track:0KE8kg6AhoAkN71ZTbhCqq,0.425,0.274,10,-15.11,1,0.0331,0.736,0.0586,0.116,0.548,118.786,192573,4,40.78834,10
+Never Tell The World,The Free Design,spotify:track:2ALodmdidiGVCJ0qVuZmTf,0.364,0.457,2,-8.469,0,0.0284,0.75,0.00389,0.202,0.516,154.845,152000,4,27.03754,9
+A Man And A Woman,The Free Design,spotify:track:499GbujDtncl9JasioBwfv,0.466,0.239,4,-16.008,0,0.0347,0.767,0.00152,0.105,0.533,118.252,184080,4,24.62131,11
+Stay Another Season,The Free Design,spotify:track:58aEFuYDeicw7FN38eKV4Z,0.482,0.405,9,-8.817,0,0.0296,0.852,0.00025,0.123,0.423,132.758,276853,3,22.4419,16
+The Proper Ornaments - Bonus Track - Mono Version,The Free Design,spotify:track:2Bw9pgOLOYXKxrKWbBxovj,0.559,0.545,9,-7.881,0,0.0299,0.595,0,0.118,0.564,131.062,164827,3,19.08103,11
+Kites Are Fun - Bonus Track - Single Version,The Free Design,spotify:track:6hWxz2m7OI1SY1XQ6kIrwv,0.544,0.54,9,-8.09,1,0.0307,0.517,0.000764,0.12,0.604,139.606,161533,4,43.11073,10
+Chorale,The Free Design,spotify:track:6GZtes34M8iKiAn5Xd53jW,0.277,0.107,9,-19.888,1,0.0365,0.929,1.62e-06,0.112,0.15,126.742,76600,5,43.36431,4
+Kites Are Fun,The Free Design,spotify:track:5gtxcuwjfs43XLSRTbKIKZ,0.54,0.437,9,-11.811,1,0.0331,0.522,0.000298,0.114,0.61,139.434,163440,4,44.48059,10
+Bubbles,The Free Design,spotify:track:4UG0HKTDGMkBXl8LmFl9yy,0.548,0.555,2,-12.59,0,0.0693,0.702,0,0.0825,0.851,107.974,138440,4,49.33545,6
+I Found Love,The Free Design,spotify:track:0zHtsjY7kr7qOyaiIodIwy,0.684,0.256,10,-12.767,1,0.0309,0.807,0,0.0737,0.72,107.0,164707,4,36.69362,8
+My Brother Woody,The Free Design,spotify:track:4km8XfutztpG2r3MhGjED7,0.657,0.248,9,-19.668,1,0.0338,0.624,0.00885,0.0686,0.807,125.53,156520,4,32.24755,8
+Never Tell The World,The Free Design,spotify:track:2uxzpI6l8wCUXE1pQjyCa4,0.387,0.273,2,-16.017,0,0.0307,0.744,0.0126,0.196,0.547,76.164,151813,4,29.0814,8
+Love Me,The Free Design,spotify:track:7D5sowyPj3iRnRbCJ5AhVo,0.362,0.331,0,-13.299,1,0.0353,0.684,0.00591,0.113,0.387,82.977,199560,4,60.99391,9
+Love You,The Free Design,spotify:track:1EXJjENIAkevp1omvBqf8p,0.385,0.0584,7,-24.002,1,0.0493,0.984,0.0032,0.151,0.579,181.241,145733,3,39.57304,8
+I Wanna Be There,The Free Design,spotify:track:4694Mcx5qIzSTvlxI5GCoP,0.673,0.207,10,-14.994,1,0.0377,0.604,0,0.16,0.743,119.448,198733,4,74.03435,10
+Daniel Dolphin,The Free Design,spotify:track:4Ub8BIRdqdNrHtQ4LgNInj,0.529,0.218,7,-16.703,1,0.0288,0.541,0,0.0703,0.534,108.532,210987,4,19.96139,13
+Starlight,The Free Design,spotify:track:50WXu8CjoSE4YnOQ4qtUkQ,0.409,0.305,7,-17.201,1,0.029,0.528,0,0.136,0.463,102.116,177533,3,41.99993,8
+2002 A Hit Song,The Free Design,spotify:track:60s29x7yHetLm9F4y6qF6P,0.632,0.444,8,-14.225,1,0.055,0.313,0,0.0811,0.84,139.084,162200,4,38.52363,8
+Children's Waltz,The Free Design,spotify:track:5qwYk0Y1IGFrVBrf27Yf4V,0.178,0.0935,9,-22.695,0,0.0314,0.871,0.427,0.0834,0.101,83.548,259773,4,42.60137,13
+Butterflies Are Free,The Free Design,spotify:track:1lDQSzebhtwx8o3BBUTXsG,0.382,0.367,2,-11.405,1,0.0278,0.748,0.0361,0.089,0.403,80.031,215467,4,86.72946,8
+One By One,The Free Design,spotify:track:2BkIrTDOP9KX6DQudgEi70,0.449,0.278,2,-13.333,1,0.0336,0.781,0,0.0672,0.32,118.573,233027,4,25.57163,12
+You Are My Sunshine,The Free Design,spotify:track:3v5XVuBgIvCsfmlI8TuYrH,0.199,0.238,2,-14.069,1,0.0287,0.821,1.59e-05,0.075,0.169,89.643,318973,4,26.30125,17
+You Could Be Born Again,The Free Design,spotify:track:47CKkmgOvEOBr0PJDQSkZD,0.514,0.301,4,-13.338,1,0.0336,0.865,2.13e-05,0.0939,0.685,131.905,163733,4,26.34905,9
+Kije's Ouija,The Free Design,spotify:track:5leW2XUE5HD3X9vpXlCMnd,0.636,0.341,9,-13.711,1,0.0411,0.671,0,0.123,0.816,134.318,197027,4,21.57632,13
+Love Does Not Die,The Free Design,spotify:track:6KRDesMK6xlPwvyOb7O0po,0.195,0.0714,7,-22.343,1,0.0346,0.725,0.00278,0.092,0.0585,81.651,228933,3,54.91838,9
