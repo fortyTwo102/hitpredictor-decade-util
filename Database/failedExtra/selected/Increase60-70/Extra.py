@@ -131,7 +131,7 @@ for decade in decades:
 
 		#print(writer.writerow(header), file=log)
 
-		# print(",".join(header), file=fp2)
+		print(",".join(header), file=fp2)
 
 		for _ in range(count):
 			next(reader)

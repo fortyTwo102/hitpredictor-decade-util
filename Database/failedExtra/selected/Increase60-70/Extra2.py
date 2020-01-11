@@ -10,7 +10,7 @@ from datetime import datetime
 uniqueBucket = set() # To remove duplicate tracks all over playlists
 
 now = datetime.now() 
-filename = 'EvenExtra' + now.strftime("_%d_%m_%Y_%H_%M_%S") + '.txt'
+filename = 'EvenExtra2' + now.strftime("_%d_%m_%Y_%H_%M_%S") + '.txt'
 print("date and time =", filename)	
 log = open(filename,'w+')
 
@@ -110,7 +110,7 @@ def getSongFeatures(trackID):
 		
 	return data
 
-decades = ['60']#[,'70','80','90','00','10']
+decades = ['70']#[,'70','80','90','00','10']
 
 
 for decade in decades:
@@ -131,7 +131,7 @@ for decade in decades:
 
 		#print(writer.writerow(header), file=log)
 
-		# print(",".join(header), file=fp2)
+		print(",".join(header), file=fp2)
 
 		for _ in range(count):
 			next(reader)

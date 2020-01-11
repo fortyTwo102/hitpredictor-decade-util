@@ -1,0 +1,12 @@
+Fetching ['Mr. Bumble', 'Sunforest', 'spotify:track:5TJjLoQ5v0mGuYDlo3MxDL'] ....Fetched!
+['Mr. Bumble', 'Sunforest', 'spotify:track:5TJjLoQ5v0mGuYDlo3MxDL', 0.628, 0.141, 5, -17.166, 0, 0.0512, 0.993, 0.626, 0.11, 0.639, 122.944, 109467, 4, 27.81455, 6]
+Fetching ["That Kind of Livin'", 'Gram Parsons', 'spotify:track:5xhiZTx1xwcrhgJ7MdRleS'] ....Fetched!
+["That Kind of Livin'", 'Gram Parsons', 'spotify:track:5xhiZTx1xwcrhgJ7MdRleS', 0.459, 0.393, 2, -13.157, 1, 0.0648, 0.889, 0.275, 0.0959, 0.58, 165.697, 119520, 4, 28.63446, 9]
+Fetching ['Multiplication', 'Eric Gale', 'spotify:track:2tW4cVrTLbT181PjJZkwfk'] ....Fetched!
+['Multiplication', 'Eric Gale', 'spotify:track:2tW4cVrTLbT181PjJZkwfk', 0.686, 0.56, 1, -13.205, 1, 0.0285, 0.0648, 0.683, 0.0332, 0.764, 107.344, 319600, 4, 40.87484, 11]
+Fetching ['Cajun Baby', 'Living Voices', 'spotify:track:0u5XBxnvRSLpKb26jzDJaq'] ....Fetched!
+['Cajun Baby', 'Living Voices', 'spotify:track:0u5XBxnvRSLpKb26jzDJaq', 0.541, 0.718, 0, -5.546, 1, 0.0308, 0.226, 0, 0.164, 0.942, 138.293, 160653, 4, 18.52373, 8]
+Fetching ['Between the Lines', "Flamin' Groovies", 'spotify:track:4THASECp2TRAyMCDyfp4ac'] ....Fetched!
+['Between the Lines', "Flamin' Groovies", 'spotify:track:4THASECp2TRAyMCDyfp4ac', 0.347, 0.937, 9, -8.489, 1, 0.0983, 0.0109, 0.809, 0.614, 0.398, 140.453, 229200, 4, 53.99506, 10]
+Fetching ['Hot Sand', 'Shocking Blue', 'spotify:track:5tXD2O9wWPnWghbrWSltsD'] ....Fetched!
+['Hot Sand', 'Shocking Blue', 'spotify:track:5tXD2O9wWPnWghbrWSltsD', 0.54, 0.888, 9, -4.135, 0, 0.0764, 0.35, 0, 0.357, 0.721, 129.435, 156733, 4, 28.75586, 7]

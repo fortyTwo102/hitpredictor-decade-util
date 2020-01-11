@@ -1,0 +1,32 @@
+Fetching ['La La Means I Love You', "Booker T. & the M.G.'s", 'spotify:track:76WFEffyHE6b15sZDF6AcJ'] ....Fetched!
+['La La Means I Love You', "Booker T. & the M.G.'s", 'spotify:track:76WFEffyHE6b15sZDF6AcJ', 0.618, 0.184, 4, -15.145, 1, 0.0289, 0.637, 0.904, 0.145, 0.449, 99.644, 158400, 4, 43.2555, 8]
+Fetching ['Mr. Bumble', 'Sunforest', 'spotify:track:5TJjLoQ5v0mGuYDlo3MxDL'] ....Fetched!
+['Mr. Bumble', 'Sunforest', 'spotify:track:5TJjLoQ5v0mGuYDlo3MxDL', 0.628, 0.141, 5, -17.166, 0, 0.0512, 0.993, 0.626, 0.11, 0.639, 122.944, 109467, 4, 27.81455, 6]
+Fetching ['Sette contro tutti 32', 'Francesco De Masi', 'spotify:track:4ArNrsAk9kI7LDI6x6G0To'] ....Error in fetching spotify:track:4ArNrsAk9kI7LDI6x6G0To
+Fetched!
+['Sette contro tutti 32', 'Francesco De Masi', 'spotify:track:4ArNrsAk9kI7LDI6x6G0To', 0.408, 0.493, 10, -11.666, 1, 0.0369, 0.759, 0, 0.134, 0.953, 179.463, 38400, 4]
+Fetching ["She's Alright", 'Rainbow Ffolly', 'spotify:track:2U9cylzpQu6100RE6xnnK8'] ....Fetched!
+["She's Alright", 'Rainbow Ffolly', 'spotify:track:2U9cylzpQu6100RE6xnnK8', 0.306, 0.861, 2, -4.834, 1, 0.0939, 0.0246, 0.0516, 0.267, 0.614, 122.885, 159053, 4, 59.57211, 8]
+Fetching ['Tu en Mí', 'Los Brincos', 'spotify:track:7CSFQyTeGTLMy6evyjS6bK'] ....Fetched!
+['Tu en Mí', 'Los Brincos', 'spotify:track:7CSFQyTeGTLMy6evyjS6bK', 0.605, 0.852, 2, -6.852, 1, 0.0318, 0.331, 0, 0.0759, 0.893, 129.189, 114547, 4, 27.09634, 7]
+Fetching ['Ghetto Funk', 'Ike Turner & The Kings Of Rhythm', 'spotify:track:3rUPbKZIqMmGd6AMsA6Ri5'] ....Fetched!
+['Ghetto Funk', 'Ike Turner & The Kings Of Rhythm', 'spotify:track:3rUPbKZIqMmGd6AMsA6Ri5', 0.601, 0.585, 8, -9.097, 1, 0.0285, 0.406, 0.896, 0.107, 0.801, 109.92, 150693, 4, 46.439, 7]
+Fetching ["She's Coming Home", 'The Blues Magoos', 'spotify:track:2KuUB3XueS4F86tec7iDAA'] ....Fetched!
+["She's Coming Home", 'The Blues Magoos', 'spotify:track:2KuUB3XueS4F86tec7iDAA', 0.414, 0.675, 3, -9.334, 1, 0.042, 0.541, 0, 0.0785, 0.733, 125.723, 162400, 4, 24.64041, 9]
+Fetching ['Eleanor Rigby', "Booker T. & the M.G.'s", 'spotify:track:1bPb1xaBQSzv2GWDqeY3bI'] ....Fetched!
+['Eleanor Rigby', "Booker T. & the M.G.'s", 'spotify:track:1bPb1xaBQSzv2GWDqeY3bI', 0.577, 0.38, 1, -15.069, 1, 0.0302, 0.405, 0.785, 0.117, 0.553, 105.137, 221400, 4, 29.78657, 11]
+Fetching ['Cajun Baby', 'Living Voices', 'spotify:track:0u5XBxnvRSLpKb26jzDJaq'] ....Fetched!
+['Cajun Baby', 'Living Voices', 'spotify:track:0u5XBxnvRSLpKb26jzDJaq', 0.541, 0.718, 0, -5.546, 1, 0.0308, 0.226, 0, 0.164, 0.942, 138.293, 160653, 4, 18.52373, 8]
+Fetching ['Where Have All The Flowers Gone', 'Frankie Valli & The Four Seasons', 'spotify:track:03AE5jnFh4UYlsmd17K24O'] ....Fetched!
+['Where Have All The Flowers Gone', 'Frankie Valli & The Four Seasons', 'spotify:track:03AE5jnFh4UYlsmd17K24O', 0.671, 0.382, 11, -12.708, 0, 0.0437, 0.835, 0, 0.124, 0.621, 124.945, 238267, 4, 33.49188, 11]
+Fetching ['Un jour comme un autre', 'Anna Karina', 'spotify:track:2nrkDn9GuwJzt73g8l4Dzg'] ....Fetched!
+['Un jour comme un autre', 'Anna Karina', 'spotify:track:2nrkDn9GuwJzt73g8l4Dzg', 0.393, 0.332, 9, -9.932, 1, 0.0308, 0.682, 1.38e-06, 0.302, 0.31, 95.817, 73867, 4, 26.81577, 5]
+Fetching ['Had To Cry Today', 'Blind Faith', 'spotify:track:0iwSCBiqp5WQ6v75lzR31M'] ....Fetched!
+['Had To Cry Today', 'Blind Faith', 'spotify:track:0iwSCBiqp5WQ6v75lzR31M', 0.348, 0.603, 2, -13.631, 0, 0.0362, 0.0269, 0.00441, 0.158, 0.777, 161.335, 528733, 4, 25.82639, 17]
+Fetching ["Back Stabbin'", 'James Brown & The Famous Flames', 'spotify:track:3emexacXXsRhOjvvF1XdJU'] ....Fetched!
+["Back Stabbin'", 'James Brown & The Famous Flames', 'spotify:track:3emexacXXsRhOjvvF1XdJU', 0.698, 0.549, 0, -15.156, 1, 0.0421, 0.0272, 0.598, 0.111, 0.851, 136.279, 163667, 4, 56.20233, 8]
+Fetching ["(I Know) You Don't Love Me - Take 1", 'Ike Turner & The Kings Of Rhythm', 'spotify:track:3IXI5ZIzT6nFKF5Ca8M237'] ....Fetched!
+["(I Know) You Don't Love Me - Take 1", 'Ike Turner & The Kings Of Rhythm', 'spotify:track:3IXI5ZIzT6nFKF5Ca8M237', 0.573, 0.772, 5, -5.736, 1, 0.0435, 0.8, 0.00269, 0.14, 0.94, 129.535, 129770, 4, 34.35428, 7]
+Fetching ['This Is An Artistic Statement 1', 'The Beat Of The Earth', 'spotify:track:6MrjlEIjaKxXzt2iYJCMT4'] ....Error in fetching spotify:track:6MrjlEIjaKxXzt2iYJCMT4
+Fetched!
+['This Is An Artistic Statement 1', 'The Beat Of The Earth', 'spotify:track:6MrjlEIjaKxXzt2iYJCMT4', 0.268, 0.657, 2, -10.149, 1, 0.0456, 0.119, 0.0707, 0.137, 0.546, 118.077, 1259938, 4]
