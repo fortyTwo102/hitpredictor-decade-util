@@ -1,4 +1,4 @@
-Track	Artist	URI	danceability	energy	key	loudness	mode	speechiness	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature	chorusHit	sections
+Track	Artist	URI	danceability	energy	key	loudness	mode	speechiness	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature	chorusHit	sections	target
 Your Name	Heklaa	spotify:track:0y4Q0S7zMNLSjgwbf9doV3	0.557	0.362	9	-13.715	0	0.0476	0.962	0.881	0.0687	0.0362	156.015	491950	4	40.94628	21	0
 Something He Can Feel	Aretha Franklin	spotify:track:4IOtu2nO8Us3kPtEZmUr0k	0.613	0.393	0	-13.305	1	0.0442	0.224	0	0.45	0.64	107.72	381827	3	55.50911	13	1
 The Family Of Man	Three Dog Night	spotify:track:55d46tOy9MQSrU482RtCBh	0.5	0.753	0	-11.841	1	0.0302	0.0232	0.454	0.404	0.964	115.567	188573	4	26.45636	10	1

@@ -10,7 +10,7 @@ for decade in decades:
 
 	tracks = set()
 
-	file = open('dataset-of-' + decade + 's.txt', 'w', encoding = 'latin-1')
+	file = open('dataset-of-' + decade + 's.txt', 'w', encoding = 'utf-8')
 
 	billboard = 'billboard' + decade + 'FeaturesDatabase.csv'
 	flop = 'failed' + decade + 'FeaturesDatabase.csv'
@@ -18,7 +18,7 @@ for decade in decades:
 	# billdataset = open('billdataset', 'w', encoding = 'latin-1')
 	# flopdataset = open('flopdataset', 'w', encoding = 'latin-1')
 
-	with open(billboard, encoding = 'latin-1') as fp1, open(flop, encoding = 'latin-1') as fp2:
+	with open(billboard, encoding = 'utf-8') as fp1, open(flop, encoding = 'utf-8') as fp2:
 
 		reader1 = csv.reader(fp1)
 		reader2 = csv.reader(fp2)
@@ -49,7 +49,7 @@ for decade in decades:
 
 		header = ['Track','Artist','URI','danceability','energy','key',\
 		'loudness','mode','speechiness','acousticness','instrumentalness',\
-		'liveness','valence','tempo','duration_ms','time_signature','chorusHit','sections']
+		'liveness','valence','tempo','duration_ms','time_signature','chorusHit','sections','target']
 
 		print("\t".join(header), file=file)			
 

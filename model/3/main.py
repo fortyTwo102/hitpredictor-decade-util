@@ -85,11 +85,15 @@ for decade in decades:
 
 	logger(details)
 
+
+
 	#visualize(list(details["Feature Importance"]))
 	header = ['danceability','energy','key',\
 		'loudness','mode','speechiness','acousticness','instrumentalness',\
 		'liveness','valence','tempo','duration_ms','time_signature','chorusHit','sections']
-	plot_importance(model, ylabel = header)
+
+	model.get_booster().feature_names = header	
+	plot_importance(model.get_booster())#.set_yticklabels(header)
 	plt.show()
 
 	

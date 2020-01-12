@@ -1,4 +1,4 @@
-Track	Artist	URI	danceability	energy	key	loudness	mode	speechiness	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature	chorusHit	sections
+﻿Track	Artist	URI	danceability	energy	key	loudness	mode	speechiness	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature	chorusHit	sections	target
 Ride	twenty one pilots	spotify:track:2Z8WuEywRWYTKe1NybPQEW	0.645	0.713	6	-5.355	1	0.0393	0.00835	0	0.113	0.566	74.989	214507	4	40.27521	11	1
 Never Knew Love Like This	Alexander O'Neal	spotify:track:0PzZtgLBw9nr6JdAC1QzdA	0.75	0.688	5	-8.061	1	0.0387	0.3	0	0.0425	0.749	104.11	308933	4	54.16426	13	0
 Med Enormt HÃÂÃÂÃÂÃÂ¥p	Spurv	spotify:track:5HKLeQukkgIrtmEsQi6mME	0.251	0.839	4	-6.116	0	0.0499	4.58e-05	0.941	0.374	0.131	83.926	465547	4	58.65168	17	0

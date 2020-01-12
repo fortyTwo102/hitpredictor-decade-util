@@ -1,4 +1,4 @@
-Track	Artist	URI	danceability	energy	key	loudness	mode	speechiness	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature	chorusHit	sections
+﻿Track	Artist	URI	danceability	energy	key	loudness	mode	speechiness	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature	chorusHit	sections	target
 Gangsta	Bell Biv DeVoe	spotify:track:1XgiaKAh3lzjaABhHUB0IX	0.724	0.778	1	-8.924	1	0.0618	0.00151	0.112	0.387	0.768	112.518	269067	4	22.44643	10	1
 Do You Want to Know a Secret?	Billy J. Kramer	spotify:track:5CgLuHE3B4mKTI2yIDXaXR	0.533	0.538	4	-9.829	1	0.0312	0.763	0	0.394	0.741	137.495	123667	4	43.34693	7	0
 Invision	Chris & Cosey	spotify:track:26xEA4zi7HNwPtR9wY3TO2	0.516	0.259	5	-22.183	1	0.0322	0.651	0.86	0.113	0.416	103.97	430160	4	24.94465	22	0

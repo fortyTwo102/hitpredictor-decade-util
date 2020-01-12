@@ -1,4 +1,4 @@
-Track	Artist	URI	danceability	energy	key	loudness	mode	speechiness	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature	chorusHit	sections
+﻿Track	Artist	URI	danceability	energy	key	loudness	mode	speechiness	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature	chorusHit	sections	target
 Lost My Way	Saturnus	spotify:track:1M7TAIdWoWPfvNGTIOfFLs	0.526	0.548	6	-9.204	0	0.0319	7.81e-05	0.669	0.111	0.101	118.086	288333	4	42.86931	10	0
 Mirror Mirror	M2M	spotify:track:2gX1J5hbHs1V7gkHsNglTv	0.696	0.685	1	-5.53	0	0.0246	0.218	0	0.0988	0.507	100.088	200427	4	29.94986	8	1
 Dialectic Chaos	Megadeth	spotify:track:2Sl9U6mLbNeaE9lT9C32Td	0.16	0.982	0	-2.715	1	0.0761	2.8e-06	0.847	0.0996	0.216	83.458	145813	4	46.47801	5	0

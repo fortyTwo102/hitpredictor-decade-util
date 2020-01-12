@@ -1,4 +1,4 @@
-Track	Artist	URI	danceability	energy	key	loudness	mode	speechiness	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature	chorusHit	sections
+Track	Artist	URI	danceability	energy	key	loudness	mode	speechiness	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature	chorusHit	sections	target
 The Last In Line	Dio	spotify:track:1V0p6CzMVJPtAPpJPA2O6d	0.44	0.68	9	-12.169	0	0.0485	0.000804	0.397	0.0844	0.611	86.935	340360	4	31.38154	9	0
 Another One Bites The Dust	Queen	spotify:track:6bGfLXep8L61VFcIHDCRb0	0.933	0.463	5	-9.338	0	0.152	0.0938	0.28	0.121	0.765	109.886	218200	4	38.12491	11	0
 Is It All Over My Face? - Female Version	Loose Joints	spotify:track:2Qh9MsIYs02rHeG12watCV	0.715	0.677	6	-7.828	0	0.134	0.00435	0.444	0.0811	0.822	120.104	428000	4	21.018	15	0

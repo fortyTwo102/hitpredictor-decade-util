@@ -1,0 +1,22 @@
+Decade  =  60s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Feature Importance  =  [0.06478292, 0.03703236, 0.045585833, 0.025388446, 0.07960366, 0.058176037, 0.07331279, 0.2919075, 0.029750194, 0.048470464, 0.024607968, 0.12940073, 0.03986339, 0.024291283, 0.027826466]
+
+
+Accuracy  =  72.07
+
+
+____________________________________________________________________________________________________
+
+
+
