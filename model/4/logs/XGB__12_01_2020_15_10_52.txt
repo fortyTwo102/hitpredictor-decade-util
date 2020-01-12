@@ -1,0 +1,132 @@
+Decade  =  60s
+
+
+Model  =  RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+                       max_depth=None, max_features='auto', max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=10,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)
+
+
+Feature Importance  =  [0.07776407493585781, 0.07756858193522476, 0.03761774398735353, 0.06858263142830112, 0.01133037150951214, 0.076777160151861, 0.08106824947114459, 0.11509329969115871, 0.06499396103723099, 0.08552184725723282, 0.07100710083680209, 0.12109864086274355, 0.009091838749827308, 0.06101785373214983, 0.041466644413599804]
+
+
+Accuracy  =  70.43
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  70s
+
+
+Model  =  RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+                       max_depth=None, max_features='auto', max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=10,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)
+
+
+Feature Importance  =  [0.11485328121973035, 0.05531637372243855, 0.040091714160670255, 0.06562871743863033, 0.010525335886331423, 0.07102414781351339, 0.08756827667438652, 0.16432199824925542, 0.06308836845315882, 0.06696530562063506, 0.06487729709209518, 0.08479881933508568, 0.0055346628915464505, 0.06460506344886291, 0.04080063799365964]
+
+
+Accuracy  =  68.74
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  80s
+
+
+Model  =  RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+                       max_depth=None, max_features='auto', max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=10,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)
+
+
+Feature Importance  =  [0.09028425408143564, 0.05760979940880336, 0.03287765048893464, 0.06849883755197306, 0.007809120765851321, 0.08631972916470709, 0.08873016560481266, 0.16602265863366403, 0.058618670744564665, 0.060033758567599425, 0.060343693373440206, 0.1171939222982467, 0.002686091828765833, 0.0587615792954334, 0.04421006819176813]
+
+
+Accuracy  =  70.62
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  90s
+
+
+Model  =  RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+                       max_depth=None, max_features='auto', max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=10,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)
+
+
+Feature Importance  =  [0.13564566640297743, 0.04942819982416849, 0.02354745709531984, 0.07396538436968608, 0.00540012900813534, 0.05975433260558113, 0.08903416021214063, 0.10033788497946051, 0.04893846413783028, 0.06317489771968149, 0.04562105535921285, 0.20945780821223903, 0.003704631633498164, 0.036483820024102116, 0.055506108415966426]
+
+
+Accuracy  =  80.65
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  00s
+
+
+Model  =  RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+                       max_depth=None, max_features='auto', max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=10,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)
+
+
+Feature Importance  =  [0.14273256397000939, 0.07187087521116726, 0.024177880725363143, 0.06580555514134809, 0.004999485131009451, 0.05542107140653657, 0.11807936762433413, 0.2010548123807381, 0.042293895070953116, 0.06667814978844595, 0.04119291263290627, 0.0968321550862441, 0.002299164759820058, 0.04364370715622695, 0.02291840391489725]
+
+
+Accuracy  =  83.99
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  10s
+
+
+Model  =  RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+                       max_depth=None, max_features='auto', max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=10,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)
+
+
+Feature Importance  =  [0.16103041073398494, 0.06872485985017618, 0.01473384471104009, 0.06516041527017459, 0.0033605771587028057, 0.03692132033614202, 0.12369419419099538, 0.20307139518172515, 0.027440511617895656, 0.09103239154762777, 0.02531458587671684, 0.13022578686320677, 0.0021009249017781223, 0.02823631993978432, 0.018952461820049192]
+
+
+Accuracy  =  87.44
+
+
+____________________________________________________________________________________________________
+
+
+

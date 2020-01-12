@@ -7,6 +7,7 @@ from xgboost import plot_importance
 from sklearn import metrics, preprocessing 
 from sklearn.neural_network import MLPClassifier
 from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
 # import skflow
 from datetime import datetime
 import matplotlib.pyplot as plt
@@ -63,10 +64,10 @@ for decade in decades:
 
 
 	# model = skflow.TensorFlowDNNClassifier(hidden_units = [10,20,10], n_classes=3)
-	model = XGBClassifier() # MLPClassifier(solver='lbfgs',alpha=1e-1,hidden_layer_sizes=(10,2), random_state=1)
+	model = MLPClassifier(hidden_layer_sizes = (10,5), max_iter = 1000) # MLPClassifier(solver='lbfgs',alpha=1e-1,hidden_layer_sizes=(10,2), random_state=1)
 	details["Decade"] = decade + "s"
 	details["Model"] = model.fit(X_train, y_train)
-	details["Feature Importance"] = list(model.feature_importances_)
+	# details["Feature Importance"] = list(model.feature_importances_)
 	
 	try:	
 		details["Co-Efficient"] = model.coef_
@@ -86,11 +87,12 @@ for decade in decades:
 	logger(details)
 
 	#visualize(list(details["Feature Importance"]))
+
 	header = ['danceability','energy','key',\
 		'loudness','mode','speechiness','acousticness','instrumentalness',\
 		'liveness','valence','tempo','duration_ms','time_signature','chorusHit','sections']
-	plot_importance(model, ylabel = header)
-	plt.show()
+	#plot_importance(model, ylabel = header)
+	#plt.show()
 
 	
 log.close()
