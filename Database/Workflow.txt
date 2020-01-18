@@ -17,3 +17,28 @@
 16. Made a script to fetch all the albums of the decade that they're in. (track-artist-uri)
 17. Fetched the chosen songs among the list.
 18. New and Improved dataset.
+
+
+after the EPIPHANY to actually got and read the damned Spotify API search Documentations (Im a dumbfuck)
+
+1. I'll have to find out the genres that I can put in the query. For that I'll make a script
+that lists all the unique genres of a particular decade from the failed songs list.
+
+2. In my script to fetch all the albums within a decade range + hipster + unique genre, the output will be
+just the album IDs.
+
+3. I'll sanitize it by excluding all the albums by an artist that has ever appeared on a billboard song.
+The output will be a smaller list of album IDs.
+
+4. A script will fetch all the tracks of the those albums.
+
+5. Now, the fetching script will be modified. I'll download all of the features.
+
+6. I'll choose between the features to make the dataset that I need for the models.
+
+
+If it was easy, anyone would do it.
+
+
+
+
