@@ -90,6 +90,7 @@ for decade in decades:
 	common_dict = sorted(common_dict.items(), key = lambda x: x[1])
 
 	onlyflops = all_flops - common
+	onlyhits = all_hits - common
 
 	onlyflops_dict = {}
 
@@ -101,14 +102,26 @@ for decade in decades:
 
 	##pprint(common_dict)
 
-	pprint(onlyflops_dict)
+	#pprint(onlyflops_dict)
 		
 	print("\n\n\n\n")	
 
+	dic = pickle.load(open("genres-dict.p", "rb"))
+
+	dic_set = set()
+
+	for each in dic[decade]:
+
+		for every in each:
+
+			dic_set.add(every)
+
+	## print(onlyhits.intersection(dic_set))		
 
 
 
 log.close()
+
 
 
 

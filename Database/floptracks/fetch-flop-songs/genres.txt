@@ -21,6 +21,7 @@
 
 70s--------------------------------------------------
 
+ 'avant-garde'
  ('metalcore', 1),
  ('uk post-punk', 12),
  ('spiritual jazz', 11),
@@ -45,6 +46,7 @@
 
 80s--------------------------------------------------
 
+ 'avant-garde'
  ('indie psychedelic rock', 384),
  ('industrial', 23),
  ('groove metal', 19)
@@ -73,7 +75,7 @@
 
 90s--------------------------------------------------
 
- ('roots worship', 380),
+ ('avant-garde', 380),
  ('math rock', 33),
  ('noise rock', 31),
  ('no wave', 24),
@@ -100,6 +102,7 @@
 
 00s--------------------------------------------------
  
+  'avant-garde'
  ('british experimental', 554),
  ('melodic death metal', 64),
  ('melodic metalcore', 51),
@@ -137,7 +140,8 @@
 
 
 10s-------------------------------------------------
-
+	
+  'avant-garde'
  ('poetry', 530),
  ('metalcore', 73),
  ('melodic metalcore', 56),
