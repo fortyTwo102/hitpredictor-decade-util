@@ -88,7 +88,20 @@ for decade in decades:
 
 
 	common_dict = sorted(common_dict.items(), key = lambda x: x[1])
-	pprint(common_dict)
+
+	onlyflops = all_flops - common
+
+	onlyflops_dict = {}
+
+	for each in onlyflops:
+
+		onlyflops_dict[each] = flop_genres[each]
+
+	onlyflops_dict = sorted(onlyflops_dict.items(), key = lambda x: x[1], reverse = True)	
+
+	##pprint(common_dict)
+
+	pprint(onlyflops_dict)
 		
 	print("\n\n\n\n")	
 
