@@ -17,25 +17,26 @@ filename = 'logs//' + __file__ + now.strftime("_%d_%m_%Y_%H_%M_%S") + '.txt'
 print("date and time =", filename)	
 log = open(filename,'w')
 
-def getArtist(artistName):
+def getSongsByGenreAndDecade(genre, decade, off):
 
 	client_credentials_manager = SpotifyClientCredentials(client_id='87b136708f154032b21b7f3e618867a2',client_secret='e114dac3aeb94e83b68e601209af778b')
 	sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
-	
-	artists = sp.search(q='artist:' + artistName,type='artist',limit=10)
 
-	for artist in artists['artists']['items']:
 
-		if artistName.lower() in artist['name'].lower():
+	year = '19' + decade + '-' + '19' + str(int(decade) + 9)
 
-			return artist
+	print(year, genre, type(year))	
+
+	tracks = sp.search(q="genre:" + genre + " year:" + year, type = 'track', limit = 50, offset = 50*off, market = 'US')
+
+	pprint(tracks)
 
 decades = ['60','70','80','90','00','10']
 
 genres = {
 	
 	'60':[	
-			'avant-garde', 
+			"avant-garde", 
 			'experimental',
 			'experimental rock',
 			'post-punk',
@@ -225,31 +226,15 @@ for decade in decades:
 
 	count = 0
 
-	data  = []
+	for genre in genres[decade]:
 
-	filename = 'list-flop-and-hit-artists//flop-hit-artists-' + decade + '.csv'
-	artist_obj_db = 'flop-artist-objects-' + decade +  '.p'
+		getSongsByGenreAndDecade(genre, decade, 0)
 
-	with open(filename, encoding='latin-1') as fp1:
+		break
 
-		reader = csv.reader(fp1)
-
-		#print(writer.writerow(header), file=log)
-
-
-		for row in reader:
-			
-			artist = row[0]
-
-			artist_obj = getArtist(artist)
-
-			data.append(artist_obj)
-
-			pickle.dump(data, open(artist_obj_db,'wb'))
-
-			count += 1
-
-			print(count)
+	break
+	
+	
 
 					
 log.close()
