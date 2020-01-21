@@ -102,7 +102,7 @@ for decade in decades:
 
 	##pprint(common_dict)
 
-	#pprint(onlyflops_dict)
+	pprint(onlyflops)
 		
 	print("\n\n\n\n")	
 
