@@ -1,5 +1,7 @@
 import pickle
 
+from pprint import pprint
+
 genres = {
 	
 	'60':[	
@@ -187,4 +189,4 @@ genres = {
 
 }
 
-pickle.dump(genres, open("genres-dict.p", "wb"))
+pprint(pickle.load(open("genre+year+database.p", "rb")))

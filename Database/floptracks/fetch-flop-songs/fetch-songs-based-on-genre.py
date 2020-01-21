@@ -23,13 +23,12 @@ def getSongsByGenreAndDecade(genre, decade, off):
 	sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 
-	year = '19' + decade + '-' + '19' + str(int(decade) + 9)
-
-	print(year, genre, type(year))	
+	year = '19' + decade + '-' + '19' + str(int(decade) + 9)	
 
 	tracks = sp.search(q="genre:" + genre + " year:" + year, type = 'track', limit = 50, offset = 50*off, market = 'US')
 
-	pprint(tracks)
+	return tracks
+	
 
 decades = ['60','70','80','90','00','10']
 
@@ -58,7 +57,7 @@ genres = {
 		],
 
 	'70':[	
-			'avant-garde'
+			'avant-garde',
 			'metalcore',
 			'uk post-punk',
 			'spiritual jazz',
@@ -222,18 +221,57 @@ genres = {
 
 pickle.dump(genres, open("genres-dict.p", "wb"))
 
-for decade in decades:
+database = {
 
-	count = 0
+	"60": {},
+	"70": {},
+	"80": {},
+	"90": {},
+	"00": {},
+	"10": {},
 
-	for genre in genres[decade]:
+}
 
-		getSongsByGenreAndDecade(genre, decade, 0)
+try:
 
-		break
+	for keys in database:
 
-	break
+		for genre in genres[keys]:
+
+			database[keys][genre] = []
 	
+
+	for decade in decades:
+
+		count = 0
+
+		limit = 5000
+
+		for i in range(1000):
+
+			for genre in genres[decade]:
+
+				if count > limit:
+					break
+
+				print("offset: ",i, "genre: ", genre)
+
+				database[decade][genre].append(getSongsByGenreAndDecade(genre, decade, i))
+				pickle.dump(database, open("genre+year+database.p", "wb"))
+
+				count = count + 50
+
+			if count > limit:
+				break
+
+		print(decade, "s are done!----------------------------------------------------------------------------------------------")
+
+
+except:
+
+	print("Uh oh, something happened.")
+	pickle.dump(database, open("genre+year+database.p", "wb"))		
+
 	
 
 					
