@@ -22,22 +22,26 @@
 after the EPIPHANY to actually got and read the damned Spotify API search Documentations (Im a dumbfuck)
 
 1. I'll have to find out the genres that I can put in the query. For that I'll make a script
-that lists all the unique genres of a particular decade from the failed songs list.
+that lists all the unique genres of a particular decade from the failed songs list. DONE
 
-2. In my script to fetch all the albums within a decade range + hipster + unique genre, the output will be
-just the album IDs.
+2. In my script to fetch all the tracks within a decade range + unique genre, the output will be
+just the track IDs. DONE
 
-3. I'll sanitize it by excluding all the albums by an artist that has ever appeared on a billboard song.
-The output will be a smaller list of album IDs.
+3. I'll sanitize it by excluding all the tracks by an artist that has ever appeared on a billboard song.
+The output will be a smaller list of tracks IDs. DONE
 
-4. A script will fetch all the tracks of the those albums.
+4. A script will fetch all the tracks of the those albums. DONE
 
-5. Now, the fetching script will be modified. I'll download all of the features.
+5. Now, the fetching script will be modified. I'll download all of the features. Saved using pickle. DONE
 
-6. I'll choose between the features to make the dataset that I need for the models.
+6. I'll choose between the features to make the dataset that I need for the models. DONE
 
+7. Upload the final dataset on Kaggle, reddit and places.
 
 If it was easy, anyone would do it.
+
+
+
 
 
 
