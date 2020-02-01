@@ -4,7 +4,7 @@ decades = ['60', '70', '80', '90', '00', '10']
 
 for decade in decades:
 
-	filename = decade + 's.txt'
+	filename =  'dataset-of-' + decade + 's.txt'
 	
 	data = np.loadtxt(filename, delimiter='\t')
 	X, y = data[:, :-1], data[:, -1]
