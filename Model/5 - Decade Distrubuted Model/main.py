@@ -14,19 +14,15 @@ import matplotlib.pyplot as plt
 # import tensorflow.compat.v1 as tf
 # tf.disable_v2_behavior()
 
-now = datetime.now() 
-filename = 'logs/XGB_' + now.strftime("_%d_%m_%Y_%H_%M_%S") + '.txt'
-log = open(filename,'w+')
 
-
-def logger(details):
+'''def logger(details):
 
 	for key in details:
 		print(key," = ",details[key], file=log)
 		print("\n", file=log)
 
 
-	print("_"*100 + '\n\n\n', file=log)	
+	print("_"*100 + '\n\n\n', file=log)	'''
 
 def visualize(data):
 
@@ -84,7 +80,7 @@ for decade in decades:
 
 	details["Accuracy"] = accuracy
 
-	logger(details)
+	# logger(details)
 
 	#visualize(list(details["Feature Importance"]))
 
@@ -94,5 +90,3 @@ for decade in decades:
 	#plot_importance(model, ylabel = header)
 	#plt.show()
 
-	
-log.close()

@@ -1,0 +1,114 @@
+Decade  =  60s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Accuracy  =  76.43
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  70s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Accuracy  =  76.67
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  80s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Accuracy  =  80.11
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  90s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Accuracy  =  85.22
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  00s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Accuracy  =  84.78
+
+
+____________________________________________________________________________________________________
+
+
+
+Decade  =  10s
+
+
+Model  =  XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, gamma=0,
+              learning_rate=0.1, max_delta_step=0, max_depth=3,
+              min_child_weight=1, missing=None, n_estimators=100, n_jobs=1,
+              nthread=None, objective='binary:logistic', random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+              silent=None, subsample=1, verbosity=1)
+
+
+Accuracy  =  83.17
+
+
+____________________________________________________________________________________________________
+
+
+

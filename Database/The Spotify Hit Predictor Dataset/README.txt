@@ -1,10 +1,28 @@
-1. Attributes:
+Context:
+	
+	
+
+
+
+
+Acknowledgement:
+	
+	- "spotipy": Python module for Spotify's API (https://pypi.org/project/spotipy/)
+
+	- "billboard": Python module for Billboard's API (https://pypi.org/project/billboard.py/)
+
+	- Spotify, the company itself. For keeping a database of such in-depth details of every track in their library. And for exposing their API for the world to use.
+
+
+Attributes:
+
+	For further reading: https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/
 
 	- track: The Name of the track.
 
 	- artist: The Name of the Artist.
 
-	- uri: The resource identifier that you can enter, for example, in the Spotify Desktop client’s search box to locate an artist, album, or track. To find a Spotify URI simply right-click (on Windows) or Ctrl-Click (on a Mac) on the artist’s or album’s or track’s name.
+	- uri: The resource identifier for the track.
 
 	- danceability: Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable. 
 
@@ -37,8 +55,8 @@
 	- sections: The number of sections the particular track has. This feature was extracted from the data recieved by the API call for Audio Analysis of that particular track.
 	
 	- target: The target variable for the track. It can be either '0' or '1'. '1' implies that this song has featured in the weekly list (Issued by Billboards) of Hot-100 tracks in that decade at least once and is therefore a 'hit'. '0' Implies that the track is a 'flop'.
-		  
-		  The author's condition of a track being flop is as follows:
+		
+		  The author's condition of a track being 'flop' is as follows:
 
 			- The track must not appear in the 'hit' list of that decade.
 			- The track's artist must not appear in the 'hit' list of that decade.
