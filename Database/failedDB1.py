@@ -17,7 +17,7 @@ log = open(filename,'w+')
 
 def getSongURI(trackName,artistName):
 
-	client_credentials_manager = SpotifyClientCredentials(client_id='ad3b6e58606c4b1d91832ecd0c160557',client_secret='e3f68c9f1c2b42e5a48a1d61e10fa0ab')
+	client_credentials_manager = SpotifyClientCredentials(client_id=MY_ID,client_secret=MY_KEY)
 	sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 	
 
