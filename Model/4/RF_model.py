@@ -62,7 +62,7 @@ for decade in decades:
 
 
 	# model = skflow.TensorFlowDNNClassifier(hidden_units = [10,20,10], n_classes=3)
-	model = MLPClassifier(hidden_layer_sizes = (10,5), max_iter = 1000) # MLPClassifier(solver='lbfgs',alpha=1e-1,hidden_layer_sizes=(10,2), random_state=1)
+	model = RandomForestClassifier() #MLPClassifier(hidden_layer_sizes = (10,5), max_iter = 1000) # MLPClassifier(solver='lbfgs',alpha=1e-1,hidden_layer_sizes=(10,2), random_state=1)
 	details["Decade"] = decade + "s"
 	details["Model"] = model.fit(X_train, y_train)
 	# details["Feature Importance"] = list(model.feature_importances_)
@@ -79,16 +79,11 @@ for decade in decades:
 	# predictions = [round(value) for value in y_pred]
 
 	accuracy = round(100*float(metrics.accuracy_score(y_test, y_pred)),2)
-	# print(decade + "s Accuracy: ", accuracy)
-
-	details["Accuracy"] = accuracy
-
-
-
-	y_pred = model.predict(X_train)
-	accuracy = round(100*float(metrics.accuracy_score(y_train, y_pred)),2)
 	print(decade + "s Accuracy: ", accuracy)
 
+
+
+	details["Accuracy"] = accuracy
 
 	logger(details)
 
@@ -103,11 +98,11 @@ for decade in decades:
 	
 ## Results ##
 
-# MLPClassifier + StandardScaler
+# RandomeForestClassifier + StandardScaler
 
-# 60s Accuracy:  70.33
-# 70s Accuracy:  70.05
-# 80s Accuracy:  72.97
-# 90s Accuracy:  82.77
-# 00s Accuracy:  83.17
-# 10s Accuracy:  88.56
+# 60s Accuracy:  74.9
+# 70s Accuracy:  72.15
+# 80s Accuracy:  75.1
+# 90s Accuracy:  81.85
+# 00s Accuracy:  85.06
+# 10s Accuracy:  89.31

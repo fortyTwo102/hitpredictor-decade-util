@@ -39,18 +39,16 @@ for decade in decades:
 	# print("Shape of X", X.shape)
 	# print("Shape of y", y.shape)
 
-	X = preprocessing.scale(X)
-
-	# X = featureNorm(X)
-
-
 	X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=1/3, random_state=5)
+
+	scaler = preprocessing.StandardScaler()
+	X_train = scaler.fit_transform(X_train)
+	X_test = scaler.transform(X_test)
 
 
 	# model = skflow.TensorFlowDNNClassifier(hidden_units = [10,20,10], n_classes=3)
 	model = XGBClassifier() # MLPClassifier(solver='lbfgs',alpha=1e-1,hidden_layer_sizes=(10,2), random_state=1)
-	details["Decade"] = decade + "s"
-	details["Model"] = model.fit(X_train, y_train)
+	model.fit(X_train, y_train)
 	# details["Feature Importance"] = model.feature_importances_
 	
 	try:	
@@ -66,9 +64,19 @@ for decade in decades:
 	accuracy = round(100*float(metrics.accuracy_score(y_test, y_pred)),2)
 	print(decade + "s Accuracy: ", accuracy)
 
-	details["Accuracy"] = accuracy
+	
+## Results ##
 
-	logger(details)
+# XGBOOST + StandardScaler
+
+# 60s Accuracy:  77.09
+# 70s Accuracy:  76.0
+# 80s Accuracy:  73.73
+# 90s Accuracy:  81.07
+# 00s Accuracy:  83.27
+# 10s Accuracy:  88.53
+
+
+
 
 	
-log.close()
